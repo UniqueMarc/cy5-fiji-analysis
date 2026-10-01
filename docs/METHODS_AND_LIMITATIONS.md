@@ -17,8 +17,7 @@
 5. Gaussian-smooth a **detection copy** by 0.6 native pixels, threshold it,
    and accept ImageJ connected components using 0.02–400 µm² and no peak
    splitting. Edge Cy5 regions are not excluded. Area acceptance is applied
-   during particle analysis; this release retains the same accepted IDs
-   before and after pixel remeasurement.
+   during particle analysis.
 6. Flood-fill each accepted component from the ImageJ particle seed using
    8-connectivity. Validate its size against ImageJ's internal pixel count.
    Exclude internal holes and disconnected internal islands from that
@@ -68,21 +67,10 @@ Hoechst display uses per-image 0.175th/99.825th-percentile clipping; Cy5 uses
 fixed 131–220 raw limits. RGB channels are blue for Hoechst and magenta for
 Cy5. Changing a display range alone cannot change the quantitative outputs.
 
-## Final selection and provenance
-
-The final manifest identifies the 115 valid images with user-confirmed group
-labels. It describes the current analysis dataset, not an acquisition log.
-
-Stable IDs preserve the correspondence to the original analysis outputs;
-the current dataset is not renumbered. Current filenames, previous filenames, and original
-analysis keys are different fields. Group order does not imply a biological
-ranking. Do not infer identity from a displayed representative image or from
-an obsolete source filename.
-
 ## Statistical limitations
 
 Student tests are independent, two-sided, equal-variance tests on pooled region
-measurements, provided only to reproduce the prior exploratory calculation.
+measurements, provided for exploratory comparisons.
 Holm corrections are supplied per metric (10 planned comparisons) and across
 both metrics (20). Raw and adjusted stars must not be mixed. Thresholds are
 P ≤ 0.05 (*), ≤ 0.01 (**), ≤ 0.001 (***), ≤ 0.0001 (****); otherwise ns.

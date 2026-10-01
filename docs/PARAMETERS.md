@@ -1,4 +1,4 @@
-# Parameters for the latest dataset
+# Analysis parameters
 
 Edit `parameters/batch_20260930.json`; retain a separate copy for new batches.
 The complete configuration is saved with every run.
@@ -24,6 +24,3 @@ The complete configuration is saved with every run.
 
 Manifest mode reads the explicitly listed included files rather than applying
 recursive discovery. Use a new config and discover mode for new experiments.
-Recorded display limits came from an initial mRNA reference (131–1125), then
-a display-only batch revision to 131–220. The current package uses the final
-display limits directly; detection and exact raw measurements are unchanged.

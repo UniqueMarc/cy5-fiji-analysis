@@ -1,6 +1,6 @@
 """Portable exact-pixel summaries and Prism-ready columns. Python >= 3.9, stdlib only.
 
-Punctum-level Student tests reproduce historical exploratory results. Puncta
+Punctum-level Student tests provide exploratory comparisons. Puncta
 are nested in fields/cells; these P values are NOT biological-replicate tests.
 """
 import argparse
