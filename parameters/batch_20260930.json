@@ -1,0 +1,40 @@
+{
+  "dataset": "20260930",
+  "group_order": [
+    "mRNA",
+    "Chole_mRNA",
+    "DOPC_mRNA",
+    "DOPC_chole_mRNA",
+    "DOPG_mRNA",
+    "DOPG_chole_mRNA",
+    "66DOPC33DOPG_mRNA",
+    "66DOPC33DOPG_chole_mRNA"
+  ],
+  "parameters": {
+    "includeSubfolders": true,
+    "hoechstChannel": 3,
+    "cy5Channel": 4,
+    "expansionUm": 20.0,
+    "excludeNuclearInterior": false,
+    "minNucleusAreaUm2": 30.0,
+    "maxNucleusAreaUm2": 1000.0,
+    "nucleusThresholdMethod": "Otsu",
+    "nucleusThresholdScale": 1.0,
+    "nucleusBackgroundUm": 0.0,
+    "nucleusSigmaUm": 0.5,
+    "nucleusPaddingUm": 0.0,
+    "separateTouchingNuclei": false,
+    "cy5ThresholdK": 4.0,
+    "cy5ManualThreshold": 0.0,
+    "splitConnectedCy5": false,
+    "cy5PeakTolerance": 12.0,
+    "minPunctumAreaUm2": 0.02,
+    "maxPunctumAreaUm2": 400.0,
+    "singleCellCropUm": 35.0,
+    "singleCellOutputPixels": 512,
+    "minimumNeighborDistanceUm": 20.0,
+    "fixedCy5DisplayMinRaw": 131.0,
+    "fixedCy5DisplayMaxRaw": 220.0,
+    "cy5DetectionSigmaPixels": 0.6
+  }
+}

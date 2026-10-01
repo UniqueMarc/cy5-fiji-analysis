@@ -1,0 +1,8 @@
+LOCAL RELEASE CANDIDATE — LICENSE NOT YET SELECTED
+
+The laboratory/rightsholders must approve an explicit license for code and
+a separate license for data before public release. This file does not grant
+MIT, BSD, GPL, CC-BY, or other public reuse rights. Third-party Fiji/ImageJ/
+Bio-Formats components are not bundled and retain their own licenses.
+
+Do not describe this package as open-source until an approved license is added.

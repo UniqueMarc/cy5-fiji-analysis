@@ -1,0 +1,5 @@
+# Preserve exact source bytes so SHA256SUMS also matches fresh checkouts.
+* -text
+*.tif binary
+*.png binary
+*.zip binary

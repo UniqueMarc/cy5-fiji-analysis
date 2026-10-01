@@ -1,0 +1,12 @@
+# The local convenience workbook and private validation runs are not public.
+local_only/
+validation_runs/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+~$*
+# Original stacks belong in the external raw-data archive, not this repository.
+*.nd2
+*.log
+Cy5_SingleCell_Fixed640_MultiFolder_Batch_*/
