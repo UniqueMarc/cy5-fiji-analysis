@@ -17,7 +17,7 @@ The complete configuration is saved with every run.
 | `minPunctumAreaUm2`, `maxPunctumAreaUm2` | 0.02, 400 | Particle acceptance in native calibrated image |
 | `splitConnectedCy5` | false | Connected objects remain connected; true is rejected |
 | `cy5PeakTolerance` | 12 | Inactive because peak splitting is off |
-| `expansionUm`, `excludeNuclearInterior` | 20, false | Auxiliary assignment only; not final field population |
+| `expansionUm`, `excludeNuclearInterior` | 20, false | Nuclear territory used for per-cell means; other values are rejected |
 | `singleCellCropUm`, `singleCellOutputPixels` | 35, 512 | Physical crop size and display resampling |
 | `minimumNeighborDistanceUm` | 20 | Crop eligibility by nuclear centroid distance |
 | `includeSubfolders` | true | Recursive discovery within configured group folders |

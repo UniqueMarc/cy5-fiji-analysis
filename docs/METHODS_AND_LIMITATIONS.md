@@ -45,40 +45,22 @@ aggregates and overlapping spots; the no-split configuration does not resolve
 individual molecules. Area reflects projected segmentation, not a particle's
 physical diameter or 3-D volume.
 
-## Assignment and crops
+## Assignment and per-cell aggregation
 
-Nuclear ROIs are expanded outward by 20 µm. Overlapping candidate territories
-are assigned to the nearest nuclear centroid; nuclear interiors are included.
-These assignments feed only auxiliary per-cell context. The final quantitative
-population is **all accepted full-field Cy5 regions**, independent of
-assignment. Bright puncta elsewhere in a displayed crop can belong to another
-cell or be extracellular; no membrane was segmented.
+Nuclear ROIs are expanded outward by 20 micrometres. Nuclear interiors are included. Overlap belongs to the nearest nuclear contour centroid; equal distances retain the earlier nuclear ROI ID. Each territory has a stable cell ID within its image.
 
-Eligible nucleus-centred crops are nominally 35 × 35 µm. Native crop dimensions
-are rounded from calibration, so actual extent differs by at most approximately
-half a native pixel per dimension. Crops crossing the field edge are skipped;
-the minimum neighbouring nuclear-centroid distance is 20 µm. This does not
-guarantee that a second nucleus is absent or that a merged nucleus was split.
-The crop is bicubically resampled to 512 × 512 for display only. Cyan outlines
-mark the target nucleus; green outlines mark accepted regions intersecting
-the crop. No number labels, yellow territory ring or scale bars are added.
+Assign each entire punctum at its original detection-contour centroid, rounded using Java Math.round. The exact component pixel centroid is a separate geometry measurement and is not used for assignment. No punctum is assigned twice. Unassigned puncta have Cell_ID 0, remain in the detailed output, and are excluded from per-cell aggregation.
 
-Hoechst display uses per-image 0.175th/99.825th-percentile clipping; Cy5 uses
-fixed 131–220 raw limits. RGB channels are blue for Hoechst and magenta for
-Cy5. Changing a display range alone cannot change the quantitative outputs.
+For each territory, sum the exact component areas and raw integrated intensities of its assigned puncta. Divide each sum by the assigned punctum count to obtain mean punctum area and mean integrated punctum fluorescence. Each nonempty territory contributes one value to each distribution. Group summaries weight territories equally, regardless of punctum count. An intensity sum over all puncta divided by all puncta in a group is a different quantity and is not the reported per-cell mean.
 
-## Statistical limitations
+Zero-punctum territories retain zero counts and sums. Their punctum means are null in JSON and blank in CSV; they do not contribute zeros to mean-punctum distributions. Numerical means retain full precision.
 
-Student tests are independent, two-sided, equal-variance tests on pooled region
-measurements, provided for exploratory comparisons.
-Holm corrections are supplied per metric (10 planned comparisons) and across
-both metrics (20). Raw and adjusted stars must not be mixed. Thresholds are
-P ≤ 0.05 (*), ≤ 0.01 (**), ≤ 0.001 (***), ≤ 0.0001 (****); otherwise ns.
+## Display crops
 
-Regions/cells/fields from the same independent experiment are nested. Neither
-the number of regions nor automatically segmented nuclei is the biological
-replicate n. This dataset manifest does not yet establish independent
-experiment identities or paired designs. A replicate-level or hierarchical
-analysis requires that mapping. Region-level P values alone cannot establish
-biological reproducibility. Representative crops are illustrations, not the
-data selection rule for the distribution or tests.
+Nucleus-centred crops are nominally 35 × 35 micrometres and resampled to 512 × 512 for display. Crops crossing the field edge are skipped; minimum neighbouring nuclear-centroid distance is 20 micrometres. Crop eligibility does not determine inclusion in per-cell quantification. All nuclear territories are retained.
+
+Hoechst display uses per-image percentile limits and Cy5 uses fixed raw limits 131–220. Display adjustment and resizing do not change measured values. These territories are not membrane segmentations and cannot establish that every assigned spot is intracellular.
+
+## Interpretation
+
+One value per nuclear territory describes the cell-associated sampling unit. Cells and fields from the same experiment remain nested; cell counts do not establish the number of independent biological experiments. This exporter provides descriptive values and does not generate significance annotations or assume paired observations from row order.

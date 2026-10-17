@@ -24,5 +24,15 @@ try {
     def target=ij.IJ.openImage(new File(root,'examples/expected/0017_hole_aware.tif').path)
     assert java.util.Arrays.equals((short[])label.processor.pixels,(short[])target.processor.pixels)
     label.close();target.close()
-    println('PASS: 58 exact regions, 2 corrected geometries, identical label pixels.');System.exit(0)
+    File perCell=new GroovyShell(this.class.classLoader,new Binding([batchDirectory:out])).evaluate(new File(root,'scripts/per_cell.groovy'))
+    def assigned=parser.parse(new File(perCell,'per_cell_measurements.json'))
+    def expectedCells=parser.parse(new File(root,'examples/expected/per_cell_measurements.json'))
+    assert assigned.cells.size()==expectedCells.cells.size()
+    assert assigned.puncta.size()==expectedCells.puncta.size()
+    assigned.puncta.eachWithIndex{p,i->
+        def e=expectedCells.puncta[i]
+        ['Unique_ID','Cell_ID','Area_pixels','Integrated_density_raw'].each{k->assert p[k]==e[k]}
+    }
+    assigned.cells.eachWithIndex{c,i->assert c.Territory_pixels==expectedCells.cells[i].Territory_pixels}
+    println('PASS: exact pixels, component ownership and nuclear territories match the reference.');System.exit(0)
 }catch(Throwable e){e.printStackTrace();System.exit(1)}

@@ -1,0 +1,5372 @@
+[
+  {
+    "Image_Index": 17,
+    "Cell_ID": 1,
+    "Group": "mRNA",
+    "Puncta_count": 2,
+    "Mean_punctum_area_um2": 0.45366438217639776,
+    "Mean_punctum_integrated_intensity_raw": 6183.5,
+    "Sum_punctum_area_um2": 0.9073287643527955,
+    "Sum_punctum_integrated_intensity_raw": 12367.0
+  },
+  {
+    "Image_Index": 17,
+    "Cell_ID": 2,
+    "Group": "mRNA",
+    "Puncta_count": 1,
+    "Mean_punctum_area_um2": 1.1699765645601836,
+    "Mean_punctum_integrated_intensity_raw": 15089.0,
+    "Sum_punctum_area_um2": 1.1699765645601836,
+    "Sum_punctum_integrated_intensity_raw": 15089.0
+  },
+  {
+    "Image_Index": 17,
+    "Cell_ID": 3,
+    "Group": "mRNA",
+    "Puncta_count": 19,
+    "Mean_punctum_area_um2": 0.7364191910121027,
+    "Mean_punctum_integrated_intensity_raw": 9877.473684210527,
+    "Sum_punctum_area_um2": 13.991964629229951,
+    "Sum_punctum_integrated_intensity_raw": 187672.0
+  },
+  {
+    "Image_Index": 17,
+    "Cell_ID": 4,
+    "Group": "mRNA",
+    "Puncta_count": 9,
+    "Mean_punctum_area_um2": 0.5252956004147763,
+    "Mean_punctum_integrated_intensity_raw": 6861.111111111111,
+    "Sum_punctum_area_um2": 4.727660403732987,
+    "Sum_punctum_integrated_intensity_raw": 61750.0
+  },
+  {
+    "Image_Index": 17,
+    "Cell_ID": 5,
+    "Group": "mRNA",
+    "Puncta_count": 24,
+    "Mean_punctum_area_um2": 0.34820731088100704,
+    "Mean_punctum_integrated_intensity_raw": 4738.375,
+    "Sum_punctum_area_um2": 8.356975461144168,
+    "Sum_punctum_integrated_intensity_raw": 113721.0
+  },
+  {
+    "Image_Index": 18,
+    "Cell_ID": 1,
+    "Group": "mRNA",
+    "Puncta_count": 2,
+    "Mean_punctum_area_um2": 0.07760048642491013,
+    "Mean_punctum_integrated_intensity_raw": 984.5,
+    "Sum_punctum_area_um2": 0.15520097284982026,
+    "Sum_punctum_integrated_intensity_raw": 1969.0
+  },
+  {
+    "Image_Index": 18,
+    "Cell_ID": 2,
+    "Group": "mRNA",
+    "Puncta_count": 5,
+    "Mean_punctum_area_um2": 0.6303547204977316,
+    "Mean_punctum_integrated_intensity_raw": 8270.2,
+    "Sum_punctum_area_um2": 3.151773602488658,
+    "Sum_punctum_integrated_intensity_raw": 41351.0
+  },
+  {
+    "Image_Index": 18,
+    "Cell_ID": 3,
+    "Group": "mRNA",
+    "Puncta_count": 3,
+    "Mean_punctum_area_um2": 1.34905461015613,
+    "Mean_punctum_integrated_intensity_raw": 20293.0,
+    "Sum_punctum_area_um2": 4.04716383046839,
+    "Sum_punctum_integrated_intensity_raw": 60879.0
+  },
+  {
+    "Image_Index": 18,
+    "Cell_ID": 4,
+    "Group": "mRNA",
+    "Puncta_count": 1,
+    "Mean_punctum_area_um2": 0.2029551183420727,
+    "Mean_punctum_integrated_intensity_raw": 2763.0,
+    "Sum_punctum_area_um2": 0.2029551183420727,
+    "Sum_punctum_integrated_intensity_raw": 2763.0
+  },
+  {
+    "Image_Index": 18,
+    "Cell_ID": 5,
+    "Group": "mRNA",
+    "Puncta_count": 4,
+    "Mean_punctum_area_um2": 0.17907804559594645,
+    "Mean_punctum_integrated_intensity_raw": 2705.0,
+    "Sum_punctum_area_um2": 0.7163121823837858,
+    "Sum_punctum_integrated_intensity_raw": 10820.0
+  },
+  {
+    "Image_Index": 18,
+    "Cell_ID": 6,
+    "Group": "mRNA",
+    "Puncta_count": 21,
+    "Mean_punctum_area_um2": 0.9863505051078322,
+    "Mean_punctum_integrated_intensity_raw": 14080.380952380952,
+    "Sum_punctum_area_um2": 20.713360607264477,
+    "Sum_punctum_integrated_intensity_raw": 295688.0
+  },
+  {
+    "Image_Index": 19,
+    "Cell_ID": 1,
+    "Group": "mRNA",
+    "Puncta_count": 2,
+    "Mean_punctum_area_um2": 0.22086292290166734,
+    "Mean_punctum_integrated_intensity_raw": 3117.5,
+    "Sum_punctum_area_um2": 0.4417258458033347,
+    "Sum_punctum_integrated_intensity_raw": 6235.0
+  },
+  {
+    "Image_Index": 19,
+    "Cell_ID": 2,
+    "Group": "mRNA",
+    "Puncta_count": 18,
+    "Mean_punctum_area_um2": 0.31239170176181774,
+    "Mean_punctum_integrated_intensity_raw": 4383.5,
+    "Sum_punctum_area_um2": 5.62305063171272,
+    "Sum_punctum_integrated_intensity_raw": 78903.0
+  },
+  {
+    "Image_Index": 19,
+    "Cell_ID": 3,
+    "Group": "mRNA",
+    "Puncta_count": 3,
+    "Mean_punctum_area_um2": 0.09948780310885914,
+    "Mean_punctum_integrated_intensity_raw": 1322.3333333333333,
+    "Sum_punctum_area_um2": 0.29846340932657744,
+    "Sum_punctum_integrated_intensity_raw": 3967.0
+  },
+  {
+    "Image_Index": 19,
+    "Cell_ID": 4,
+    "Group": "mRNA",
+    "Puncta_count": 6,
+    "Mean_punctum_area_um2": 0.521316088290422,
+    "Mean_punctum_integrated_intensity_raw": 6746.333333333333,
+    "Sum_punctum_area_um2": 3.127896529742532,
+    "Sum_punctum_integrated_intensity_raw": 40478.0
+  },
+  {
+    "Image_Index": 19,
+    "Cell_ID": 5,
+    "Group": "mRNA",
+    "Puncta_count": 7,
+    "Mean_punctum_area_um2": 0.23706522226511012,
+    "Mean_punctum_integrated_intensity_raw": 3288.8571428571427,
+    "Sum_punctum_area_um2": 1.6594565558557708,
+    "Sum_punctum_integrated_intensity_raw": 23022.0
+  },
+  {
+    "Image_Index": 19,
+    "Cell_ID": 6,
+    "Group": "mRNA",
+    "Puncta_count": 8,
+    "Mean_punctum_area_um2": 1.549025094404937,
+    "Mean_punctum_integrated_intensity_raw": 25833.75,
+    "Sum_punctum_area_um2": 12.392200755239497,
+    "Sum_punctum_integrated_intensity_raw": 206670.0
+  },
+  {
+    "Image_Index": 20,
+    "Cell_ID": 1,
+    "Group": "mRNA",
+    "Puncta_count": 1,
+    "Mean_punctum_area_um2": 0.09550829098450479,
+    "Mean_punctum_integrated_intensity_raw": 1333.0,
+    "Sum_punctum_area_um2": 0.09550829098450479,
+    "Sum_punctum_integrated_intensity_raw": 1333.0
+  },
+  {
+    "Image_Index": 20,
+    "Cell_ID": 2,
+    "Group": "mRNA",
+    "Puncta_count": 11,
+    "Mean_punctum_area_um2": 0.32776708951500505,
+    "Mean_punctum_integrated_intensity_raw": 4759.545454545455,
+    "Sum_punctum_area_um2": 3.6054379846650555,
+    "Sum_punctum_integrated_intensity_raw": 52355.0
+  },
+  {
+    "Image_Index": 20,
+    "Cell_ID": 3,
+    "Group": "mRNA",
+    "Puncta_count": 11,
+    "Mean_punctum_area_um2": 1.2144747455870553,
+    "Mean_punctum_integrated_intensity_raw": 17271.545454545456,
+    "Sum_punctum_area_um2": 13.359222201457607,
+    "Sum_punctum_integrated_intensity_raw": 189987.0
+  },
+  {
+    "Image_Index": 20,
+    "Cell_ID": 4,
+    "Group": "mRNA",
+    "Puncta_count": 17,
+    "Mean_punctum_area_um2": 1.842748202524563,
+    "Mean_punctum_integrated_intensity_raw": 29600.823529411766,
+    "Sum_punctum_area_um2": 31.32671944291757,
+    "Sum_punctum_integrated_intensity_raw": 503214.0
+  },
+  {
+    "Image_Index": 21,
+    "Cell_ID": 1,
+    "Group": "mRNA",
+    "Puncta_count": 6,
+    "Mean_punctum_area_um2": 0.10346731523321352,
+    "Mean_punctum_integrated_intensity_raw": 1434.6666666666667,
+    "Sum_punctum_area_um2": 0.6208038913992812,
+    "Sum_punctum_integrated_intensity_raw": 8608.0
+  },
+  {
+    "Image_Index": 21,
+    "Cell_ID": 2,
+    "Group": "mRNA",
+    "Puncta_count": 1,
+    "Mean_punctum_area_um2": 0.08356975461144169,
+    "Mean_punctum_integrated_intensity_raw": 1096.0,
+    "Sum_punctum_area_um2": 0.08356975461144169,
+    "Sum_punctum_integrated_intensity_raw": 1096.0
+  },
+  {
+    "Image_Index": 21,
+    "Cell_ID": 3,
+    "Group": "mRNA",
+    "Puncta_count": 7,
+    "Mean_punctum_area_um2": 0.463897413353309,
+    "Mean_punctum_integrated_intensity_raw": 6174.714285714285,
+    "Sum_punctum_area_um2": 3.2472818934731627,
+    "Sum_punctum_integrated_intensity_raw": 43223.0
+  },
+  {
+    "Image_Index": 21,
+    "Cell_ID": 4,
+    "Group": "mRNA",
+    "Puncta_count": 13,
+    "Mean_punctum_area_um2": 0.7300874166603972,
+    "Mean_punctum_integrated_intensity_raw": 11103.0,
+    "Sum_punctum_area_um2": 9.491136416585164,
+    "Sum_punctum_integrated_intensity_raw": 144339.0
+  },
+  {
+    "Image_Index": 21,
+    "Cell_ID": 5,
+    "Group": "mRNA",
+    "Puncta_count": 2,
+    "Mean_punctum_area_um2": 1.7489955786537439,
+    "Mean_punctum_integrated_intensity_raw": 24495.0,
+    "Sum_punctum_area_um2": 3.4979911573074878,
+    "Sum_punctum_integrated_intensity_raw": 48990.0
+  },
+  {
+    "Image_Index": 21,
+    "Cell_ID": 6,
+    "Group": "mRNA",
+    "Puncta_count": 1,
+    "Mean_punctum_area_um2": 0.32234048207270366,
+    "Mean_punctum_integrated_intensity_raw": 4119.0,
+    "Sum_punctum_area_um2": 0.32234048207270366,
+    "Sum_punctum_integrated_intensity_raw": 4119.0
+  },
+  {
+    "Image_Index": 23,
+    "Cell_ID": 1,
+    "Group": "mRNA",
+    "Puncta_count": 4,
+    "Mean_punctum_area_um2": 0.1283392660104283,
+    "Mean_punctum_integrated_intensity_raw": 1769.0,
+    "Sum_punctum_area_um2": 0.5133570640417132,
+    "Sum_punctum_integrated_intensity_raw": 7076.0
+  },
+  {
+    "Image_Index": 23,
+    "Cell_ID": 2,
+    "Group": "mRNA",
+    "Puncta_count": 6,
+    "Mean_punctum_area_um2": 0.945134129534162,
+    "Mean_punctum_integrated_intensity_raw": 14671.666666666666,
+    "Sum_punctum_area_um2": 5.670804777204972,
+    "Sum_punctum_integrated_intensity_raw": 88030.0
+  },
+  {
+    "Image_Index": 23,
+    "Cell_ID": 3,
+    "Group": "mRNA",
+    "Puncta_count": 30,
+    "Mean_punctum_area_um2": 0.8305241803527562,
+    "Mean_punctum_integrated_intensity_raw": 12090.2,
+    "Sum_punctum_area_um2": 24.915725410582688,
+    "Sum_punctum_integrated_intensity_raw": 362706.0
+  },
+  {
+    "Image_Index": 24,
+    "Cell_ID": 1,
+    "Group": "mRNA",
+    "Puncta_count": 4,
+    "Mean_punctum_area_um2": 0.2447399956477935,
+    "Mean_punctum_integrated_intensity_raw": 3181.25,
+    "Sum_punctum_area_um2": 0.978959982591174,
+    "Sum_punctum_integrated_intensity_raw": 12725.0
+  },
+  {
+    "Image_Index": 24,
+    "Cell_ID": 2,
+    "Group": "mRNA",
+    "Puncta_count": 15,
+    "Mean_punctum_area_um2": 0.6072735501764762,
+    "Mean_punctum_integrated_intensity_raw": 8653.933333333332,
+    "Sum_punctum_area_um2": 9.109103252647143,
+    "Sum_punctum_integrated_intensity_raw": 129809.0
+  },
+  {
+    "Image_Index": 24,
+    "Cell_ID": 3,
+    "Group": "mRNA",
+    "Puncta_count": 2,
+    "Mean_punctum_area_um2": 0.19101658196900956,
+    "Mean_punctum_integrated_intensity_raw": 2528.5,
+    "Sum_punctum_area_um2": 0.3820331639380191,
+    "Sum_punctum_integrated_intensity_raw": 5057.0
+  },
+  {
+    "Image_Index": 24,
+    "Cell_ID": 4,
+    "Group": "mRNA",
+    "Puncta_count": 38,
+    "Mean_punctum_area_um2": 0.42507472928300977,
+    "Mean_punctum_integrated_intensity_raw": 5738.0,
+    "Sum_punctum_area_um2": 16.15283971275437,
+    "Sum_punctum_integrated_intensity_raw": 218044.0
+  },
+  {
+    "Image_Index": 24,
+    "Cell_ID": 5,
+    "Group": "mRNA",
+    "Puncta_count": 10,
+    "Mean_punctum_area_um2": 2.231312448125493,
+    "Mean_punctum_integrated_intensity_raw": 30931.5,
+    "Sum_punctum_area_um2": 22.31312448125493,
+    "Sum_punctum_integrated_intensity_raw": 309315.0
+  },
+  {
+    "Image_Index": 25,
+    "Cell_ID": 1,
+    "Group": "mRNA",
+    "Puncta_count": 10,
+    "Mean_punctum_area_um2": 1.3430853419695985,
+    "Mean_punctum_integrated_intensity_raw": 18186.3,
+    "Sum_punctum_area_um2": 13.430853419695985,
+    "Sum_punctum_integrated_intensity_raw": 181863.0
+  },
+  {
+    "Image_Index": 25,
+    "Cell_ID": 2,
+    "Group": "mRNA",
+    "Puncta_count": 22,
+    "Mean_punctum_area_um2": 0.7640663278760382,
+    "Mean_punctum_integrated_intensity_raw": 10180.181818181818,
+    "Sum_punctum_area_um2": 16.80945921327284,
+    "Sum_punctum_integrated_intensity_raw": 223964.0
+  },
+  {
+    "Image_Index": 25,
+    "Cell_ID": 3,
+    "Group": "mRNA",
+    "Puncta_count": 9,
+    "Mean_punctum_area_um2": 0.8463095784460285,
+    "Mean_punctum_integrated_intensity_raw": 11149.222222222223,
+    "Sum_punctum_area_um2": 7.616786206014257,
+    "Sum_punctum_integrated_intensity_raw": 100343.0
+  },
+  {
+    "Image_Index": 25,
+    "Cell_ID": 4,
+    "Group": "mRNA",
+    "Puncta_count": 9,
+    "Mean_punctum_area_um2": 0.8144734814511936,
+    "Mean_punctum_integrated_intensity_raw": 11039.888888888889,
+    "Sum_punctum_area_um2": 7.330261333060742,
+    "Sum_punctum_integrated_intensity_raw": 99359.0
+  },
+  {
+    "Image_Index": 25,
+    "Cell_ID": 5,
+    "Group": "mRNA",
+    "Puncta_count": 9,
+    "Mean_punctum_area_um2": 0.3183609699483493,
+    "Mean_punctum_integrated_intensity_raw": 4116.0,
+    "Sum_punctum_area_um2": 2.8652487295351436,
+    "Sum_punctum_integrated_intensity_raw": 37044.0
+  },
+  {
+    "Image_Index": 25,
+    "Cell_ID": 6,
+    "Group": "mRNA",
+    "Puncta_count": 2,
+    "Mean_punctum_area_um2": 0.2148936547151358,
+    "Mean_punctum_integrated_intensity_raw": 2821.0,
+    "Sum_punctum_area_um2": 0.4297873094302716,
+    "Sum_punctum_integrated_intensity_raw": 5642.0
+  },
+  {
+    "Image_Index": 26,
+    "Cell_ID": 1,
+    "Group": "mRNA",
+    "Puncta_count": 1,
+    "Mean_punctum_area_um2": 0.08356975461144169,
+    "Mean_punctum_integrated_intensity_raw": 1058.0,
+    "Sum_punctum_area_um2": 0.08356975461144169,
+    "Sum_punctum_integrated_intensity_raw": 1058.0
+  },
+  {
+    "Image_Index": 26,
+    "Cell_ID": 2,
+    "Group": "mRNA",
+    "Puncta_count": 9,
+    "Mean_punctum_area_um2": 1.8650646822807464,
+    "Mean_punctum_integrated_intensity_raw": 28185.666666666668,
+    "Sum_punctum_area_um2": 16.785582140526717,
+    "Sum_punctum_integrated_intensity_raw": 253671.0
+  },
+  {
+    "Image_Index": 26,
+    "Cell_ID": 3,
+    "Group": "mRNA",
+    "Puncta_count": 10,
+    "Mean_punctum_area_um2": 0.4297873094302715,
+    "Mean_punctum_integrated_intensity_raw": 5702.6,
+    "Sum_punctum_area_um2": 4.297873094302715,
+    "Sum_punctum_integrated_intensity_raw": 57026.0
+  },
+  {
+    "Image_Index": 26,
+    "Cell_ID": 4,
+    "Group": "mRNA",
+    "Puncta_count": 13,
+    "Mean_punctum_area_um2": 0.9578379567003701,
+    "Mean_punctum_integrated_intensity_raw": 13215.76923076923,
+    "Sum_punctum_area_um2": 12.451893437104811,
+    "Sum_punctum_integrated_intensity_raw": 171805.0
+  },
+  {
+    "Image_Index": 26,
+    "Cell_ID": 5,
+    "Group": "mRNA",
+    "Puncta_count": 14,
+    "Mean_punctum_area_um2": 0.5960740660550791,
+    "Mean_punctum_integrated_intensity_raw": 7846.785714285715,
+    "Sum_punctum_area_um2": 8.345036924771106,
+    "Sum_punctum_integrated_intensity_raw": 109855.0
+  },
+  {
+    "Image_Index": 26,
+    "Cell_ID": 6,
+    "Group": "mRNA",
+    "Puncta_count": 6,
+    "Mean_punctum_area_um2": 0.18305755772030083,
+    "Mean_punctum_integrated_intensity_raw": 2717.5,
+    "Sum_punctum_area_um2": 1.098345346321805,
+    "Sum_punctum_integrated_intensity_raw": 16305.0
+  },
+  {
+    "Image_Index": 27,
+    "Cell_ID": 1,
+    "Group": "mRNA",
+    "Puncta_count": 0,
+    "Mean_punctum_area_um2": null,
+    "Mean_punctum_integrated_intensity_raw": null,
+    "Sum_punctum_area_um2": 0.0,
+    "Sum_punctum_integrated_intensity_raw": 0.0
+  },
+  {
+    "Image_Index": 27,
+    "Cell_ID": 2,
+    "Group": "mRNA",
+    "Puncta_count": 14,
+    "Mean_punctum_area_um2": 0.7777103694452532,
+    "Mean_punctum_integrated_intensity_raw": 10714.214285714286,
+    "Sum_punctum_area_um2": 10.887945172233545,
+    "Sum_punctum_integrated_intensity_raw": 149999.0
+  },
+  {
+    "Image_Index": 27,
+    "Cell_ID": 3,
+    "Group": "mRNA",
+    "Puncta_count": 12,
+    "Mean_punctum_area_um2": 0.5093775519173589,
+    "Mean_punctum_integrated_intensity_raw": 6810.5,
+    "Sum_punctum_area_um2": 6.112530623008307,
+    "Sum_punctum_integrated_intensity_raw": 81726.0
+  },
+  {
+    "Image_Index": 27,
+    "Cell_ID": 4,
+    "Group": "mRNA",
+    "Puncta_count": 2,
+    "Mean_punctum_area_um2": 0.16713950922288337,
+    "Mean_punctum_integrated_intensity_raw": 2149.5,
+    "Sum_punctum_area_um2": 0.33427901844576674,
+    "Sum_punctum_integrated_intensity_raw": 4299.0
+  },
+  {
+    "Image_Index": 27,
+    "Cell_ID": 5,
+    "Group": "mRNA",
+    "Puncta_count": 13,
+    "Mean_punctum_area_um2": 0.16254776446401295,
+    "Mean_punctum_integrated_intensity_raw": 2096.6923076923076,
+    "Sum_punctum_area_um2": 2.1131209380321683,
+    "Sum_punctum_integrated_intensity_raw": 27257.0
+  },
+  {
+    "Image_Index": 27,
+    "Cell_ID": 6,
+    "Group": "mRNA",
+    "Puncta_count": 12,
+    "Mean_punctum_area_um2": 0.32631999419705804,
+    "Mean_punctum_integrated_intensity_raw": 4656.833333333333,
+    "Sum_punctum_area_um2": 3.9158399303646965,
+    "Sum_punctum_integrated_intensity_raw": 55882.0
+  },
+  {
+    "Image_Index": 28,
+    "Cell_ID": 1,
+    "Group": "mRNA",
+    "Puncta_count": 1,
+    "Mean_punctum_area_um2": 0.023877072746126198,
+    "Mean_punctum_integrated_intensity_raw": 321.0,
+    "Sum_punctum_area_um2": 0.023877072746126198,
+    "Sum_punctum_integrated_intensity_raw": 321.0
+  },
+  {
+    "Image_Index": 28,
+    "Cell_ID": 2,
+    "Group": "mRNA",
+    "Puncta_count": 19,
+    "Mean_punctum_area_um2": 0.44423922188187426,
+    "Mean_punctum_integrated_intensity_raw": 6420.0,
+    "Sum_punctum_area_um2": 8.440545215755611,
+    "Sum_punctum_integrated_intensity_raw": 121980.0
+  },
+  {
+    "Image_Index": 28,
+    "Cell_ID": 3,
+    "Group": "mRNA",
+    "Puncta_count": 8,
+    "Mean_punctum_area_um2": 1.8952426492237668,
+    "Mean_punctum_integrated_intensity_raw": 29845.75,
+    "Sum_punctum_area_um2": 15.161941193790135,
+    "Sum_punctum_integrated_intensity_raw": 238766.0
+  },
+  {
+    "Image_Index": 30,
+    "Cell_ID": 1,
+    "Group": "mRNA",
+    "Puncta_count": 1,
+    "Mean_punctum_area_um2": 0.21489365471513577,
+    "Mean_punctum_integrated_intensity_raw": 2954.0,
+    "Sum_punctum_area_um2": 0.21489365471513577,
+    "Sum_punctum_integrated_intensity_raw": 2954.0
+  },
+  {
+    "Image_Index": 30,
+    "Cell_ID": 2,
+    "Group": "mRNA",
+    "Puncta_count": 3,
+    "Mean_punctum_area_um2": 0.4138692609328541,
+    "Mean_punctum_integrated_intensity_raw": 6307.0,
+    "Sum_punctum_area_um2": 1.2416077827985623,
+    "Sum_punctum_integrated_intensity_raw": 18921.0
+  },
+  {
+    "Image_Index": 30,
+    "Cell_ID": 3,
+    "Group": "mRNA",
+    "Puncta_count": 1,
+    "Mean_punctum_area_um2": 0.07163121823837859,
+    "Mean_punctum_integrated_intensity_raw": 910.0,
+    "Sum_punctum_area_um2": 0.07163121823837859,
+    "Sum_punctum_integrated_intensity_raw": 910.0
+  },
+  {
+    "Image_Index": 30,
+    "Cell_ID": 4,
+    "Group": "mRNA",
+    "Puncta_count": 7,
+    "Mean_punctum_area_um2": 0.31722396648424805,
+    "Mean_punctum_integrated_intensity_raw": 4080.8571428571427,
+    "Sum_punctum_area_um2": 2.2205677653897364,
+    "Sum_punctum_integrated_intensity_raw": 28566.0
+  },
+  {
+    "Image_Index": 30,
+    "Cell_ID": 5,
+    "Group": "mRNA",
+    "Puncta_count": 22,
+    "Mean_punctum_area_um2": 1.7039547368826424,
+    "Mean_punctum_integrated_intensity_raw": 25200.136363636364,
+    "Sum_punctum_area_um2": 37.48700421141813,
+    "Sum_punctum_integrated_intensity_raw": 554403.0
+  },
+  {
+    "Image_Index": 30,
+    "Cell_ID": 6,
+    "Group": "mRNA",
+    "Puncta_count": 0,
+    "Mean_punctum_area_um2": null,
+    "Mean_punctum_integrated_intensity_raw": null,
+    "Sum_punctum_area_um2": 0.0,
+    "Sum_punctum_integrated_intensity_raw": 0.0
+  },
+  {
+    "Image_Index": 30,
+    "Cell_ID": 7,
+    "Group": "mRNA",
+    "Puncta_count": 1,
+    "Mean_punctum_area_um2": 0.16713950922288337,
+    "Mean_punctum_integrated_intensity_raw": 2156.0,
+    "Sum_punctum_area_um2": 0.16713950922288337,
+    "Sum_punctum_integrated_intensity_raw": 2156.0
+  },
+  {
+    "Image_Index": 30,
+    "Cell_ID": 8,
+    "Group": "mRNA",
+    "Puncta_count": 2,
+    "Mean_punctum_area_um2": 0.3283097502592352,
+    "Mean_punctum_integrated_intensity_raw": 5066.0,
+    "Sum_punctum_area_um2": 0.6566195005184704,
+    "Sum_punctum_integrated_intensity_raw": 10132.0
+  },
+  {
+    "Image_Index": 31,
+    "Cell_ID": 1,
+    "Group": "mRNA",
+    "Puncta_count": 19,
+    "Mean_punctum_area_um2": 0.5780764980641079,
+    "Mean_punctum_integrated_intensity_raw": 8109.421052631579,
+    "Sum_punctum_area_um2": 10.98345346321805,
+    "Sum_punctum_integrated_intensity_raw": 154079.0
+  },
+  {
+    "Image_Index": 31,
+    "Cell_ID": 2,
+    "Group": "mRNA",
+    "Puncta_count": 13,
+    "Mean_punctum_area_um2": 0.38570655974511553,
+    "Mean_punctum_integrated_intensity_raw": 5151.2307692307695,
+    "Sum_punctum_area_um2": 5.014185276686502,
+    "Sum_punctum_integrated_intensity_raw": 66966.0
+  },
+  {
+    "Image_Index": 31,
+    "Cell_ID": 3,
+    "Group": "mRNA",
+    "Puncta_count": 14,
+    "Mean_punctum_area_um2": 0.9090342695489474,
+    "Mean_punctum_integrated_intensity_raw": 12326.5,
+    "Sum_punctum_area_um2": 12.726479773685263,
+    "Sum_punctum_integrated_intensity_raw": 172571.0
+  },
+  {
+    "Image_Index": 32,
+    "Cell_ID": 1,
+    "Group": "mRNA",
+    "Puncta_count": 6,
+    "Mean_punctum_area_um2": 0.16117024103635183,
+    "Mean_punctum_integrated_intensity_raw": 2323.3333333333335,
+    "Sum_punctum_area_um2": 0.967021446218111,
+    "Sum_punctum_integrated_intensity_raw": 13940.0
+  },
+  {
+    "Image_Index": 32,
+    "Cell_ID": 2,
+    "Group": "mRNA",
+    "Puncta_count": 2,
+    "Mean_punctum_area_um2": 0.02984634093265775,
+    "Mean_punctum_integrated_intensity_raw": 379.0,
+    "Sum_punctum_area_um2": 0.0596926818653155,
+    "Sum_punctum_integrated_intensity_raw": 758.0
+  },
+  {
+    "Image_Index": 32,
+    "Cell_ID": 3,
+    "Group": "mRNA",
+    "Puncta_count": 4,
+    "Mean_punctum_area_um2": 0.5611112095339656,
+    "Mean_punctum_integrated_intensity_raw": 7792.25,
+    "Sum_punctum_area_um2": 2.2444448381358626,
+    "Sum_punctum_integrated_intensity_raw": 31169.0
+  },
+  {
+    "Image_Index": 32,
+    "Cell_ID": 4,
+    "Group": "mRNA",
+    "Puncta_count": 27,
+    "Mean_punctum_area_um2": 2.321382072540047,
+    "Mean_punctum_integrated_intensity_raw": 29558.555555555555,
+    "Sum_punctum_area_um2": 62.67731595858127,
+    "Sum_punctum_integrated_intensity_raw": 798081.0
+  },
+  {
+    "Image_Index": 32,
+    "Cell_ID": 5,
+    "Group": "mRNA",
+    "Puncta_count": 43,
+    "Mean_punctum_area_um2": 0.14576119990367736,
+    "Mean_punctum_integrated_intensity_raw": 1868.1627906976744,
+    "Sum_punctum_area_um2": 6.267731595858127,
+    "Sum_punctum_integrated_intensity_raw": 80331.0
+  },
+  {
+    "Image_Index": 33,
+    "Cell_ID": 1,
+    "Group": "mRNA",
+    "Puncta_count": 1,
+    "Mean_punctum_area_um2": 0.10744682735756789,
+    "Mean_punctum_integrated_intensity_raw": 1411.0,
+    "Sum_punctum_area_um2": 0.10744682735756789,
+    "Sum_punctum_integrated_intensity_raw": 1411.0
+  },
+  {
+    "Image_Index": 33,
+    "Cell_ID": 2,
+    "Group": "mRNA",
+    "Puncta_count": 33,
+    "Mean_punctum_area_um2": 0.21344655939718873,
+    "Mean_punctum_integrated_intensity_raw": 2844.939393939394,
+    "Sum_punctum_area_um2": 7.043736460107228,
+    "Sum_punctum_integrated_intensity_raw": 93883.0
+  },
+  {
+    "Image_Index": 33,
+    "Cell_ID": 3,
+    "Group": "mRNA",
+    "Puncta_count": 46,
+    "Mean_punctum_area_um2": 0.962090311629237,
+    "Mean_punctum_integrated_intensity_raw": 13986.217391304348,
+    "Sum_punctum_area_um2": 44.2561543349449,
+    "Sum_punctum_integrated_intensity_raw": 643366.0
+  },
+  {
+    "Image_Index": 35,
+    "Cell_ID": 1,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 21,
+    "Mean_punctum_area_um2": 0.578734763227535,
+    "Mean_punctum_integrated_intensity_raw": 8016.380952380952,
+    "Sum_punctum_area_um2": 12.153430027778235,
+    "Sum_punctum_integrated_intensity_raw": 168344.0
+  },
+  {
+    "Image_Index": 35,
+    "Cell_ID": 2,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 11,
+    "Mean_punctum_area_um2": 0.49599192022634875,
+    "Mean_punctum_integrated_intensity_raw": 6365.0,
+    "Sum_punctum_area_um2": 5.4559111224898365,
+    "Sum_punctum_integrated_intensity_raw": 70015.0
+  },
+  {
+    "Image_Index": 35,
+    "Cell_ID": 3,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 21,
+    "Mean_punctum_area_um2": 0.3501970669431842,
+    "Mean_punctum_integrated_intensity_raw": 4796.047619047619,
+    "Sum_punctum_area_um2": 7.354138405806868,
+    "Sum_punctum_integrated_intensity_raw": 100717.0
+  },
+  {
+    "Image_Index": 35,
+    "Cell_ID": 4,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 5,
+    "Mean_punctum_area_um2": 0.7067613532853354,
+    "Mean_punctum_integrated_intensity_raw": 10229.8,
+    "Sum_punctum_area_um2": 3.533806766426677,
+    "Sum_punctum_integrated_intensity_raw": 51149.0
+  },
+  {
+    "Image_Index": 36,
+    "Cell_ID": 1,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 15,
+    "Mean_punctum_area_um2": 0.7608827181765548,
+    "Mean_punctum_integrated_intensity_raw": 10517.666666666666,
+    "Sum_punctum_area_um2": 11.413240772648322,
+    "Sum_punctum_integrated_intensity_raw": 157765.0
+  },
+  {
+    "Image_Index": 36,
+    "Cell_ID": 2,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 8,
+    "Mean_punctum_area_um2": 0.3700946275649561,
+    "Mean_punctum_integrated_intensity_raw": 5116.875,
+    "Sum_punctum_area_um2": 2.9607570205196487,
+    "Sum_punctum_integrated_intensity_raw": 40935.0
+  },
+  {
+    "Image_Index": 36,
+    "Cell_ID": 3,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 11,
+    "Mean_punctum_area_um2": 1.19493895879477,
+    "Mean_punctum_integrated_intensity_raw": 20833.18181818182,
+    "Sum_punctum_area_um2": 13.14432854674247,
+    "Sum_punctum_integrated_intensity_raw": 229165.0
+  },
+  {
+    "Image_Index": 36,
+    "Cell_ID": 4,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 7,
+    "Mean_punctum_area_um2": 0.21489365471513575,
+    "Mean_punctum_integrated_intensity_raw": 2972.8571428571427,
+    "Sum_punctum_area_um2": 1.5042555830059503,
+    "Sum_punctum_integrated_intensity_raw": 20810.0
+  },
+  {
+    "Image_Index": 36,
+    "Cell_ID": 5,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 10,
+    "Mean_punctum_area_um2": 0.335472872083073,
+    "Mean_punctum_integrated_intensity_raw": 4577.8,
+    "Sum_punctum_area_um2": 3.3547287208307304,
+    "Sum_punctum_integrated_intensity_raw": 45778.0
+  },
+  {
+    "Image_Index": 36,
+    "Cell_ID": 6,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 3,
+    "Mean_punctum_area_um2": 0.11540585160627663,
+    "Mean_punctum_integrated_intensity_raw": 1483.3333333333333,
+    "Sum_punctum_area_um2": 0.3462175548188299,
+    "Sum_punctum_integrated_intensity_raw": 4450.0
+  },
+  {
+    "Image_Index": 37,
+    "Cell_ID": 1,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 55,
+    "Mean_punctum_area_um2": 0.40287133651645657,
+    "Mean_punctum_integrated_intensity_raw": 5505.036363636364,
+    "Sum_punctum_area_um2": 22.157923508405112,
+    "Sum_punctum_integrated_intensity_raw": 302777.0
+  },
+  {
+    "Image_Index": 37,
+    "Cell_ID": 2,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 28,
+    "Mean_punctum_area_um2": 0.5001393987715362,
+    "Mean_punctum_integrated_intensity_raw": 6904.392857142857,
+    "Sum_punctum_area_um2": 14.003903165603015,
+    "Sum_punctum_integrated_intensity_raw": 193323.0
+  },
+  {
+    "Image_Index": 39,
+    "Cell_ID": 1,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 10,
+    "Mean_punctum_area_um2": 3.5409698882505145,
+    "Mean_punctum_integrated_intensity_raw": 54450.1,
+    "Sum_punctum_area_um2": 35.40969888250515,
+    "Sum_punctum_integrated_intensity_raw": 544501.0
+  },
+  {
+    "Image_Index": 39,
+    "Cell_ID": 2,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 29,
+    "Mean_punctum_area_um2": 0.6146287863787312,
+    "Mean_punctum_integrated_intensity_raw": 9485.586206896553,
+    "Sum_punctum_area_um2": 17.824234804983206,
+    "Sum_punctum_integrated_intensity_raw": 275082.0
+  },
+  {
+    "Image_Index": 39,
+    "Cell_ID": 3,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 2,
+    "Mean_punctum_area_um2": 0.41187950487067687,
+    "Mean_punctum_integrated_intensity_raw": 6607.0,
+    "Sum_punctum_area_um2": 0.8237590097413537,
+    "Sum_punctum_integrated_intensity_raw": 13214.0
+  },
+  {
+    "Image_Index": 39,
+    "Cell_ID": 4,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 32,
+    "Mean_punctum_area_um2": 0.5588727339640163,
+    "Mean_punctum_integrated_intensity_raw": 7489.375,
+    "Sum_punctum_area_um2": 17.88392748684852,
+    "Sum_punctum_integrated_intensity_raw": 239660.0
+  },
+  {
+    "Image_Index": 39,
+    "Cell_ID": 5,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 25,
+    "Mean_punctum_area_um2": 0.6867046121785895,
+    "Mean_punctum_integrated_intensity_raw": 9911.92,
+    "Sum_punctum_area_um2": 17.167615304464736,
+    "Sum_punctum_integrated_intensity_raw": 247798.0
+  },
+  {
+    "Image_Index": 40,
+    "Cell_ID": 1,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 2,
+    "Mean_punctum_area_um2": 0.11938536373063098,
+    "Mean_punctum_integrated_intensity_raw": 1558.5,
+    "Sum_punctum_area_um2": 0.23877072746126196,
+    "Sum_punctum_integrated_intensity_raw": 3117.0
+  },
+  {
+    "Image_Index": 40,
+    "Cell_ID": 2,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 6,
+    "Mean_punctum_area_um2": 0.3959614563732594,
+    "Mean_punctum_integrated_intensity_raw": 5437.333333333333,
+    "Sum_punctum_area_um2": 2.3757687382395565,
+    "Sum_punctum_integrated_intensity_raw": 32624.0
+  },
+  {
+    "Image_Index": 40,
+    "Cell_ID": 3,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 3,
+    "Mean_punctum_area_um2": 1.022734615959072,
+    "Mean_punctum_integrated_intensity_raw": 18966.666666666668,
+    "Sum_punctum_area_um2": 3.068203847877216,
+    "Sum_punctum_integrated_intensity_raw": 56900.0
+  },
+  {
+    "Image_Index": 40,
+    "Cell_ID": 4,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 5,
+    "Mean_punctum_area_um2": 0.2148936547151358,
+    "Mean_punctum_integrated_intensity_raw": 3045.4,
+    "Sum_punctum_area_um2": 1.074468273575679,
+    "Sum_punctum_integrated_intensity_raw": 15227.0
+  },
+  {
+    "Image_Index": 40,
+    "Cell_ID": 5,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 5,
+    "Mean_punctum_area_um2": 0.1838534601451717,
+    "Mean_punctum_integrated_intensity_raw": 2613.6,
+    "Sum_punctum_area_um2": 0.9192673007258585,
+    "Sum_punctum_integrated_intensity_raw": 13068.0
+  },
+  {
+    "Image_Index": 42,
+    "Cell_ID": 1,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 8,
+    "Mean_punctum_area_um2": 0.24921694678769216,
+    "Mean_punctum_integrated_intensity_raw": 3503.0,
+    "Sum_punctum_area_um2": 1.9937355743015373,
+    "Sum_punctum_integrated_intensity_raw": 28024.0
+  },
+  {
+    "Image_Index": 42,
+    "Cell_ID": 2,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 10,
+    "Mean_punctum_area_um2": 0.24115843473587456,
+    "Mean_punctum_integrated_intensity_raw": 3213.9,
+    "Sum_punctum_area_um2": 2.4115843473587457,
+    "Sum_punctum_integrated_intensity_raw": 32139.0
+  },
+  {
+    "Image_Index": 42,
+    "Cell_ID": 3,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 55,
+    "Mean_punctum_area_um2": 0.31322378156963726,
+    "Mean_punctum_integrated_intensity_raw": 4578.763636363637,
+    "Sum_punctum_area_um2": 17.22730798633005,
+    "Sum_punctum_integrated_intensity_raw": 251832.0
+  },
+  {
+    "Image_Index": 42,
+    "Cell_ID": 4,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 20,
+    "Mean_punctum_area_um2": 0.7025828655547632,
+    "Mean_punctum_integrated_intensity_raw": 10458.5,
+    "Sum_punctum_area_um2": 14.051657311095266,
+    "Sum_punctum_integrated_intensity_raw": 209170.0
+  },
+  {
+    "Image_Index": 42,
+    "Cell_ID": 5,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 5,
+    "Mean_punctum_area_um2": 0.20056741106746007,
+    "Mean_punctum_integrated_intensity_raw": 2797.6,
+    "Sum_punctum_area_um2": 1.0028370553373003,
+    "Sum_punctum_integrated_intensity_raw": 13988.0
+  },
+  {
+    "Image_Index": 42,
+    "Cell_ID": 6,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 9,
+    "Mean_punctum_area_um2": 0.7468217753371694,
+    "Mean_punctum_integrated_intensity_raw": 10625.777777777777,
+    "Sum_punctum_area_um2": 6.721395978034525,
+    "Sum_punctum_integrated_intensity_raw": 95632.0
+  },
+  {
+    "Image_Index": 42,
+    "Cell_ID": 7,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 16,
+    "Mean_punctum_area_um2": 1.4960478392494694,
+    "Mean_punctum_integrated_intensity_raw": 24295.75,
+    "Sum_punctum_area_um2": 23.93676542799151,
+    "Sum_punctum_integrated_intensity_raw": 388732.0
+  },
+  {
+    "Image_Index": 43,
+    "Cell_ID": 1,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 38,
+    "Mean_punctum_area_um2": 0.4106228168314071,
+    "Mean_punctum_integrated_intensity_raw": 5717.131578947368,
+    "Sum_punctum_area_um2": 15.60366703959347,
+    "Sum_punctum_integrated_intensity_raw": 217251.0
+  },
+  {
+    "Image_Index": 43,
+    "Cell_ID": 2,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 14,
+    "Mean_punctum_area_um2": 0.5133570640417132,
+    "Mean_punctum_integrated_intensity_raw": 7053.857142857143,
+    "Sum_punctum_area_um2": 7.186998896583985,
+    "Sum_punctum_integrated_intensity_raw": 98754.0
+  },
+  {
+    "Image_Index": 43,
+    "Cell_ID": 3,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 2,
+    "Mean_punctum_area_um2": 1.27145412373122,
+    "Mean_punctum_integrated_intensity_raw": 19120.0,
+    "Sum_punctum_area_um2": 2.54290824746244,
+    "Sum_punctum_integrated_intensity_raw": 38240.0
+  },
+  {
+    "Image_Index": 43,
+    "Cell_ID": 4,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 8,
+    "Mean_punctum_area_um2": 3.0279112876181284,
+    "Mean_punctum_integrated_intensity_raw": 39918.625,
+    "Sum_punctum_area_um2": 24.223290300945028,
+    "Sum_punctum_integrated_intensity_raw": 319349.0
+  },
+  {
+    "Image_Index": 44,
+    "Cell_ID": 1,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 0,
+    "Mean_punctum_area_um2": null,
+    "Mean_punctum_integrated_intensity_raw": null,
+    "Sum_punctum_area_um2": 0.0,
+    "Sum_punctum_integrated_intensity_raw": 0.0
+  },
+  {
+    "Image_Index": 44,
+    "Cell_ID": 2,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 11,
+    "Mean_punctum_area_um2": 0.17148079517672452,
+    "Mean_punctum_integrated_intensity_raw": 2306.3636363636365,
+    "Sum_punctum_area_um2": 1.8862887469439695,
+    "Sum_punctum_integrated_intensity_raw": 25370.0
+  },
+  {
+    "Image_Index": 44,
+    "Cell_ID": 3,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 17,
+    "Mean_punctum_area_um2": 1.2858505940634433,
+    "Mean_punctum_integrated_intensity_raw": 18419.41176470588,
+    "Sum_punctum_area_um2": 21.859460099078536,
+    "Sum_punctum_integrated_intensity_raw": 313130.0
+  },
+  {
+    "Image_Index": 44,
+    "Cell_ID": 4,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 26,
+    "Mean_punctum_area_um2": 0.4536643821763977,
+    "Mean_punctum_integrated_intensity_raw": 6054.7307692307695,
+    "Sum_punctum_area_um2": 11.79527393658634,
+    "Sum_punctum_integrated_intensity_raw": 157423.0
+  },
+  {
+    "Image_Index": 44,
+    "Cell_ID": 5,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 22,
+    "Mean_punctum_area_um2": 0.8091071696471399,
+    "Mean_punctum_integrated_intensity_raw": 10809.181818181818,
+    "Sum_punctum_area_um2": 17.800357732237078,
+    "Sum_punctum_integrated_intensity_raw": 237802.0
+  },
+  {
+    "Image_Index": 44,
+    "Cell_ID": 6,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 11,
+    "Mean_punctum_area_um2": 0.5079304565994118,
+    "Mean_punctum_integrated_intensity_raw": 7255.545454545455,
+    "Sum_punctum_area_um2": 5.58723502259353,
+    "Sum_punctum_integrated_intensity_raw": 79811.0
+  },
+  {
+    "Image_Index": 45,
+    "Cell_ID": 1,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 13,
+    "Mean_punctum_area_um2": 0.5023368766204243,
+    "Mean_punctum_integrated_intensity_raw": 10229.384615384615,
+    "Sum_punctum_area_um2": 6.530379396065515,
+    "Sum_punctum_integrated_intensity_raw": 132982.0
+  },
+  {
+    "Image_Index": 45,
+    "Cell_ID": 2,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 67,
+    "Mean_punctum_area_um2": 0.9566865938354593,
+    "Mean_punctum_integrated_intensity_raw": 15130.970149253732,
+    "Sum_punctum_area_um2": 64.09800178697577,
+    "Sum_punctum_integrated_intensity_raw": 1013775.0
+  },
+  {
+    "Image_Index": 45,
+    "Cell_ID": 3,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 11,
+    "Mean_punctum_area_um2": 0.3668386630995752,
+    "Mean_punctum_integrated_intensity_raw": 4795.545454545455,
+    "Sum_punctum_area_um2": 4.035225294095327,
+    "Sum_punctum_integrated_intensity_raw": 52751.0
+  },
+  {
+    "Image_Index": 46,
+    "Cell_ID": 1,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 15,
+    "Mean_punctum_area_um2": 0.46799062582407347,
+    "Mean_punctum_integrated_intensity_raw": 6418.4,
+    "Sum_punctum_area_um2": 7.019859387361102,
+    "Sum_punctum_integrated_intensity_raw": 96276.0
+  },
+  {
+    "Image_Index": 46,
+    "Cell_ID": 2,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 30,
+    "Mean_punctum_area_um2": 1.6101106055137764,
+    "Mean_punctum_integrated_intensity_raw": 22974.5,
+    "Sum_punctum_area_um2": 48.303318165413295,
+    "Sum_punctum_integrated_intensity_raw": 689235.0
+  },
+  {
+    "Image_Index": 46,
+    "Cell_ID": 3,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 40,
+    "Mean_punctum_area_um2": 0.5008216008499969,
+    "Mean_punctum_integrated_intensity_raw": 6777.275,
+    "Sum_punctum_area_um2": 20.03286403399988,
+    "Sum_punctum_integrated_intensity_raw": 271091.0
+  },
+  {
+    "Image_Index": 47,
+    "Cell_ID": 1,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 18,
+    "Mean_punctum_area_um2": 0.5093775519173589,
+    "Mean_punctum_integrated_intensity_raw": 6862.555555555556,
+    "Sum_punctum_area_um2": 9.16879593451246,
+    "Sum_punctum_integrated_intensity_raw": 123526.0
+  },
+  {
+    "Image_Index": 47,
+    "Cell_ID": 2,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 4,
+    "Mean_punctum_area_um2": 0.14326243647675718,
+    "Mean_punctum_integrated_intensity_raw": 1972.25,
+    "Sum_punctum_area_um2": 0.5730497459070287,
+    "Sum_punctum_integrated_intensity_raw": 7889.0
+  },
+  {
+    "Image_Index": 47,
+    "Cell_ID": 3,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 12,
+    "Mean_punctum_area_um2": 0.881461935544492,
+    "Mean_punctum_integrated_intensity_raw": 15202.0,
+    "Sum_punctum_area_um2": 10.577543226533905,
+    "Sum_punctum_integrated_intensity_raw": 182424.0
+  },
+  {
+    "Image_Index": 47,
+    "Cell_ID": 4,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 10,
+    "Mean_punctum_area_um2": 0.3951655539483886,
+    "Mean_punctum_integrated_intensity_raw": 5129.1,
+    "Sum_punctum_area_um2": 3.9516555394838857,
+    "Sum_punctum_integrated_intensity_raw": 51291.0
+  },
+  {
+    "Image_Index": 47,
+    "Cell_ID": 5,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 24,
+    "Mean_punctum_area_um2": 1.8678835033688304,
+    "Mean_punctum_integrated_intensity_raw": 28578.041666666668,
+    "Sum_punctum_area_um2": 44.82920408085193,
+    "Sum_punctum_integrated_intensity_raw": 685873.0
+  },
+  {
+    "Image_Index": 47,
+    "Cell_ID": 6,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 6,
+    "Mean_punctum_area_um2": 0.4417258458033346,
+    "Mean_punctum_integrated_intensity_raw": 5894.166666666667,
+    "Sum_punctum_area_um2": 2.6503550748200078,
+    "Sum_punctum_integrated_intensity_raw": 35365.0
+  },
+  {
+    "Image_Index": 48,
+    "Cell_ID": 1,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 10,
+    "Mean_punctum_area_um2": 0.6733334514407587,
+    "Mean_punctum_integrated_intensity_raw": 9971.0,
+    "Sum_punctum_area_um2": 6.733334514407588,
+    "Sum_punctum_integrated_intensity_raw": 99710.0
+  },
+  {
+    "Image_Index": 48,
+    "Cell_ID": 2,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 17,
+    "Mean_punctum_area_um2": 0.47613692123157536,
+    "Mean_punctum_integrated_intensity_raw": 6876.823529411765,
+    "Sum_punctum_area_um2": 8.09432766093678,
+    "Sum_punctum_integrated_intensity_raw": 116906.0
+  },
+  {
+    "Image_Index": 48,
+    "Cell_ID": 3,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 4,
+    "Mean_punctum_area_um2": 0.25966316611412243,
+    "Mean_punctum_integrated_intensity_raw": 3412.25,
+    "Sum_punctum_area_um2": 1.0386526644564897,
+    "Sum_punctum_integrated_intensity_raw": 13649.0
+  },
+  {
+    "Image_Index": 48,
+    "Cell_ID": 4,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 15,
+    "Mean_punctum_area_um2": 0.702781841160981,
+    "Mean_punctum_integrated_intensity_raw": 11816.933333333332,
+    "Sum_punctum_area_um2": 10.541727617414715,
+    "Sum_punctum_integrated_intensity_raw": 177254.0
+  },
+  {
+    "Image_Index": 48,
+    "Cell_ID": 5,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 5,
+    "Mean_punctum_area_um2": 0.5969268186531549,
+    "Mean_punctum_integrated_intensity_raw": 9327.8,
+    "Sum_punctum_area_um2": 2.9846340932657744,
+    "Sum_punctum_integrated_intensity_raw": 46639.0
+  },
+  {
+    "Image_Index": 48,
+    "Cell_ID": 6,
+    "Group": "Chole_mRNA",
+    "Puncta_count": 12,
+    "Mean_punctum_area_um2": 0.9182724226947699,
+    "Mean_punctum_integrated_intensity_raw": 12187.416666666666,
+    "Sum_punctum_area_um2": 11.01926907233724,
+    "Sum_punctum_integrated_intensity_raw": 146249.0
+  },
+  {
+    "Image_Index": 2,
+    "Cell_ID": 1,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 5,
+    "Mean_punctum_area_um2": 0.6231915986738937,
+    "Mean_punctum_integrated_intensity_raw": 8792.6,
+    "Sum_punctum_area_um2": 3.1159579933694688,
+    "Sum_punctum_integrated_intensity_raw": 43963.0
+  },
+  {
+    "Image_Index": 2,
+    "Cell_ID": 2,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 21,
+    "Mean_punctum_area_um2": 0.28538786948941314,
+    "Mean_punctum_integrated_intensity_raw": 3937.904761904762,
+    "Sum_punctum_area_um2": 5.993145259277676,
+    "Sum_punctum_integrated_intensity_raw": 82696.0
+  },
+  {
+    "Image_Index": 2,
+    "Cell_ID": 3,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 14,
+    "Mean_punctum_area_um2": 0.6966988726280394,
+    "Mean_punctum_integrated_intensity_raw": 9318.642857142857,
+    "Sum_punctum_area_um2": 9.753784216792551,
+    "Sum_punctum_integrated_intensity_raw": 130461.0
+  },
+  {
+    "Image_Index": 2,
+    "Cell_ID": 4,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 18,
+    "Mean_punctum_area_um2": 0.5889677944044461,
+    "Mean_punctum_integrated_intensity_raw": 8061.0,
+    "Sum_punctum_area_um2": 10.601420299280031,
+    "Sum_punctum_integrated_intensity_raw": 145098.0
+  },
+  {
+    "Image_Index": 3,
+    "Cell_ID": 1,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 4,
+    "Mean_punctum_area_um2": 0.08356975461144169,
+    "Mean_punctum_integrated_intensity_raw": 1101.5,
+    "Sum_punctum_area_um2": 0.33427901844576674,
+    "Sum_punctum_integrated_intensity_raw": 4406.0
+  },
+  {
+    "Image_Index": 3,
+    "Cell_ID": 2,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 4,
+    "Mean_punctum_area_um2": 0.15520097284982026,
+    "Mean_punctum_integrated_intensity_raw": 2001.75,
+    "Sum_punctum_area_um2": 0.620803891399281,
+    "Sum_punctum_integrated_intensity_raw": 8007.0
+  },
+  {
+    "Image_Index": 3,
+    "Cell_ID": 3,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 16,
+    "Mean_punctum_area_um2": 1.0476065667362868,
+    "Mean_punctum_integrated_intensity_raw": 14230.75,
+    "Sum_punctum_area_um2": 16.76170506778059,
+    "Sum_punctum_integrated_intensity_raw": 227692.0
+  },
+  {
+    "Image_Index": 3,
+    "Cell_ID": 4,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 1,
+    "Mean_punctum_area_um2": 0.6924351096376598,
+    "Mean_punctum_integrated_intensity_raw": 10042.0,
+    "Sum_punctum_area_um2": 0.6924351096376598,
+    "Sum_punctum_integrated_intensity_raw": 10042.0
+  },
+  {
+    "Image_Index": 3,
+    "Cell_ID": 5,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 5,
+    "Mean_punctum_area_um2": 0.2077305328912979,
+    "Mean_punctum_integrated_intensity_raw": 2654.6,
+    "Sum_punctum_area_um2": 1.0386526644564895,
+    "Sum_punctum_integrated_intensity_raw": 13273.0
+  },
+  {
+    "Image_Index": 5,
+    "Cell_ID": 1,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 0,
+    "Mean_punctum_area_um2": null,
+    "Mean_punctum_integrated_intensity_raw": null,
+    "Sum_punctum_area_um2": 0.0,
+    "Sum_punctum_integrated_intensity_raw": 0.0
+  },
+  {
+    "Image_Index": 5,
+    "Cell_ID": 2,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 1,
+    "Mean_punctum_area_um2": 0.023877072746126198,
+    "Mean_punctum_integrated_intensity_raw": 301.0,
+    "Sum_punctum_area_um2": 0.023877072746126198,
+    "Sum_punctum_integrated_intensity_raw": 301.0
+  },
+  {
+    "Image_Index": 5,
+    "Cell_ID": 3,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 19,
+    "Mean_punctum_area_um2": 2.191663940486531,
+    "Mean_punctum_integrated_intensity_raw": 33437.0,
+    "Sum_punctum_area_um2": 41.64161486924409,
+    "Sum_punctum_integrated_intensity_raw": 635303.0
+  },
+  {
+    "Image_Index": 5,
+    "Cell_ID": 4,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 2,
+    "Mean_punctum_area_um2": 0.06566195005184704,
+    "Mean_punctum_integrated_intensity_raw": 846.5,
+    "Sum_punctum_area_um2": 0.13132390010369407,
+    "Sum_punctum_integrated_intensity_raw": 1693.0
+  },
+  {
+    "Image_Index": 5,
+    "Cell_ID": 5,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 4,
+    "Mean_punctum_area_um2": 0.3880024321245507,
+    "Mean_punctum_integrated_intensity_raw": 4935.0,
+    "Sum_punctum_area_um2": 1.5520097284982028,
+    "Sum_punctum_integrated_intensity_raw": 19740.0
+  },
+  {
+    "Image_Index": 5,
+    "Cell_ID": 6,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 0,
+    "Mean_punctum_area_um2": null,
+    "Mean_punctum_integrated_intensity_raw": null,
+    "Sum_punctum_area_um2": 0.0,
+    "Sum_punctum_integrated_intensity_raw": 0.0
+  },
+  {
+    "Image_Index": 6,
+    "Cell_ID": 1,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 0,
+    "Mean_punctum_area_um2": null,
+    "Mean_punctum_integrated_intensity_raw": null,
+    "Sum_punctum_area_um2": 0.0,
+    "Sum_punctum_integrated_intensity_raw": 0.0
+  },
+  {
+    "Image_Index": 6,
+    "Cell_ID": 2,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 3,
+    "Mean_punctum_area_um2": 0.09550829098450479,
+    "Mean_punctum_integrated_intensity_raw": 1235.6666666666667,
+    "Sum_punctum_area_um2": 0.28652487295351436,
+    "Sum_punctum_integrated_intensity_raw": 3707.0
+  },
+  {
+    "Image_Index": 6,
+    "Cell_ID": 3,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 45,
+    "Mean_punctum_area_um2": 0.7988207337620665,
+    "Mean_punctum_integrated_intensity_raw": 11042.733333333334,
+    "Sum_punctum_area_um2": 35.94693301929299,
+    "Sum_punctum_integrated_intensity_raw": 496923.0
+  },
+  {
+    "Image_Index": 6,
+    "Cell_ID": 4,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 18,
+    "Mean_punctum_area_um2": 1.1507422559591376,
+    "Mean_punctum_integrated_intensity_raw": 16233.333333333334,
+    "Sum_punctum_area_um2": 20.713360607264477,
+    "Sum_punctum_integrated_intensity_raw": 292200.0
+  },
+  {
+    "Image_Index": 6,
+    "Cell_ID": 5,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 19,
+    "Mean_punctum_area_um2": 1.6871036927197063,
+    "Mean_punctum_integrated_intensity_raw": 24801.947368421053,
+    "Sum_punctum_area_um2": 32.05497016167442,
+    "Sum_punctum_integrated_intensity_raw": 471237.0
+  },
+  {
+    "Image_Index": 6,
+    "Cell_ID": 6,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 0,
+    "Mean_punctum_area_um2": null,
+    "Mean_punctum_integrated_intensity_raw": null,
+    "Sum_punctum_area_um2": 0.0,
+    "Sum_punctum_integrated_intensity_raw": 0.0
+  },
+  {
+    "Image_Index": 7,
+    "Cell_ID": 1,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 2,
+    "Mean_punctum_area_um2": 0.07760048642491013,
+    "Mean_punctum_integrated_intensity_raw": 1016.0,
+    "Sum_punctum_area_um2": 0.15520097284982026,
+    "Sum_punctum_integrated_intensity_raw": 2032.0
+  },
+  {
+    "Image_Index": 7,
+    "Cell_ID": 2,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 0,
+    "Mean_punctum_area_um2": null,
+    "Mean_punctum_integrated_intensity_raw": null,
+    "Sum_punctum_area_um2": 0.0,
+    "Sum_punctum_integrated_intensity_raw": 0.0
+  },
+  {
+    "Image_Index": 7,
+    "Cell_ID": 3,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 4,
+    "Mean_punctum_area_um2": 0.3611407252851587,
+    "Mean_punctum_integrated_intensity_raw": 4846.25,
+    "Sum_punctum_area_um2": 1.444562901140635,
+    "Sum_punctum_integrated_intensity_raw": 19385.0
+  },
+  {
+    "Image_Index": 7,
+    "Cell_ID": 4,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 3,
+    "Mean_punctum_area_um2": 0.9630419340937566,
+    "Mean_punctum_integrated_intensity_raw": 12764.666666666666,
+    "Sum_punctum_area_um2": 2.88912580228127,
+    "Sum_punctum_integrated_intensity_raw": 38294.0
+  },
+  {
+    "Image_Index": 7,
+    "Cell_ID": 5,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 14,
+    "Mean_punctum_area_um2": 0.6804965732645966,
+    "Mean_punctum_integrated_intensity_raw": 8973.57142857143,
+    "Sum_punctum_area_um2": 9.526952025704352,
+    "Sum_punctum_integrated_intensity_raw": 125630.0
+  },
+  {
+    "Image_Index": 7,
+    "Cell_ID": 6,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 0,
+    "Mean_punctum_area_um2": null,
+    "Mean_punctum_integrated_intensity_raw": null,
+    "Sum_punctum_area_um2": 0.0,
+    "Sum_punctum_integrated_intensity_raw": 0.0
+  },
+  {
+    "Image_Index": 7,
+    "Cell_ID": 7,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 6,
+    "Mean_punctum_area_um2": 0.29448389720222307,
+    "Mean_punctum_integrated_intensity_raw": 3747.3333333333335,
+    "Sum_punctum_area_um2": 1.7669033832133385,
+    "Sum_punctum_integrated_intensity_raw": 22484.0
+  },
+  {
+    "Image_Index": 7,
+    "Cell_ID": 8,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 4,
+    "Mean_punctum_area_um2": 0.13729316829022564,
+    "Mean_punctum_integrated_intensity_raw": 1758.5,
+    "Sum_punctum_area_um2": 0.5491726731609026,
+    "Sum_punctum_integrated_intensity_raw": 7034.0
+  },
+  {
+    "Image_Index": 8,
+    "Cell_ID": 1,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 11,
+    "Mean_punctum_area_um2": 2.2368475877166407,
+    "Mean_punctum_integrated_intensity_raw": 31751.636363636364,
+    "Sum_punctum_area_um2": 24.605323464883046,
+    "Sum_punctum_integrated_intensity_raw": 349268.0
+  },
+  {
+    "Image_Index": 8,
+    "Cell_ID": 2,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 2,
+    "Mean_punctum_area_um2": 0.20892438652860423,
+    "Mean_punctum_integrated_intensity_raw": 2745.5,
+    "Sum_punctum_area_um2": 0.41784877305720847,
+    "Sum_punctum_integrated_intensity_raw": 5491.0
+  },
+  {
+    "Image_Index": 8,
+    "Cell_ID": 3,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 0,
+    "Mean_punctum_area_um2": null,
+    "Mean_punctum_integrated_intensity_raw": null,
+    "Sum_punctum_area_um2": 0.0,
+    "Sum_punctum_integrated_intensity_raw": 0.0
+  },
+  {
+    "Image_Index": 8,
+    "Cell_ID": 4,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 3,
+    "Mean_punctum_area_um2": 0.16713950922288337,
+    "Mean_punctum_integrated_intensity_raw": 2179.3333333333335,
+    "Sum_punctum_area_um2": 0.5014185276686501,
+    "Sum_punctum_integrated_intensity_raw": 6538.0
+  },
+  {
+    "Image_Index": 8,
+    "Cell_ID": 5,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 2,
+    "Mean_punctum_area_um2": 0.22683219108819885,
+    "Mean_punctum_integrated_intensity_raw": 3184.5,
+    "Sum_punctum_area_um2": 0.4536643821763977,
+    "Sum_punctum_integrated_intensity_raw": 6369.0
+  },
+  {
+    "Image_Index": 9,
+    "Cell_ID": 1,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 13,
+    "Mean_punctum_area_um2": 0.5556011158233211,
+    "Mean_punctum_integrated_intensity_raw": 7339.2307692307695,
+    "Sum_punctum_area_um2": 7.222814505703174,
+    "Sum_punctum_integrated_intensity_raw": 95410.0
+  },
+  {
+    "Image_Index": 9,
+    "Cell_ID": 2,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 4,
+    "Mean_punctum_area_um2": 2.9159875091206615,
+    "Mean_punctum_integrated_intensity_raw": 38605.75,
+    "Sum_punctum_area_um2": 11.663950036482646,
+    "Sum_punctum_integrated_intensity_raw": 154423.0
+  },
+  {
+    "Image_Index": 9,
+    "Cell_ID": 3,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 7,
+    "Mean_punctum_area_um2": 0.5270011056109282,
+    "Mean_punctum_integrated_intensity_raw": 6804.142857142857,
+    "Sum_punctum_area_um2": 3.6890077392764975,
+    "Sum_punctum_integrated_intensity_raw": 47629.0
+  },
+  {
+    "Image_Index": 9,
+    "Cell_ID": 4,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 13,
+    "Mean_punctum_area_um2": 0.25805605544851773,
+    "Mean_punctum_integrated_intensity_raw": 3315.3846153846152,
+    "Sum_punctum_area_um2": 3.354728720830731,
+    "Sum_punctum_integrated_intensity_raw": 43100.0
+  },
+  {
+    "Image_Index": 9,
+    "Cell_ID": 5,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 4,
+    "Mean_punctum_area_um2": 0.8744977893268719,
+    "Mean_punctum_integrated_intensity_raw": 11653.25,
+    "Sum_punctum_area_um2": 3.4979911573074878,
+    "Sum_punctum_integrated_intensity_raw": 46613.0
+  },
+  {
+    "Image_Index": 9,
+    "Cell_ID": 6,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 1,
+    "Mean_punctum_area_um2": 0.11938536373063098,
+    "Mean_punctum_integrated_intensity_raw": 1535.0,
+    "Sum_punctum_area_um2": 0.11938536373063098,
+    "Sum_punctum_integrated_intensity_raw": 1535.0
+  },
+  {
+    "Image_Index": 10,
+    "Cell_ID": 1,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 6,
+    "Mean_punctum_area_um2": 0.21489365471513577,
+    "Mean_punctum_integrated_intensity_raw": 2853.1666666666665,
+    "Sum_punctum_area_um2": 1.2893619282908146,
+    "Sum_punctum_integrated_intensity_raw": 17119.0
+  },
+  {
+    "Image_Index": 10,
+    "Cell_ID": 2,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 3,
+    "Mean_punctum_area_um2": 0.07959024248708732,
+    "Mean_punctum_integrated_intensity_raw": 1019.0,
+    "Sum_punctum_area_um2": 0.23877072746126196,
+    "Sum_punctum_integrated_intensity_raw": 3057.0
+  },
+  {
+    "Image_Index": 10,
+    "Cell_ID": 3,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 10,
+    "Mean_punctum_area_um2": 0.5754374531816413,
+    "Mean_punctum_integrated_intensity_raw": 7866.2,
+    "Sum_punctum_area_um2": 5.7543745318164135,
+    "Sum_punctum_integrated_intensity_raw": 78662.0
+  },
+  {
+    "Image_Index": 10,
+    "Cell_ID": 4,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 6,
+    "Mean_punctum_area_um2": 0.19101658196900959,
+    "Mean_punctum_integrated_intensity_raw": 2457.8333333333335,
+    "Sum_punctum_area_um2": 1.1460994918140575,
+    "Sum_punctum_integrated_intensity_raw": 14747.0
+  },
+  {
+    "Image_Index": 11,
+    "Cell_ID": 1,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 8,
+    "Mean_punctum_area_um2": 0.33427901844576674,
+    "Mean_punctum_integrated_intensity_raw": 4355.625,
+    "Sum_punctum_area_um2": 2.674232147566134,
+    "Sum_punctum_integrated_intensity_raw": 34845.0
+  },
+  {
+    "Image_Index": 11,
+    "Cell_ID": 2,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 5,
+    "Mean_punctum_area_um2": 0.16236409467365814,
+    "Mean_punctum_integrated_intensity_raw": 2060.0,
+    "Sum_punctum_area_um2": 0.8118204733682908,
+    "Sum_punctum_integrated_intensity_raw": 10300.0
+  },
+  {
+    "Image_Index": 11,
+    "Cell_ID": 3,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 20,
+    "Mean_punctum_area_um2": 0.4268026753370058,
+    "Mean_punctum_integrated_intensity_raw": 5717.0,
+    "Sum_punctum_area_um2": 8.536053506740116,
+    "Sum_punctum_integrated_intensity_raw": 114340.0
+  },
+  {
+    "Image_Index": 12,
+    "Cell_ID": 1,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 0,
+    "Mean_punctum_area_um2": null,
+    "Mean_punctum_integrated_intensity_raw": null,
+    "Sum_punctum_area_um2": 0.0,
+    "Sum_punctum_integrated_intensity_raw": 0.0
+  },
+  {
+    "Image_Index": 12,
+    "Cell_ID": 2,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 2,
+    "Mean_punctum_area_um2": 0.39994096849761385,
+    "Mean_punctum_integrated_intensity_raw": 6662.5,
+    "Sum_punctum_area_um2": 0.7998819369952277,
+    "Sum_punctum_integrated_intensity_raw": 13325.0
+  },
+  {
+    "Image_Index": 12,
+    "Cell_ID": 3,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 10,
+    "Mean_punctum_area_um2": 0.5014185276686501,
+    "Mean_punctum_integrated_intensity_raw": 7238.6,
+    "Sum_punctum_area_um2": 5.014185276686502,
+    "Sum_punctum_integrated_intensity_raw": 72386.0
+  },
+  {
+    "Image_Index": 12,
+    "Cell_ID": 4,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 13,
+    "Mean_punctum_area_um2": 2.5181128257645398,
+    "Mean_punctum_integrated_intensity_raw": 34707.692307692305,
+    "Sum_punctum_area_um2": 32.73546673493902,
+    "Sum_punctum_integrated_intensity_raw": 451200.0
+  },
+  {
+    "Image_Index": 13,
+    "Cell_ID": 1,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 24,
+    "Mean_punctum_area_um2": 0.1616676800518961,
+    "Mean_punctum_integrated_intensity_raw": 2139.8333333333335,
+    "Sum_punctum_area_um2": 3.880024321245507,
+    "Sum_punctum_integrated_intensity_raw": 51356.0
+  },
+  {
+    "Image_Index": 13,
+    "Cell_ID": 2,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 4,
+    "Mean_punctum_area_um2": 0.15221633875655452,
+    "Mean_punctum_integrated_intensity_raw": 1965.5,
+    "Sum_punctum_area_um2": 0.6088653550262181,
+    "Sum_punctum_integrated_intensity_raw": 7862.0
+  },
+  {
+    "Image_Index": 13,
+    "Cell_ID": 3,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 3,
+    "Mean_punctum_area_um2": 0.25866828808303377,
+    "Mean_punctum_integrated_intensity_raw": 4105.666666666667,
+    "Sum_punctum_area_um2": 0.7760048642491013,
+    "Sum_punctum_integrated_intensity_raw": 12317.0
+  },
+  {
+    "Image_Index": 14,
+    "Cell_ID": 1,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 6,
+    "Mean_punctum_area_um2": 1.762923871088984,
+    "Mean_punctum_integrated_intensity_raw": 24281.833333333332,
+    "Sum_punctum_area_um2": 10.577543226533905,
+    "Sum_punctum_integrated_intensity_raw": 145691.0
+  },
+  {
+    "Image_Index": 14,
+    "Cell_ID": 2,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 21,
+    "Mean_punctum_area_um2": 0.6236464000595342,
+    "Mean_punctum_integrated_intensity_raw": 9180.809523809523,
+    "Sum_punctum_area_um2": 13.09657440125022,
+    "Sum_punctum_integrated_intensity_raw": 192797.0
+  },
+  {
+    "Image_Index": 14,
+    "Cell_ID": 3,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 6,
+    "Mean_punctum_area_um2": 0.46759267461163806,
+    "Mean_punctum_integrated_intensity_raw": 6391.666666666667,
+    "Sum_punctum_area_um2": 2.8055560476698282,
+    "Sum_punctum_integrated_intensity_raw": 38350.0
+  },
+  {
+    "Image_Index": 14,
+    "Cell_ID": 4,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 7,
+    "Mean_punctum_area_um2": 0.6173928810069773,
+    "Mean_punctum_integrated_intensity_raw": 12243.57142857143,
+    "Sum_punctum_area_um2": 4.321750167048841,
+    "Sum_punctum_integrated_intensity_raw": 85705.0
+  },
+  {
+    "Image_Index": 15,
+    "Cell_ID": 1,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 4,
+    "Mean_punctum_area_um2": 0.3163712138861721,
+    "Mean_punctum_integrated_intensity_raw": 4031.5,
+    "Sum_punctum_area_um2": 1.2654848555446885,
+    "Sum_punctum_integrated_intensity_raw": 16126.0
+  },
+  {
+    "Image_Index": 15,
+    "Cell_ID": 2,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 12,
+    "Mean_punctum_area_um2": 1.3142338790680295,
+    "Mean_punctum_integrated_intensity_raw": 17933.0,
+    "Sum_punctum_area_um2": 15.770806548816353,
+    "Sum_punctum_integrated_intensity_raw": 215196.0
+  },
+  {
+    "Image_Index": 15,
+    "Cell_ID": 3,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 7,
+    "Mean_punctum_area_um2": 1.0608242320064638,
+    "Mean_punctum_integrated_intensity_raw": 14100.285714285714,
+    "Sum_punctum_area_um2": 7.425769624045247,
+    "Sum_punctum_integrated_intensity_raw": 98702.0
+  },
+  {
+    "Image_Index": 15,
+    "Cell_ID": 4,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 4,
+    "Mean_punctum_area_um2": 2.235490935856065,
+    "Mean_punctum_integrated_intensity_raw": 32090.5,
+    "Sum_punctum_area_um2": 8.94196374342426,
+    "Sum_punctum_integrated_intensity_raw": 128362.0
+  },
+  {
+    "Image_Index": 16,
+    "Cell_ID": 1,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 13,
+    "Mean_punctum_area_um2": 0.2314239358470693,
+    "Mean_punctum_integrated_intensity_raw": 3051.4615384615386,
+    "Sum_punctum_area_um2": 3.008511166011901,
+    "Sum_punctum_integrated_intensity_raw": 39669.0
+  },
+  {
+    "Image_Index": 16,
+    "Cell_ID": 2,
+    "Group": "DOPC_mRNA",
+    "Puncta_count": 9,
+    "Mean_punctum_area_um2": 0.1790780455959465,
+    "Mean_punctum_integrated_intensity_raw": 2444.4444444444443,
+    "Sum_punctum_area_um2": 1.6117024103635185,
+    "Sum_punctum_integrated_intensity_raw": 22000.0
+  },
+  {
+    "Image_Index": 64,
+    "Cell_ID": 1,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 3,
+    "Mean_punctum_area_um2": 1.2933414404151689,
+    "Mean_punctum_integrated_intensity_raw": 30772.666666666668,
+    "Sum_punctum_area_um2": 3.880024321245507,
+    "Sum_punctum_integrated_intensity_raw": 92318.0
+  },
+  {
+    "Image_Index": 64,
+    "Cell_ID": 2,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 20,
+    "Mean_punctum_area_um2": 1.3263713910473103,
+    "Mean_punctum_integrated_intensity_raw": 21805.1,
+    "Sum_punctum_area_um2": 26.527427820946205,
+    "Sum_punctum_integrated_intensity_raw": 436102.0
+  },
+  {
+    "Image_Index": 64,
+    "Cell_ID": 3,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 22,
+    "Mean_punctum_area_um2": 1.84830249484786,
+    "Mean_punctum_integrated_intensity_raw": 31273.5,
+    "Sum_punctum_area_um2": 40.662654886652916,
+    "Sum_punctum_integrated_intensity_raw": 688017.0
+  },
+  {
+    "Image_Index": 64,
+    "Cell_ID": 4,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 22,
+    "Mean_punctum_area_um2": 1.1113692041833285,
+    "Mean_punctum_integrated_intensity_raw": 17791.863636363636,
+    "Sum_punctum_area_um2": 24.450122492033227,
+    "Sum_punctum_integrated_intensity_raw": 391421.0
+  },
+  {
+    "Image_Index": 64,
+    "Cell_ID": 5,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 40,
+    "Mean_punctum_area_um2": 0.45843979672562296,
+    "Mean_punctum_integrated_intensity_raw": 6286.0,
+    "Sum_punctum_area_um2": 18.33759186902492,
+    "Sum_punctum_integrated_intensity_raw": 251440.0
+  },
+  {
+    "Image_Index": 65,
+    "Cell_ID": 1,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 8,
+    "Mean_punctum_area_um2": 1.4415782670473691,
+    "Mean_punctum_integrated_intensity_raw": 19780.25,
+    "Sum_punctum_area_um2": 11.532626136378953,
+    "Sum_punctum_integrated_intensity_raw": 158242.0
+  },
+  {
+    "Image_Index": 65,
+    "Cell_ID": 2,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 9,
+    "Mean_punctum_area_um2": 0.34091153865302404,
+    "Mean_punctum_integrated_intensity_raw": 4422.333333333333,
+    "Sum_punctum_area_um2": 3.0682038478772165,
+    "Sum_punctum_integrated_intensity_raw": 39801.0
+  },
+  {
+    "Image_Index": 65,
+    "Cell_ID": 3,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 23,
+    "Mean_punctum_area_um2": 1.0370954640600032,
+    "Mean_punctum_integrated_intensity_raw": 17260.695652173912,
+    "Sum_punctum_area_um2": 23.85319567338007,
+    "Sum_punctum_integrated_intensity_raw": 396996.0
+  },
+  {
+    "Image_Index": 65,
+    "Cell_ID": 4,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 15,
+    "Mean_punctum_area_um2": 0.31915687237322016,
+    "Mean_punctum_integrated_intensity_raw": 4420.2,
+    "Sum_punctum_area_um2": 4.787353085598302,
+    "Sum_punctum_integrated_intensity_raw": 66303.0
+  },
+  {
+    "Image_Index": 66,
+    "Cell_ID": 1,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 7,
+    "Mean_punctum_area_um2": 0.7214286979722415,
+    "Mean_punctum_integrated_intensity_raw": 10023.285714285714,
+    "Sum_punctum_area_um2": 5.050000885805691,
+    "Sum_punctum_integrated_intensity_raw": 70163.0
+  },
+  {
+    "Image_Index": 66,
+    "Cell_ID": 2,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 27,
+    "Mean_punctum_area_um2": 0.8029771130919476,
+    "Mean_punctum_integrated_intensity_raw": 11548.111111111111,
+    "Sum_punctum_area_um2": 21.680382053482585,
+    "Sum_punctum_integrated_intensity_raw": 311799.0
+  },
+  {
+    "Image_Index": 66,
+    "Cell_ID": 3,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 78,
+    "Mean_punctum_area_um2": 0.8248304168517568,
+    "Mean_punctum_integrated_intensity_raw": 11844.47435897436,
+    "Sum_punctum_area_um2": 64.33677251443703,
+    "Sum_punctum_integrated_intensity_raw": 923869.0
+  },
+  {
+    "Image_Index": 66,
+    "Cell_ID": 4,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 14,
+    "Mean_punctum_area_um2": 3.255809419453922,
+    "Mean_punctum_integrated_intensity_raw": 48161.78571428572,
+    "Sum_punctum_area_um2": 45.58133187235491,
+    "Sum_punctum_integrated_intensity_raw": 674265.0
+  },
+  {
+    "Image_Index": 67,
+    "Cell_ID": 1,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 35,
+    "Mean_punctum_area_um2": 1.3804359057653246,
+    "Mean_punctum_integrated_intensity_raw": 21855.97142857143,
+    "Sum_punctum_area_um2": 48.31525670178636,
+    "Sum_punctum_integrated_intensity_raw": 764959.0
+  },
+  {
+    "Image_Index": 67,
+    "Cell_ID": 2,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 42,
+    "Mean_punctum_area_um2": 1.3712261777061043,
+    "Mean_punctum_integrated_intensity_raw": 20014.309523809523,
+    "Sum_punctum_area_um2": 57.59149946365638,
+    "Sum_punctum_integrated_intensity_raw": 840601.0
+  },
+  {
+    "Image_Index": 68,
+    "Cell_ID": 1,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 10,
+    "Mean_punctum_area_um2": 1.6439364585707885,
+    "Mean_punctum_integrated_intensity_raw": 24029.1,
+    "Sum_punctum_area_um2": 16.439364585707885,
+    "Sum_punctum_integrated_intensity_raw": 240291.0
+  },
+  {
+    "Image_Index": 68,
+    "Cell_ID": 2,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 4,
+    "Mean_punctum_area_um2": 3.414421402696046,
+    "Mean_punctum_integrated_intensity_raw": 52176.75,
+    "Sum_punctum_area_um2": 13.657685610784185,
+    "Sum_punctum_integrated_intensity_raw": 208707.0
+  },
+  {
+    "Image_Index": 68,
+    "Cell_ID": 3,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 10,
+    "Mean_punctum_area_um2": 0.10386526644564895,
+    "Mean_punctum_integrated_intensity_raw": 1326.5,
+    "Sum_punctum_area_um2": 1.0386526644564895,
+    "Sum_punctum_integrated_intensity_raw": 13265.0
+  },
+  {
+    "Image_Index": 68,
+    "Cell_ID": 4,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 10,
+    "Mean_punctum_area_um2": 0.14206858283945087,
+    "Mean_punctum_integrated_intensity_raw": 1876.5,
+    "Sum_punctum_area_um2": 1.4206858283945087,
+    "Sum_punctum_integrated_intensity_raw": 18765.0
+  },
+  {
+    "Image_Index": 69,
+    "Cell_ID": 1,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 10,
+    "Mean_punctum_area_um2": 1.0111940307984444,
+    "Mean_punctum_integrated_intensity_raw": 14739.2,
+    "Sum_punctum_area_um2": 10.111940307984444,
+    "Sum_punctum_integrated_intensity_raw": 147392.0
+  },
+  {
+    "Image_Index": 69,
+    "Cell_ID": 2,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 10,
+    "Mean_punctum_area_um2": 0.8404729606636421,
+    "Mean_punctum_integrated_intensity_raw": 11121.0,
+    "Sum_punctum_area_um2": 8.40472960663642,
+    "Sum_punctum_integrated_intensity_raw": 111210.0
+  },
+  {
+    "Image_Index": 69,
+    "Cell_ID": 3,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 5,
+    "Mean_punctum_area_um2": 2.800780633120603,
+    "Mean_punctum_integrated_intensity_raw": 40520.8,
+    "Sum_punctum_area_um2": 14.003903165603015,
+    "Sum_punctum_integrated_intensity_raw": 202604.0
+  },
+  {
+    "Image_Index": 70,
+    "Cell_ID": 1,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 3,
+    "Mean_punctum_area_um2": 0.7919229127465188,
+    "Mean_punctum_integrated_intensity_raw": 10363.666666666666,
+    "Sum_punctum_area_um2": 2.3757687382395565,
+    "Sum_punctum_integrated_intensity_raw": 31091.0
+  },
+  {
+    "Image_Index": 70,
+    "Cell_ID": 2,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 15,
+    "Mean_punctum_area_um2": 1.1031207608710303,
+    "Mean_punctum_integrated_intensity_raw": 17001.733333333334,
+    "Sum_punctum_area_um2": 16.546811413065456,
+    "Sum_punctum_integrated_intensity_raw": 255026.0
+  },
+  {
+    "Image_Index": 70,
+    "Cell_ID": 3,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 6,
+    "Mean_punctum_area_um2": 0.923246812850213,
+    "Mean_punctum_integrated_intensity_raw": 13201.833333333334,
+    "Sum_punctum_area_um2": 5.539480877101278,
+    "Sum_punctum_integrated_intensity_raw": 79211.0
+  },
+  {
+    "Image_Index": 70,
+    "Cell_ID": 4,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 2,
+    "Mean_punctum_area_um2": 1.390839487461851,
+    "Mean_punctum_integrated_intensity_raw": 22633.5,
+    "Sum_punctum_area_um2": 2.781678974923702,
+    "Sum_punctum_integrated_intensity_raw": 45267.0
+  },
+  {
+    "Image_Index": 70,
+    "Cell_ID": 5,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 13,
+    "Mean_punctum_area_um2": 0.5739680948588028,
+    "Mean_punctum_integrated_intensity_raw": 7903.384615384615,
+    "Sum_punctum_area_um2": 7.461585233164437,
+    "Sum_punctum_integrated_intensity_raw": 102744.0
+  },
+  {
+    "Image_Index": 71,
+    "Cell_ID": 1,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 46,
+    "Mean_punctum_area_um2": 0.49882319367450595,
+    "Mean_punctum_integrated_intensity_raw": 6953.173913043478,
+    "Sum_punctum_area_um2": 22.945866909027274,
+    "Sum_punctum_integrated_intensity_raw": 319846.0
+  },
+  {
+    "Image_Index": 71,
+    "Cell_ID": 2,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 21,
+    "Mean_punctum_area_um2": 1.5343861748046335,
+    "Mean_punctum_integrated_intensity_raw": 20697.714285714286,
+    "Sum_punctum_area_um2": 32.222109670897304,
+    "Sum_punctum_integrated_intensity_raw": 434652.0
+  },
+  {
+    "Image_Index": 71,
+    "Cell_ID": 3,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 14,
+    "Mean_punctum_area_um2": 2.3723577278472527,
+    "Mean_punctum_integrated_intensity_raw": 37369.78571428572,
+    "Sum_punctum_area_um2": 33.21300818986154,
+    "Sum_punctum_integrated_intensity_raw": 523177.0
+  },
+  {
+    "Image_Index": 71,
+    "Cell_ID": 4,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 22,
+    "Mean_punctum_area_um2": 1.11733847236986,
+    "Mean_punctum_integrated_intensity_raw": 16143.09090909091,
+    "Sum_punctum_area_um2": 24.58144639213692,
+    "Sum_punctum_integrated_intensity_raw": 355148.0
+  },
+  {
+    "Image_Index": 71,
+    "Cell_ID": 5,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 10,
+    "Mean_punctum_area_um2": 0.6267731595858127,
+    "Mean_punctum_integrated_intensity_raw": 8671.3,
+    "Sum_punctum_area_um2": 6.267731595858127,
+    "Sum_punctum_integrated_intensity_raw": 86713.0
+  },
+  {
+    "Image_Index": 72,
+    "Cell_ID": 1,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 9,
+    "Mean_punctum_area_um2": 2.4991336140945415,
+    "Mean_punctum_integrated_intensity_raw": 42327.555555555555,
+    "Sum_punctum_area_um2": 22.492202526850875,
+    "Sum_punctum_integrated_intensity_raw": 380948.0
+  },
+  {
+    "Image_Index": 72,
+    "Cell_ID": 2,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 35,
+    "Mean_punctum_area_um2": 3.514364007190546,
+    "Mean_punctum_integrated_intensity_raw": 92157.37142857142,
+    "Sum_punctum_area_um2": 123.00274025166911,
+    "Sum_punctum_integrated_intensity_raw": 3225508.0
+  },
+  {
+    "Image_Index": 72,
+    "Cell_ID": 3,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 5,
+    "Mean_punctum_area_um2": 2.289811276353502,
+    "Mean_punctum_integrated_intensity_raw": 49505.6,
+    "Sum_punctum_area_um2": 11.44905638176751,
+    "Sum_punctum_integrated_intensity_raw": 247528.0
+  },
+  {
+    "Image_Index": 72,
+    "Cell_ID": 4,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 9,
+    "Mean_punctum_area_um2": 0.474888446839621,
+    "Mean_punctum_integrated_intensity_raw": 6727.888888888889,
+    "Sum_punctum_area_um2": 4.273996021556589,
+    "Sum_punctum_integrated_intensity_raw": 60551.0
+  },
+  {
+    "Image_Index": 1,
+    "Cell_ID": 1,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 5,
+    "Mean_punctum_area_um2": 1.5758868012443288,
+    "Mean_punctum_integrated_intensity_raw": 24340.8,
+    "Sum_punctum_area_um2": 7.879434006221644,
+    "Sum_punctum_integrated_intensity_raw": 121704.0
+  },
+  {
+    "Image_Index": 1,
+    "Cell_ID": 2,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 35,
+    "Mean_punctum_area_um2": 2.2655931025681455,
+    "Mean_punctum_integrated_intensity_raw": 36353.485714285714,
+    "Sum_punctum_area_um2": 79.2957585898851,
+    "Sum_punctum_integrated_intensity_raw": 1272372.0
+  },
+  {
+    "Image_Index": 4,
+    "Cell_ID": 1,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 1,
+    "Mean_punctum_area_um2": 0.11938536373063098,
+    "Mean_punctum_integrated_intensity_raw": 1550.0,
+    "Sum_punctum_area_um2": 0.11938536373063098,
+    "Sum_punctum_integrated_intensity_raw": 1550.0
+  },
+  {
+    "Image_Index": 4,
+    "Cell_ID": 2,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 5,
+    "Mean_punctum_area_um2": 0.5730497459070287,
+    "Mean_punctum_integrated_intensity_raw": 7340.8,
+    "Sum_punctum_area_um2": 2.8652487295351436,
+    "Sum_punctum_integrated_intensity_raw": 36704.0
+  },
+  {
+    "Image_Index": 4,
+    "Cell_ID": 3,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 10,
+    "Mean_punctum_area_um2": 2.6993030739495665,
+    "Mean_punctum_integrated_intensity_raw": 38891.6,
+    "Sum_punctum_area_um2": 26.993030739495666,
+    "Sum_punctum_integrated_intensity_raw": 388916.0
+  },
+  {
+    "Image_Index": 4,
+    "Cell_ID": 4,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 0,
+    "Mean_punctum_area_um2": null,
+    "Mean_punctum_integrated_intensity_raw": null,
+    "Sum_punctum_area_um2": 0.0,
+    "Sum_punctum_integrated_intensity_raw": 0.0
+  },
+  {
+    "Image_Index": 4,
+    "Cell_ID": 5,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 0,
+    "Mean_punctum_area_um2": null,
+    "Mean_punctum_integrated_intensity_raw": null,
+    "Sum_punctum_area_um2": 0.0,
+    "Sum_punctum_integrated_intensity_raw": 0.0
+  },
+  {
+    "Image_Index": 4,
+    "Cell_ID": 6,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 2,
+    "Mean_punctum_area_um2": 0.2208629229016673,
+    "Mean_punctum_integrated_intensity_raw": 2955.5,
+    "Sum_punctum_area_um2": 0.4417258458033346,
+    "Sum_punctum_integrated_intensity_raw": 5911.0
+  },
+  {
+    "Image_Index": 62,
+    "Cell_ID": 1,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 68,
+    "Mean_punctum_area_um2": 0.3916893330632908,
+    "Mean_punctum_integrated_intensity_raw": 5453.867647058823,
+    "Sum_punctum_area_um2": 26.634874648303775,
+    "Sum_punctum_integrated_intensity_raw": 370863.0
+  },
+  {
+    "Image_Index": 62,
+    "Cell_ID": 2,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 23,
+    "Mean_punctum_area_um2": 0.1707729768146852,
+    "Mean_punctum_integrated_intensity_raw": 2321.608695652174,
+    "Sum_punctum_area_um2": 3.9277784667377595,
+    "Sum_punctum_integrated_intensity_raw": 53397.0
+  },
+  {
+    "Image_Index": 73,
+    "Cell_ID": 1,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 24,
+    "Mean_punctum_area_um2": 0.8580823018139102,
+    "Mean_punctum_integrated_intensity_raw": 11980.375,
+    "Sum_punctum_area_um2": 20.593975243533844,
+    "Sum_punctum_integrated_intensity_raw": 287529.0
+  },
+  {
+    "Image_Index": 73,
+    "Cell_ID": 2,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 8,
+    "Mean_punctum_area_um2": 0.3611407252851587,
+    "Mean_punctum_integrated_intensity_raw": 4697.5,
+    "Sum_punctum_area_um2": 2.88912580228127,
+    "Sum_punctum_integrated_intensity_raw": 37580.0
+  },
+  {
+    "Image_Index": 73,
+    "Cell_ID": 3,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 12,
+    "Mean_punctum_area_um2": 1.0834221758554763,
+    "Mean_punctum_integrated_intensity_raw": 16697.5,
+    "Sum_punctum_area_um2": 13.001066110265715,
+    "Sum_punctum_integrated_intensity_raw": 200370.0
+  },
+  {
+    "Image_Index": 74,
+    "Cell_ID": 1,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 16,
+    "Mean_punctum_area_um2": 1.219223027099069,
+    "Mean_punctum_integrated_intensity_raw": 21571.6875,
+    "Sum_punctum_area_um2": 19.507568433585103,
+    "Sum_punctum_integrated_intensity_raw": 345147.0
+  },
+  {
+    "Image_Index": 74,
+    "Cell_ID": 2,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 21,
+    "Mean_punctum_area_um2": 1.4621864548342043,
+    "Mean_punctum_integrated_intensity_raw": 27425.14285714286,
+    "Sum_punctum_area_um2": 30.705915551518288,
+    "Sum_punctum_integrated_intensity_raw": 575928.0
+  },
+  {
+    "Image_Index": 74,
+    "Cell_ID": 3,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 11,
+    "Mean_punctum_area_um2": 0.46451759706100054,
+    "Mean_punctum_integrated_intensity_raw": 6704.818181818182,
+    "Sum_punctum_area_um2": 5.109693567671006,
+    "Sum_punctum_integrated_intensity_raw": 73753.0
+  },
+  {
+    "Image_Index": 74,
+    "Cell_ID": 4,
+    "Group": "DOPC_chole_mRNA",
+    "Puncta_count": 18,
+    "Mean_punctum_area_um2": 2.2669954068405374,
+    "Mean_punctum_integrated_intensity_raw": 37886.333333333336,
+    "Sum_punctum_area_um2": 40.80591732312967,
+    "Sum_punctum_integrated_intensity_raw": 681954.0
+  },
+  {
+    "Image_Index": 92,
+    "Cell_ID": 1,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 3,
+    "Mean_punctum_area_um2": 0.1989756062177183,
+    "Mean_punctum_integrated_intensity_raw": 2658.0,
+    "Sum_punctum_area_um2": 0.5969268186531549,
+    "Sum_punctum_integrated_intensity_raw": 7974.0
+  },
+  {
+    "Image_Index": 92,
+    "Cell_ID": 2,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 4,
+    "Mean_punctum_area_um2": 0.43874121171006886,
+    "Mean_punctum_integrated_intensity_raw": 5806.5,
+    "Sum_punctum_area_um2": 1.7549648468402754,
+    "Sum_punctum_integrated_intensity_raw": 23226.0
+  },
+  {
+    "Image_Index": 92,
+    "Cell_ID": 3,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 1,
+    "Mean_punctum_area_um2": 0.14326243647675718,
+    "Mean_punctum_integrated_intensity_raw": 1880.0,
+    "Sum_punctum_area_um2": 0.14326243647675718,
+    "Sum_punctum_integrated_intensity_raw": 1880.0
+  },
+  {
+    "Image_Index": 92,
+    "Cell_ID": 4,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 11,
+    "Mean_punctum_area_um2": 0.26807440764968954,
+    "Mean_punctum_integrated_intensity_raw": 3475.4545454545455,
+    "Sum_punctum_area_um2": 2.948818484146585,
+    "Sum_punctum_integrated_intensity_raw": 38230.0
+  },
+  {
+    "Image_Index": 93,
+    "Cell_ID": 1,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 0,
+    "Mean_punctum_area_um2": null,
+    "Mean_punctum_integrated_intensity_raw": null,
+    "Sum_punctum_area_um2": 0.0,
+    "Sum_punctum_integrated_intensity_raw": 0.0
+  },
+  {
+    "Image_Index": 93,
+    "Cell_ID": 2,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 0,
+    "Mean_punctum_area_um2": null,
+    "Mean_punctum_integrated_intensity_raw": null,
+    "Sum_punctum_area_um2": 0.0,
+    "Sum_punctum_integrated_intensity_raw": 0.0
+  },
+  {
+    "Image_Index": 93,
+    "Cell_ID": 3,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 0,
+    "Mean_punctum_area_um2": null,
+    "Mean_punctum_integrated_intensity_raw": null,
+    "Sum_punctum_area_um2": 0.0,
+    "Sum_punctum_integrated_intensity_raw": 0.0
+  },
+  {
+    "Image_Index": 93,
+    "Cell_ID": 4,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 3,
+    "Mean_punctum_area_um2": 0.08754926673579606,
+    "Mean_punctum_integrated_intensity_raw": 1102.3333333333333,
+    "Sum_punctum_area_um2": 0.2626478002073882,
+    "Sum_punctum_integrated_intensity_raw": 3307.0
+  },
+  {
+    "Image_Index": 93,
+    "Cell_ID": 5,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 4,
+    "Mean_punctum_area_um2": 0.543203404974371,
+    "Mean_punctum_integrated_intensity_raw": 7138.25,
+    "Sum_punctum_area_um2": 2.172813619897484,
+    "Sum_punctum_integrated_intensity_raw": 28553.0
+  },
+  {
+    "Image_Index": 93,
+    "Cell_ID": 6,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 3,
+    "Mean_punctum_area_um2": 0.05571316974096113,
+    "Mean_punctum_integrated_intensity_raw": 712.6666666666666,
+    "Sum_punctum_area_um2": 0.1671395092228834,
+    "Sum_punctum_integrated_intensity_raw": 2138.0
+  },
+  {
+    "Image_Index": 94,
+    "Cell_ID": 1,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 7,
+    "Mean_punctum_area_um2": 0.42637629903796775,
+    "Mean_punctum_integrated_intensity_raw": 6087.714285714285,
+    "Sum_punctum_area_um2": 2.9846340932657744,
+    "Sum_punctum_integrated_intensity_raw": 42614.0
+  },
+  {
+    "Image_Index": 94,
+    "Cell_ID": 2,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 6,
+    "Mean_punctum_area_um2": 0.7700355960625699,
+    "Mean_punctum_integrated_intensity_raw": 10978.0,
+    "Sum_punctum_area_um2": 4.620213576375419,
+    "Sum_punctum_integrated_intensity_raw": 65868.0
+  },
+  {
+    "Image_Index": 94,
+    "Cell_ID": 3,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 1,
+    "Mean_punctum_area_um2": 0.023877072746126198,
+    "Mean_punctum_integrated_intensity_raw": 304.0,
+    "Sum_punctum_area_um2": 0.023877072746126198,
+    "Sum_punctum_integrated_intensity_raw": 304.0
+  },
+  {
+    "Image_Index": 94,
+    "Cell_ID": 4,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 7,
+    "Mean_punctum_area_um2": 0.10403581696526414,
+    "Mean_punctum_integrated_intensity_raw": 1343.2857142857142,
+    "Sum_punctum_area_um2": 0.728250718756849,
+    "Sum_punctum_integrated_intensity_raw": 9403.0
+  },
+  {
+    "Image_Index": 94,
+    "Cell_ID": 5,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 1,
+    "Mean_punctum_area_um2": 0.07163121823837859,
+    "Mean_punctum_integrated_intensity_raw": 925.0,
+    "Sum_punctum_area_um2": 0.07163121823837859,
+    "Sum_punctum_integrated_intensity_raw": 925.0
+  },
+  {
+    "Image_Index": 95,
+    "Cell_ID": 1,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 21,
+    "Mean_punctum_area_um2": 0.16770801095493398,
+    "Mean_punctum_integrated_intensity_raw": 2203.1428571428573,
+    "Sum_punctum_area_um2": 3.521868230053614,
+    "Sum_punctum_integrated_intensity_raw": 46266.0
+  },
+  {
+    "Image_Index": 95,
+    "Cell_ID": 2,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 0,
+    "Mean_punctum_area_um2": null,
+    "Mean_punctum_integrated_intensity_raw": null,
+    "Sum_punctum_area_um2": 0.0,
+    "Sum_punctum_integrated_intensity_raw": 0.0
+  },
+  {
+    "Image_Index": 95,
+    "Cell_ID": 3,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 2,
+    "Mean_punctum_area_um2": 0.23280145927473042,
+    "Mean_punctum_integrated_intensity_raw": 3008.0,
+    "Sum_punctum_area_um2": 0.46560291854946084,
+    "Sum_punctum_integrated_intensity_raw": 6016.0
+  },
+  {
+    "Image_Index": 95,
+    "Cell_ID": 4,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 2,
+    "Mean_punctum_area_um2": 0.3641253593784245,
+    "Mean_punctum_integrated_intensity_raw": 4708.5,
+    "Sum_punctum_area_um2": 0.728250718756849,
+    "Sum_punctum_integrated_intensity_raw": 9417.0
+  },
+  {
+    "Image_Index": 95,
+    "Cell_ID": 5,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 2,
+    "Mean_punctum_area_um2": 0.18504731378247805,
+    "Mean_punctum_integrated_intensity_raw": 2366.5,
+    "Sum_punctum_area_um2": 0.3700946275649561,
+    "Sum_punctum_integrated_intensity_raw": 4733.0
+  },
+  {
+    "Image_Index": 96,
+    "Cell_ID": 1,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 3,
+    "Mean_punctum_area_um2": 0.13928292435240283,
+    "Mean_punctum_integrated_intensity_raw": 1764.3333333333333,
+    "Sum_punctum_area_um2": 0.41784877305720847,
+    "Sum_punctum_integrated_intensity_raw": 5293.0
+  },
+  {
+    "Image_Index": 96,
+    "Cell_ID": 2,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 14,
+    "Mean_punctum_area_um2": 0.24047623265741383,
+    "Mean_punctum_integrated_intensity_raw": 3148.285714285714,
+    "Sum_punctum_area_um2": 3.3666672572037935,
+    "Sum_punctum_integrated_intensity_raw": 44076.0
+  },
+  {
+    "Image_Index": 96,
+    "Cell_ID": 3,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 5,
+    "Mean_punctum_area_um2": 0.21966906926436103,
+    "Mean_punctum_integrated_intensity_raw": 3219.0,
+    "Sum_punctum_area_um2": 1.0983453463218051,
+    "Sum_punctum_integrated_intensity_raw": 16095.0
+  },
+  {
+    "Image_Index": 96,
+    "Cell_ID": 4,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 7,
+    "Mean_punctum_area_um2": 0.4451368561956384,
+    "Mean_punctum_integrated_intensity_raw": 5930.714285714285,
+    "Sum_punctum_area_um2": 3.1159579933694688,
+    "Sum_punctum_integrated_intensity_raw": 41515.0
+  },
+  {
+    "Image_Index": 96,
+    "Cell_ID": 5,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 4,
+    "Mean_punctum_area_um2": 1.0744682735756788,
+    "Mean_punctum_integrated_intensity_raw": 13879.25,
+    "Sum_punctum_area_um2": 4.297873094302715,
+    "Sum_punctum_integrated_intensity_raw": 55517.0
+  },
+  {
+    "Image_Index": 97,
+    "Cell_ID": 1,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 9,
+    "Mean_punctum_area_um2": 0.3183609699483493,
+    "Mean_punctum_integrated_intensity_raw": 4139.777777777777,
+    "Sum_punctum_area_um2": 2.8652487295351436,
+    "Sum_punctum_integrated_intensity_raw": 37258.0
+  },
+  {
+    "Image_Index": 97,
+    "Cell_ID": 2,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 1,
+    "Mean_punctum_area_um2": 0.08356975461144169,
+    "Mean_punctum_integrated_intensity_raw": 1075.0,
+    "Sum_punctum_area_um2": 0.08356975461144169,
+    "Sum_punctum_integrated_intensity_raw": 1075.0
+  },
+  {
+    "Image_Index": 97,
+    "Cell_ID": 3,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 19,
+    "Mean_punctum_area_um2": 0.5730497459070287,
+    "Mean_punctum_integrated_intensity_raw": 7448.0,
+    "Sum_punctum_area_um2": 10.887945172233547,
+    "Sum_punctum_integrated_intensity_raw": 141512.0
+  },
+  {
+    "Image_Index": 97,
+    "Cell_ID": 4,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 2,
+    "Mean_punctum_area_um2": 0.04178487730572084,
+    "Mean_punctum_integrated_intensity_raw": 544.0,
+    "Sum_punctum_area_um2": 0.08356975461144169,
+    "Sum_punctum_integrated_intensity_raw": 1088.0
+  },
+  {
+    "Image_Index": 97,
+    "Cell_ID": 5,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 3,
+    "Mean_punctum_area_um2": 0.3143814578239949,
+    "Mean_punctum_integrated_intensity_raw": 5087.333333333333,
+    "Sum_punctum_area_um2": 0.9431443734719848,
+    "Sum_punctum_integrated_intensity_raw": 15262.0
+  },
+  {
+    "Image_Index": 97,
+    "Cell_ID": 6,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 1,
+    "Mean_punctum_area_um2": 0.07163121823837859,
+    "Mean_punctum_integrated_intensity_raw": 945.0,
+    "Sum_punctum_area_um2": 0.07163121823837859,
+    "Sum_punctum_integrated_intensity_raw": 945.0
+  },
+  {
+    "Image_Index": 98,
+    "Cell_ID": 1,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 1,
+    "Mean_punctum_area_um2": 0.7401892551299121,
+    "Mean_punctum_integrated_intensity_raw": 9831.0,
+    "Sum_punctum_area_um2": 0.7401892551299121,
+    "Sum_punctum_integrated_intensity_raw": 9831.0
+  },
+  {
+    "Image_Index": 98,
+    "Cell_ID": 2,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 4,
+    "Mean_punctum_area_um2": 0.2954787752333117,
+    "Mean_punctum_integrated_intensity_raw": 3821.25,
+    "Sum_punctum_area_um2": 1.1819151009332467,
+    "Sum_punctum_integrated_intensity_raw": 15285.0
+  },
+  {
+    "Image_Index": 98,
+    "Cell_ID": 3,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 9,
+    "Mean_punctum_area_um2": 0.7388627510884606,
+    "Mean_punctum_integrated_intensity_raw": 9519.222222222223,
+    "Sum_punctum_area_um2": 6.649764759796145,
+    "Sum_punctum_integrated_intensity_raw": 85673.0
+  },
+  {
+    "Image_Index": 98,
+    "Cell_ID": 4,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 10,
+    "Mean_punctum_area_um2": 0.859574618860543,
+    "Mean_punctum_integrated_intensity_raw": 11320.4,
+    "Sum_punctum_area_um2": 8.59574618860543,
+    "Sum_punctum_integrated_intensity_raw": 113204.0
+  },
+  {
+    "Image_Index": 98,
+    "Cell_ID": 5,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 1,
+    "Mean_punctum_area_um2": 0.33427901844576674,
+    "Mean_punctum_integrated_intensity_raw": 4905.0,
+    "Sum_punctum_area_um2": 0.33427901844576674,
+    "Sum_punctum_integrated_intensity_raw": 4905.0
+  },
+  {
+    "Image_Index": 98,
+    "Cell_ID": 6,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 1,
+    "Mean_punctum_area_um2": 0.13132390010369407,
+    "Mean_punctum_integrated_intensity_raw": 1791.0,
+    "Sum_punctum_area_um2": 0.13132390010369407,
+    "Sum_punctum_integrated_intensity_raw": 1791.0
+  },
+  {
+    "Image_Index": 98,
+    "Cell_ID": 7,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 1,
+    "Mean_punctum_area_um2": 0.8595746188605431,
+    "Mean_punctum_integrated_intensity_raw": 10993.0,
+    "Sum_punctum_area_um2": 0.8595746188605431,
+    "Sum_punctum_integrated_intensity_raw": 10993.0
+  },
+  {
+    "Image_Index": 99,
+    "Cell_ID": 1,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 3,
+    "Mean_punctum_area_um2": 0.3899921881867279,
+    "Mean_punctum_integrated_intensity_raw": 5079.0,
+    "Sum_punctum_area_um2": 1.1699765645601836,
+    "Sum_punctum_integrated_intensity_raw": 15237.0
+  },
+  {
+    "Image_Index": 99,
+    "Cell_ID": 2,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 0,
+    "Mean_punctum_area_um2": null,
+    "Mean_punctum_integrated_intensity_raw": null,
+    "Sum_punctum_area_um2": 0.0,
+    "Sum_punctum_integrated_intensity_raw": 0.0
+  },
+  {
+    "Image_Index": 99,
+    "Cell_ID": 3,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 0,
+    "Mean_punctum_area_um2": null,
+    "Mean_punctum_integrated_intensity_raw": null,
+    "Sum_punctum_area_um2": 0.0,
+    "Sum_punctum_integrated_intensity_raw": 0.0
+  },
+  {
+    "Image_Index": 99,
+    "Cell_ID": 4,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 1,
+    "Mean_punctum_area_um2": 0.035815609119189296,
+    "Mean_punctum_integrated_intensity_raw": 463.0,
+    "Sum_punctum_area_um2": 0.035815609119189296,
+    "Sum_punctum_integrated_intensity_raw": 463.0
+  },
+  {
+    "Image_Index": 99,
+    "Cell_ID": 5,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 2,
+    "Mean_punctum_area_um2": 0.20892438652860423,
+    "Mean_punctum_integrated_intensity_raw": 2670.5,
+    "Sum_punctum_area_um2": 0.41784877305720847,
+    "Sum_punctum_integrated_intensity_raw": 5341.0
+  },
+  {
+    "Image_Index": 99,
+    "Cell_ID": 6,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 2,
+    "Mean_punctum_area_um2": 0.2148936547151358,
+    "Mean_punctum_integrated_intensity_raw": 2727.5,
+    "Sum_punctum_area_um2": 0.4297873094302716,
+    "Sum_punctum_integrated_intensity_raw": 5455.0
+  },
+  {
+    "Image_Index": 99,
+    "Cell_ID": 7,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 5,
+    "Mean_punctum_area_um2": 0.24832155655971241,
+    "Mean_punctum_integrated_intensity_raw": 3314.6,
+    "Sum_punctum_area_um2": 1.241607782798562,
+    "Sum_punctum_integrated_intensity_raw": 16573.0
+  },
+  {
+    "Image_Index": 99,
+    "Cell_ID": 8,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 1,
+    "Mean_punctum_area_um2": 0.2029551183420727,
+    "Mean_punctum_integrated_intensity_raw": 2690.0,
+    "Sum_punctum_area_um2": 0.2029551183420727,
+    "Sum_punctum_integrated_intensity_raw": 2690.0
+  },
+  {
+    "Image_Index": 99,
+    "Cell_ID": 9,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 5,
+    "Mean_punctum_area_um2": 0.7521277915029753,
+    "Mean_punctum_integrated_intensity_raw": 10684.2,
+    "Sum_punctum_area_um2": 3.7606389575148764,
+    "Sum_punctum_integrated_intensity_raw": 53421.0
+  },
+  {
+    "Image_Index": 100,
+    "Cell_ID": 1,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 5,
+    "Mean_punctum_area_um2": 1.1102838826948682,
+    "Mean_punctum_integrated_intensity_raw": 14893.4,
+    "Sum_punctum_area_um2": 5.551419413474341,
+    "Sum_punctum_integrated_intensity_raw": 74467.0
+  },
+  {
+    "Image_Index": 100,
+    "Cell_ID": 2,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 6,
+    "Mean_punctum_area_um2": 0.9829394947155284,
+    "Mean_punctum_integrated_intensity_raw": 12620.333333333334,
+    "Sum_punctum_area_um2": 5.89763696829317,
+    "Sum_punctum_integrated_intensity_raw": 75722.0
+  },
+  {
+    "Image_Index": 100,
+    "Cell_ID": 3,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 19,
+    "Mean_punctum_area_um2": 0.37700641178093997,
+    "Mean_punctum_integrated_intensity_raw": 5291.684210526316,
+    "Sum_punctum_area_um2": 7.16312182383786,
+    "Sum_punctum_integrated_intensity_raw": 100542.0
+  },
+  {
+    "Image_Index": 100,
+    "Cell_ID": 4,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 0,
+    "Mean_punctum_area_um2": null,
+    "Mean_punctum_integrated_intensity_raw": null,
+    "Sum_punctum_area_um2": 0.0,
+    "Sum_punctum_integrated_intensity_raw": 0.0
+  },
+  {
+    "Image_Index": 100,
+    "Cell_ID": 5,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 6,
+    "Mean_punctum_area_um2": 0.8297282779278854,
+    "Mean_punctum_integrated_intensity_raw": 11301.333333333334,
+    "Sum_punctum_area_um2": 4.978369667567312,
+    "Sum_punctum_integrated_intensity_raw": 67808.0
+  },
+  {
+    "Image_Index": 100,
+    "Cell_ID": 6,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 3,
+    "Mean_punctum_area_um2": 0.08754926673579605,
+    "Mean_punctum_integrated_intensity_raw": 1125.3333333333333,
+    "Sum_punctum_area_um2": 0.26264780020738815,
+    "Sum_punctum_integrated_intensity_raw": 3376.0
+  },
+  {
+    "Image_Index": 100,
+    "Cell_ID": 7,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 8,
+    "Mean_punctum_area_um2": 0.41784877305720847,
+    "Mean_punctum_integrated_intensity_raw": 5412.625,
+    "Sum_punctum_area_um2": 3.3427901844576677,
+    "Sum_punctum_integrated_intensity_raw": 43301.0
+  },
+  {
+    "Image_Index": 100,
+    "Cell_ID": 8,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 2,
+    "Mean_punctum_area_um2": 0.9371751052854533,
+    "Mean_punctum_integrated_intensity_raw": 12026.5,
+    "Sum_punctum_area_um2": 1.8743502105709067,
+    "Sum_punctum_integrated_intensity_raw": 24053.0
+  },
+  {
+    "Image_Index": 101,
+    "Cell_ID": 1,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 2,
+    "Mean_punctum_area_um2": 0.04178487730572085,
+    "Mean_punctum_integrated_intensity_raw": 535.0,
+    "Sum_punctum_area_um2": 0.0835697546114417,
+    "Sum_punctum_integrated_intensity_raw": 1070.0
+  },
+  {
+    "Image_Index": 101,
+    "Cell_ID": 2,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 10,
+    "Mean_punctum_area_um2": 0.22563833745089257,
+    "Mean_punctum_integrated_intensity_raw": 2899.7,
+    "Sum_punctum_area_um2": 2.2563833745089257,
+    "Sum_punctum_integrated_intensity_raw": 28997.0
+  },
+  {
+    "Image_Index": 101,
+    "Cell_ID": 3,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 4,
+    "Mean_punctum_area_um2": 0.12535463191716253,
+    "Mean_punctum_integrated_intensity_raw": 1644.75,
+    "Sum_punctum_area_um2": 0.5014185276686501,
+    "Sum_punctum_integrated_intensity_raw": 6579.0
+  },
+  {
+    "Image_Index": 102,
+    "Cell_ID": 1,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 2,
+    "Mean_punctum_area_um2": 0.19698585015554113,
+    "Mean_punctum_integrated_intensity_raw": 2505.0,
+    "Sum_punctum_area_um2": 0.39397170031108225,
+    "Sum_punctum_integrated_intensity_raw": 5010.0
+  },
+  {
+    "Image_Index": 102,
+    "Cell_ID": 2,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 12,
+    "Mean_punctum_area_um2": 0.13928292435240283,
+    "Mean_punctum_integrated_intensity_raw": 1792.4166666666667,
+    "Sum_punctum_area_um2": 1.6713950922288339,
+    "Sum_punctum_integrated_intensity_raw": 21509.0
+  },
+  {
+    "Image_Index": 103,
+    "Cell_ID": 1,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 1,
+    "Mean_punctum_area_um2": 0.023877072746126198,
+    "Mean_punctum_integrated_intensity_raw": 303.0,
+    "Sum_punctum_area_um2": 0.023877072746126198,
+    "Sum_punctum_integrated_intensity_raw": 303.0
+  },
+  {
+    "Image_Index": 103,
+    "Cell_ID": 2,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 22,
+    "Mean_punctum_area_um2": 0.836240206858647,
+    "Mean_punctum_integrated_intensity_raw": 10912.90909090909,
+    "Sum_punctum_area_um2": 18.397284550890234,
+    "Sum_punctum_integrated_intensity_raw": 240084.0
+  },
+  {
+    "Image_Index": 103,
+    "Cell_ID": 3,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 3,
+    "Mean_punctum_area_um2": 0.6048858429018636,
+    "Mean_punctum_integrated_intensity_raw": 7960.666666666667,
+    "Sum_punctum_area_um2": 1.814657528705591,
+    "Sum_punctum_integrated_intensity_raw": 23882.0
+  },
+  {
+    "Image_Index": 103,
+    "Cell_ID": 4,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 5,
+    "Mean_punctum_area_um2": 1.719149237721086,
+    "Mean_punctum_integrated_intensity_raw": 22795.6,
+    "Sum_punctum_area_um2": 8.59574618860543,
+    "Sum_punctum_integrated_intensity_raw": 113978.0
+  },
+  {
+    "Image_Index": 103,
+    "Cell_ID": 5,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 0,
+    "Mean_punctum_area_um2": null,
+    "Mean_punctum_integrated_intensity_raw": null,
+    "Sum_punctum_area_um2": 0.0,
+    "Sum_punctum_integrated_intensity_raw": 0.0
+  },
+  {
+    "Image_Index": 104,
+    "Cell_ID": 1,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 0,
+    "Mean_punctum_area_um2": null,
+    "Mean_punctum_integrated_intensity_raw": null,
+    "Sum_punctum_area_um2": 0.0,
+    "Sum_punctum_integrated_intensity_raw": 0.0
+  },
+  {
+    "Image_Index": 104,
+    "Cell_ID": 2,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 1,
+    "Mean_punctum_area_um2": 0.16713950922288337,
+    "Mean_punctum_integrated_intensity_raw": 2156.0,
+    "Sum_punctum_area_um2": 0.16713950922288337,
+    "Sum_punctum_integrated_intensity_raw": 2156.0
+  },
+  {
+    "Image_Index": 104,
+    "Cell_ID": 3,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 1,
+    "Mean_punctum_area_um2": 0.023877072746126198,
+    "Mean_punctum_integrated_intensity_raw": 306.0,
+    "Sum_punctum_area_um2": 0.023877072746126198,
+    "Sum_punctum_integrated_intensity_raw": 306.0
+  },
+  {
+    "Image_Index": 104,
+    "Cell_ID": 4,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 6,
+    "Mean_punctum_area_um2": 0.3143814578239949,
+    "Mean_punctum_integrated_intensity_raw": 4262.5,
+    "Sum_punctum_area_um2": 1.8862887469439695,
+    "Sum_punctum_integrated_intensity_raw": 25575.0
+  },
+  {
+    "Image_Index": 104,
+    "Cell_ID": 5,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 2,
+    "Mean_punctum_area_um2": 0.2566785320208566,
+    "Mean_punctum_integrated_intensity_raw": 3274.0,
+    "Sum_punctum_area_um2": 0.5133570640417132,
+    "Sum_punctum_integrated_intensity_raw": 6548.0
+  },
+  {
+    "Image_Index": 104,
+    "Cell_ID": 6,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 0,
+    "Mean_punctum_area_um2": null,
+    "Mean_punctum_integrated_intensity_raw": null,
+    "Sum_punctum_area_um2": 0.0,
+    "Sum_punctum_integrated_intensity_raw": 0.0
+  },
+  {
+    "Image_Index": 105,
+    "Cell_ID": 1,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 0,
+    "Mean_punctum_area_um2": null,
+    "Mean_punctum_integrated_intensity_raw": null,
+    "Sum_punctum_area_um2": 0.0,
+    "Sum_punctum_integrated_intensity_raw": 0.0
+  },
+  {
+    "Image_Index": 105,
+    "Cell_ID": 2,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 1,
+    "Mean_punctum_area_um2": 0.14326243647675718,
+    "Mean_punctum_integrated_intensity_raw": 1833.0,
+    "Sum_punctum_area_um2": 0.14326243647675718,
+    "Sum_punctum_integrated_intensity_raw": 1833.0
+  },
+  {
+    "Image_Index": 105,
+    "Cell_ID": 3,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 4,
+    "Mean_punctum_area_um2": 0.8356975461144169,
+    "Mean_punctum_integrated_intensity_raw": 11253.5,
+    "Sum_punctum_area_um2": 3.3427901844576677,
+    "Sum_punctum_integrated_intensity_raw": 45014.0
+  },
+  {
+    "Image_Index": 105,
+    "Cell_ID": 4,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 2,
+    "Mean_punctum_area_um2": 0.14923170466328872,
+    "Mean_punctum_integrated_intensity_raw": 2019.5,
+    "Sum_punctum_area_um2": 0.29846340932657744,
+    "Sum_punctum_integrated_intensity_raw": 4039.0
+  },
+  {
+    "Image_Index": 105,
+    "Cell_ID": 5,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 9,
+    "Mean_punctum_area_um2": 0.23081170321255323,
+    "Mean_punctum_integrated_intensity_raw": 2975.777777777778,
+    "Sum_punctum_area_um2": 2.077305328912979,
+    "Sum_punctum_integrated_intensity_raw": 26782.0
+  },
+  {
+    "Image_Index": 105,
+    "Cell_ID": 6,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 2,
+    "Mean_punctum_area_um2": 0.05372341367878394,
+    "Mean_punctum_integrated_intensity_raw": 697.5,
+    "Sum_punctum_area_um2": 0.10744682735756789,
+    "Sum_punctum_integrated_intensity_raw": 1395.0
+  },
+  {
+    "Image_Index": 105,
+    "Cell_ID": 7,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 7,
+    "Mean_punctum_area_um2": 2.377474243435709,
+    "Mean_punctum_integrated_intensity_raw": 33637.42857142857,
+    "Sum_punctum_area_um2": 16.64231970404996,
+    "Sum_punctum_integrated_intensity_raw": 235462.0
+  },
+  {
+    "Image_Index": 106,
+    "Cell_ID": 1,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 4,
+    "Mean_punctum_area_um2": 0.28950950704678013,
+    "Mean_punctum_integrated_intensity_raw": 3821.25,
+    "Sum_punctum_area_um2": 1.1580380281871205,
+    "Sum_punctum_integrated_intensity_raw": 15285.0
+  },
+  {
+    "Image_Index": 106,
+    "Cell_ID": 2,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 15,
+    "Mean_punctum_area_um2": 0.8691254479589935,
+    "Mean_punctum_integrated_intensity_raw": 11838.866666666667,
+    "Sum_punctum_area_um2": 13.036881719384903,
+    "Sum_punctum_integrated_intensity_raw": 177583.0
+  },
+  {
+    "Image_Index": 106,
+    "Cell_ID": 3,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 3,
+    "Mean_punctum_area_um2": 0.13530341222804845,
+    "Mean_punctum_integrated_intensity_raw": 1759.6666666666667,
+    "Sum_punctum_area_um2": 0.40591023668414533,
+    "Sum_punctum_integrated_intensity_raw": 5279.0
+  },
+  {
+    "Image_Index": 106,
+    "Cell_ID": 4,
+    "Group": "DOPG_mRNA",
+    "Puncta_count": 5,
+    "Mean_punctum_area_um2": 0.1957919965182348,
+    "Mean_punctum_integrated_intensity_raw": 2699.4,
+    "Sum_punctum_area_um2": 0.9789599825911741,
+    "Sum_punctum_integrated_intensity_raw": 13497.0
+  },
+  {
+    "Image_Index": 75,
+    "Cell_ID": 1,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 0,
+    "Mean_punctum_area_um2": null,
+    "Mean_punctum_integrated_intensity_raw": null,
+    "Sum_punctum_area_um2": 0.0,
+    "Sum_punctum_integrated_intensity_raw": 0.0
+  },
+  {
+    "Image_Index": 75,
+    "Cell_ID": 2,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 1,
+    "Mean_punctum_area_um2": 0.4059102366841454,
+    "Mean_punctum_integrated_intensity_raw": 5290.0,
+    "Sum_punctum_area_um2": 0.4059102366841454,
+    "Sum_punctum_integrated_intensity_raw": 5290.0
+  },
+  {
+    "Image_Index": 75,
+    "Cell_ID": 3,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 12,
+    "Mean_punctum_area_um2": 1.032683396269958,
+    "Mean_punctum_integrated_intensity_raw": 13782.833333333334,
+    "Sum_punctum_area_um2": 12.392200755239497,
+    "Sum_punctum_integrated_intensity_raw": 165394.0
+  },
+  {
+    "Image_Index": 75,
+    "Cell_ID": 4,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 8,
+    "Mean_punctum_area_um2": 1.4251627795344073,
+    "Mean_punctum_integrated_intensity_raw": 19979.625,
+    "Sum_punctum_area_um2": 11.401302236275258,
+    "Sum_punctum_integrated_intensity_raw": 159837.0
+  },
+  {
+    "Image_Index": 75,
+    "Cell_ID": 5,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 6,
+    "Mean_punctum_area_um2": 0.20494487440424983,
+    "Mean_punctum_integrated_intensity_raw": 2802.5,
+    "Sum_punctum_area_um2": 1.229669246425499,
+    "Sum_punctum_integrated_intensity_raw": 16815.0
+  },
+  {
+    "Image_Index": 76,
+    "Cell_ID": 1,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 3,
+    "Mean_punctum_area_um2": 0.31836096994834934,
+    "Mean_punctum_integrated_intensity_raw": 4482.666666666667,
+    "Sum_punctum_area_um2": 0.955082909845048,
+    "Sum_punctum_integrated_intensity_raw": 13448.0
+  },
+  {
+    "Image_Index": 76,
+    "Cell_ID": 2,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 4,
+    "Mean_punctum_area_um2": 0.1641548751296176,
+    "Mean_punctum_integrated_intensity_raw": 2167.75,
+    "Sum_punctum_area_um2": 0.6566195005184704,
+    "Sum_punctum_integrated_intensity_raw": 8671.0
+  },
+  {
+    "Image_Index": 76,
+    "Cell_ID": 3,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 12,
+    "Mean_punctum_area_um2": 0.7372046210366463,
+    "Mean_punctum_integrated_intensity_raw": 10818.25,
+    "Sum_punctum_area_um2": 8.846455452439756,
+    "Sum_punctum_integrated_intensity_raw": 129819.0
+  },
+  {
+    "Image_Index": 76,
+    "Cell_ID": 4,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 13,
+    "Mean_punctum_area_um2": 0.2727496386769031,
+    "Mean_punctum_integrated_intensity_raw": 3790.230769230769,
+    "Sum_punctum_area_um2": 3.54574530279974,
+    "Sum_punctum_integrated_intensity_raw": 49273.0
+  },
+  {
+    "Image_Index": 76,
+    "Cell_ID": 5,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 4,
+    "Mean_punctum_area_um2": 0.12236999782389676,
+    "Mean_punctum_integrated_intensity_raw": 1598.0,
+    "Sum_punctum_area_um2": 0.48947999129558706,
+    "Sum_punctum_integrated_intensity_raw": 6392.0
+  },
+  {
+    "Image_Index": 76,
+    "Cell_ID": 6,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 12,
+    "Mean_punctum_area_um2": 0.1641548751296176,
+    "Mean_punctum_integrated_intensity_raw": 2212.9166666666665,
+    "Sum_punctum_area_um2": 1.9698585015554113,
+    "Sum_punctum_integrated_intensity_raw": 26555.0
+  },
+  {
+    "Image_Index": 77,
+    "Cell_ID": 1,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 32,
+    "Mean_punctum_area_um2": 0.2898825863084384,
+    "Mean_punctum_integrated_intensity_raw": 3929.53125,
+    "Sum_punctum_area_um2": 9.276242761870028,
+    "Sum_punctum_integrated_intensity_raw": 125745.0
+  },
+  {
+    "Image_Index": 77,
+    "Cell_ID": 2,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 8,
+    "Mean_punctum_area_um2": 0.63572706186561,
+    "Mean_punctum_integrated_intensity_raw": 9652.375,
+    "Sum_punctum_area_um2": 5.08581649492488,
+    "Sum_punctum_integrated_intensity_raw": 77219.0
+  },
+  {
+    "Image_Index": 77,
+    "Cell_ID": 3,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 9,
+    "Mean_punctum_area_um2": 0.33029950632141236,
+    "Mean_punctum_integrated_intensity_raw": 4283.0,
+    "Sum_punctum_area_um2": 2.9726955568927114,
+    "Sum_punctum_integrated_intensity_raw": 38547.0
+  },
+  {
+    "Image_Index": 77,
+    "Cell_ID": 4,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 13,
+    "Mean_punctum_area_um2": 0.5482543242091285,
+    "Mean_punctum_integrated_intensity_raw": 7862.076923076923,
+    "Sum_punctum_area_um2": 7.12730621471867,
+    "Sum_punctum_integrated_intensity_raw": 102207.0
+  },
+  {
+    "Image_Index": 77,
+    "Cell_ID": 5,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 11,
+    "Mean_punctum_area_um2": 0.3440469118419093,
+    "Mean_punctum_integrated_intensity_raw": 4675.272727272727,
+    "Sum_punctum_area_um2": 3.784516030261002,
+    "Sum_punctum_integrated_intensity_raw": 51428.0
+  },
+  {
+    "Image_Index": 78,
+    "Cell_ID": 1,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 8,
+    "Mean_punctum_area_um2": 0.15370865580318738,
+    "Mean_punctum_integrated_intensity_raw": 2042.0,
+    "Sum_punctum_area_um2": 1.229669246425499,
+    "Sum_punctum_integrated_intensity_raw": 16336.0
+  },
+  {
+    "Image_Index": 78,
+    "Cell_ID": 2,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 5,
+    "Mean_punctum_area_um2": 1.160425735461733,
+    "Mean_punctum_integrated_intensity_raw": 17508.8,
+    "Sum_punctum_area_um2": 5.802128677308666,
+    "Sum_punctum_integrated_intensity_raw": 87544.0
+  },
+  {
+    "Image_Index": 78,
+    "Cell_ID": 3,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 5,
+    "Mean_punctum_area_um2": 0.8142081806429033,
+    "Mean_punctum_integrated_intensity_raw": 11638.8,
+    "Sum_punctum_area_um2": 4.0710409032145165,
+    "Sum_punctum_integrated_intensity_raw": 58194.0
+  },
+  {
+    "Image_Index": 78,
+    "Cell_ID": 4,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 4,
+    "Mean_punctum_area_um2": 0.09550829098450478,
+    "Mean_punctum_integrated_intensity_raw": 1221.5,
+    "Sum_punctum_area_um2": 0.3820331639380191,
+    "Sum_punctum_integrated_intensity_raw": 4886.0
+  },
+  {
+    "Image_Index": 78,
+    "Cell_ID": 5,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 20,
+    "Mean_punctum_area_um2": 0.662588768705002,
+    "Mean_punctum_integrated_intensity_raw": 9435.15,
+    "Sum_punctum_area_um2": 13.25177537410004,
+    "Sum_punctum_integrated_intensity_raw": 188703.0
+  },
+  {
+    "Image_Index": 79,
+    "Cell_ID": 1,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 12,
+    "Mean_punctum_area_um2": 0.2467297517099707,
+    "Mean_punctum_integrated_intensity_raw": 3413.5833333333335,
+    "Sum_punctum_area_um2": 2.9607570205196483,
+    "Sum_punctum_integrated_intensity_raw": 40963.0
+  },
+  {
+    "Image_Index": 79,
+    "Cell_ID": 2,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 12,
+    "Mean_punctum_area_um2": 0.26463755626956537,
+    "Mean_punctum_integrated_intensity_raw": 4264.916666666667,
+    "Sum_punctum_area_um2": 3.175650675234784,
+    "Sum_punctum_integrated_intensity_raw": 51179.0
+  },
+  {
+    "Image_Index": 79,
+    "Cell_ID": 3,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 24,
+    "Mean_punctum_area_um2": 0.8093332782905692,
+    "Mean_punctum_integrated_intensity_raw": 11365.208333333334,
+    "Sum_punctum_area_um2": 19.42399867897366,
+    "Sum_punctum_integrated_intensity_raw": 272765.0
+  },
+  {
+    "Image_Index": 79,
+    "Cell_ID": 4,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 39,
+    "Mean_punctum_area_um2": 0.2816270118773859,
+    "Mean_punctum_integrated_intensity_raw": 4093.3846153846152,
+    "Sum_punctum_area_um2": 10.983453463218051,
+    "Sum_punctum_integrated_intensity_raw": 159642.0
+  },
+  {
+    "Image_Index": 80,
+    "Cell_ID": 1,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 19,
+    "Mean_punctum_area_um2": 0.2871532169731492,
+    "Mean_punctum_integrated_intensity_raw": 4113.8421052631575,
+    "Sum_punctum_area_um2": 5.455911122489836,
+    "Sum_punctum_integrated_intensity_raw": 78163.0
+  },
+  {
+    "Image_Index": 80,
+    "Cell_ID": 2,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 27,
+    "Mean_punctum_area_um2": 0.92059380476731,
+    "Mean_punctum_integrated_intensity_raw": 13835.333333333334,
+    "Sum_punctum_area_um2": 24.85603272871737,
+    "Sum_punctum_integrated_intensity_raw": 373554.0
+  },
+  {
+    "Image_Index": 81,
+    "Cell_ID": 1,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 8,
+    "Mean_punctum_area_um2": 0.17161646036278203,
+    "Mean_punctum_integrated_intensity_raw": 2360.5,
+    "Sum_punctum_area_um2": 1.3729316829022562,
+    "Sum_punctum_integrated_intensity_raw": 18884.0
+  },
+  {
+    "Image_Index": 81,
+    "Cell_ID": 2,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 8,
+    "Mean_punctum_area_um2": 0.4074025537307782,
+    "Mean_punctum_integrated_intensity_raw": 5974.25,
+    "Sum_punctum_area_um2": 3.2592204298462257,
+    "Sum_punctum_integrated_intensity_raw": 47794.0
+  },
+  {
+    "Image_Index": 81,
+    "Cell_ID": 3,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 0,
+    "Mean_punctum_area_um2": null,
+    "Mean_punctum_integrated_intensity_raw": null,
+    "Sum_punctum_area_um2": 0.0,
+    "Sum_punctum_integrated_intensity_raw": 0.0
+  },
+  {
+    "Image_Index": 81,
+    "Cell_ID": 4,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 13,
+    "Mean_punctum_area_um2": 0.4215221688643048,
+    "Mean_punctum_integrated_intensity_raw": 5837.0,
+    "Sum_punctum_area_um2": 5.479788195235963,
+    "Sum_punctum_integrated_intensity_raw": 75881.0
+  },
+  {
+    "Image_Index": 81,
+    "Cell_ID": 5,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 21,
+    "Mean_punctum_area_um2": 0.4496848700520434,
+    "Mean_punctum_integrated_intensity_raw": 6488.142857142857,
+    "Sum_punctum_area_um2": 9.443382271092911,
+    "Sum_punctum_integrated_intensity_raw": 136251.0
+  },
+  {
+    "Image_Index": 81,
+    "Cell_ID": 6,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 2,
+    "Mean_punctum_area_um2": 1.4326243647675718,
+    "Mean_punctum_integrated_intensity_raw": 23536.5,
+    "Sum_punctum_area_um2": 2.8652487295351436,
+    "Sum_punctum_integrated_intensity_raw": 47073.0
+  },
+  {
+    "Image_Index": 82,
+    "Cell_ID": 1,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 2,
+    "Mean_punctum_area_um2": 0.12535463191716253,
+    "Mean_punctum_integrated_intensity_raw": 1615.0,
+    "Sum_punctum_area_um2": 0.25070926383432507,
+    "Sum_punctum_integrated_intensity_raw": 3230.0
+  },
+  {
+    "Image_Index": 82,
+    "Cell_ID": 2,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 1,
+    "Mean_punctum_area_um2": 0.05969268186531549,
+    "Mean_punctum_integrated_intensity_raw": 786.0,
+    "Sum_punctum_area_um2": 0.05969268186531549,
+    "Sum_punctum_integrated_intensity_raw": 786.0
+  },
+  {
+    "Image_Index": 82,
+    "Cell_ID": 3,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 8,
+    "Mean_punctum_area_um2": 0.33278670139913386,
+    "Mean_punctum_integrated_intensity_raw": 4438.875,
+    "Sum_punctum_area_um2": 2.662293611193071,
+    "Sum_punctum_integrated_intensity_raw": 35511.0
+  },
+  {
+    "Image_Index": 82,
+    "Cell_ID": 4,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 32,
+    "Mean_punctum_area_um2": 1.269588727422929,
+    "Mean_punctum_integrated_intensity_raw": 17787.96875,
+    "Sum_punctum_area_um2": 40.626839277533726,
+    "Sum_punctum_integrated_intensity_raw": 569215.0
+  },
+  {
+    "Image_Index": 82,
+    "Cell_ID": 5,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 18,
+    "Mean_punctum_area_um2": 0.14193593243530572,
+    "Mean_punctum_integrated_intensity_raw": 1909.111111111111,
+    "Sum_punctum_area_um2": 2.554846783835503,
+    "Sum_punctum_integrated_intensity_raw": 34364.0
+  },
+  {
+    "Image_Index": 83,
+    "Cell_ID": 1,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 4,
+    "Mean_punctum_area_um2": 0.265632434300654,
+    "Mean_punctum_integrated_intensity_raw": 3474.25,
+    "Sum_punctum_area_um2": 1.062529737202616,
+    "Sum_punctum_integrated_intensity_raw": 13897.0
+  },
+  {
+    "Image_Index": 83,
+    "Cell_ID": 2,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 21,
+    "Mean_punctum_area_um2": 0.2541202742266288,
+    "Mean_punctum_integrated_intensity_raw": 3538.6190476190477,
+    "Sum_punctum_area_um2": 5.336525758759205,
+    "Sum_punctum_integrated_intensity_raw": 74311.0
+  },
+  {
+    "Image_Index": 83,
+    "Cell_ID": 3,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 23,
+    "Mean_punctum_area_um2": 0.3815140971391903,
+    "Mean_punctum_integrated_intensity_raw": 5106.347826086957,
+    "Sum_punctum_area_um2": 8.774824234201377,
+    "Sum_punctum_integrated_intensity_raw": 117446.0
+  },
+  {
+    "Image_Index": 83,
+    "Cell_ID": 4,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 5,
+    "Mean_punctum_area_um2": 0.974184568041949,
+    "Mean_punctum_integrated_intensity_raw": 13286.6,
+    "Sum_punctum_area_um2": 4.870922840209745,
+    "Sum_punctum_integrated_intensity_raw": 66433.0
+  },
+  {
+    "Image_Index": 84,
+    "Cell_ID": 1,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 0,
+    "Mean_punctum_area_um2": null,
+    "Mean_punctum_integrated_intensity_raw": null,
+    "Sum_punctum_area_um2": 0.0,
+    "Sum_punctum_integrated_intensity_raw": 0.0
+  },
+  {
+    "Image_Index": 84,
+    "Cell_ID": 2,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 11,
+    "Mean_punctum_area_um2": 0.27567165806891153,
+    "Mean_punctum_integrated_intensity_raw": 3693.2727272727275,
+    "Sum_punctum_area_um2": 3.0323882387580268,
+    "Sum_punctum_integrated_intensity_raw": 40626.0
+  },
+  {
+    "Image_Index": 84,
+    "Cell_ID": 3,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 3,
+    "Mean_punctum_area_um2": 0.5929473065288006,
+    "Mean_punctum_integrated_intensity_raw": 8977.666666666666,
+    "Sum_punctum_area_um2": 1.7788419195864016,
+    "Sum_punctum_integrated_intensity_raw": 26933.0
+  },
+  {
+    "Image_Index": 84,
+    "Cell_ID": 4,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 6,
+    "Mean_punctum_area_um2": 0.5312648686013078,
+    "Mean_punctum_integrated_intensity_raw": 6950.666666666667,
+    "Sum_punctum_area_um2": 3.1875892116078473,
+    "Sum_punctum_integrated_intensity_raw": 41704.0
+  },
+  {
+    "Image_Index": 84,
+    "Cell_ID": 5,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 8,
+    "Mean_punctum_area_um2": 2.1966906926436103,
+    "Mean_punctum_integrated_intensity_raw": 30246.75,
+    "Sum_punctum_area_um2": 17.573525541148882,
+    "Sum_punctum_integrated_intensity_raw": 241974.0
+  },
+  {
+    "Image_Index": 84,
+    "Cell_ID": 6,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 0,
+    "Mean_punctum_area_um2": null,
+    "Mean_punctum_integrated_intensity_raw": null,
+    "Sum_punctum_area_um2": 0.0,
+    "Sum_punctum_integrated_intensity_raw": 0.0
+  },
+  {
+    "Image_Index": 85,
+    "Cell_ID": 1,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 1,
+    "Mean_punctum_area_um2": 0.05969268186531549,
+    "Mean_punctum_integrated_intensity_raw": 764.0,
+    "Sum_punctum_area_um2": 0.05969268186531549,
+    "Sum_punctum_integrated_intensity_raw": 764.0
+  },
+  {
+    "Image_Index": 85,
+    "Cell_ID": 2,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 17,
+    "Mean_punctum_area_um2": 0.6868169748738653,
+    "Mean_punctum_integrated_intensity_raw": 9423.882352941177,
+    "Sum_punctum_area_um2": 11.67588857285571,
+    "Sum_punctum_integrated_intensity_raw": 160206.0
+  },
+  {
+    "Image_Index": 85,
+    "Cell_ID": 3,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 3,
+    "Mean_punctum_area_um2": 0.12734438797933972,
+    "Mean_punctum_integrated_intensity_raw": 1659.6666666666667,
+    "Sum_punctum_area_um2": 0.38203316393801917,
+    "Sum_punctum_integrated_intensity_raw": 4979.0
+  },
+  {
+    "Image_Index": 85,
+    "Cell_ID": 4,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 3,
+    "Mean_punctum_area_um2": 0.06765170611402423,
+    "Mean_punctum_integrated_intensity_raw": 882.6666666666666,
+    "Sum_punctum_area_um2": 0.20295511834207267,
+    "Sum_punctum_integrated_intensity_raw": 2648.0
+  },
+  {
+    "Image_Index": 85,
+    "Cell_ID": 5,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 10,
+    "Mean_punctum_area_um2": 0.3104019456996406,
+    "Mean_punctum_integrated_intensity_raw": 4042.1,
+    "Sum_punctum_area_um2": 3.1040194569964057,
+    "Sum_punctum_integrated_intensity_raw": 40421.0
+  },
+  {
+    "Image_Index": 88,
+    "Cell_ID": 1,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 26,
+    "Mean_punctum_area_um2": 0.37468637232382646,
+    "Mean_punctum_integrated_intensity_raw": 5483.653846153846,
+    "Sum_punctum_area_um2": 9.741845680419488,
+    "Sum_punctum_integrated_intensity_raw": 142575.0
+  },
+  {
+    "Image_Index": 88,
+    "Cell_ID": 2,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 5,
+    "Mean_punctum_area_um2": 0.74735237695375,
+    "Mean_punctum_integrated_intensity_raw": 11120.6,
+    "Sum_punctum_area_um2": 3.73676188476875,
+    "Sum_punctum_integrated_intensity_raw": 55603.0
+  },
+  {
+    "Image_Index": 88,
+    "Cell_ID": 3,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 1,
+    "Mean_punctum_area_um2": 0.14326243647675718,
+    "Mean_punctum_integrated_intensity_raw": 1883.0,
+    "Sum_punctum_area_um2": 0.14326243647675718,
+    "Sum_punctum_integrated_intensity_raw": 1883.0
+  },
+  {
+    "Image_Index": 88,
+    "Cell_ID": 4,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 2,
+    "Mean_punctum_area_um2": 0.21489365471513577,
+    "Mean_punctum_integrated_intensity_raw": 3044.5,
+    "Sum_punctum_area_um2": 0.42978730943027155,
+    "Sum_punctum_integrated_intensity_raw": 6089.0
+  },
+  {
+    "Image_Index": 88,
+    "Cell_ID": 5,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 15,
+    "Mean_punctum_area_um2": 0.6558235980935995,
+    "Mean_punctum_integrated_intensity_raw": 9225.866666666667,
+    "Sum_punctum_area_um2": 9.837353971403992,
+    "Sum_punctum_integrated_intensity_raw": 138388.0
+  },
+  {
+    "Image_Index": 89,
+    "Cell_ID": 1,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 2,
+    "Mean_punctum_area_um2": 0.5790190140935603,
+    "Mean_punctum_integrated_intensity_raw": 7707.0,
+    "Sum_punctum_area_um2": 1.1580380281871205,
+    "Sum_punctum_integrated_intensity_raw": 15414.0
+  },
+  {
+    "Image_Index": 89,
+    "Cell_ID": 2,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 18,
+    "Mean_punctum_area_um2": 0.9908985189642371,
+    "Mean_punctum_integrated_intensity_raw": 13510.611111111111,
+    "Sum_punctum_area_um2": 17.836173341356268,
+    "Sum_punctum_integrated_intensity_raw": 243191.0
+  },
+  {
+    "Image_Index": 89,
+    "Cell_ID": 3,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 2,
+    "Mean_punctum_area_um2": 0.1611702410363518,
+    "Mean_punctum_integrated_intensity_raw": 2168.5,
+    "Sum_punctum_area_um2": 0.3223404820727036,
+    "Sum_punctum_integrated_intensity_raw": 4337.0
+  },
+  {
+    "Image_Index": 89,
+    "Cell_ID": 4,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 1,
+    "Mean_punctum_area_um2": 0.26264780020738815,
+    "Mean_punctum_integrated_intensity_raw": 3611.0,
+    "Sum_punctum_area_um2": 0.26264780020738815,
+    "Sum_punctum_integrated_intensity_raw": 3611.0
+  },
+  {
+    "Image_Index": 89,
+    "Cell_ID": 5,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 13,
+    "Mean_punctum_area_um2": 0.1533642749462721,
+    "Mean_punctum_integrated_intensity_raw": 2059.3846153846152,
+    "Sum_punctum_area_um2": 1.9937355743015375,
+    "Sum_punctum_integrated_intensity_raw": 26772.0
+  },
+  {
+    "Image_Index": 90,
+    "Cell_ID": 1,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 2,
+    "Mean_punctum_area_um2": 0.2745863365804513,
+    "Mean_punctum_integrated_intensity_raw": 3553.0,
+    "Sum_punctum_area_um2": 0.5491726731609026,
+    "Sum_punctum_integrated_intensity_raw": 7106.0
+  },
+  {
+    "Image_Index": 90,
+    "Cell_ID": 2,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 0,
+    "Mean_punctum_area_um2": null,
+    "Mean_punctum_integrated_intensity_raw": null,
+    "Sum_punctum_area_um2": 0.0,
+    "Sum_punctum_integrated_intensity_raw": 0.0
+  },
+  {
+    "Image_Index": 90,
+    "Cell_ID": 3,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 11,
+    "Mean_punctum_area_um2": 0.46234695408407994,
+    "Mean_punctum_integrated_intensity_raw": 7254.0,
+    "Sum_punctum_area_um2": 5.085816494924879,
+    "Sum_punctum_integrated_intensity_raw": 79794.0
+  },
+  {
+    "Image_Index": 90,
+    "Cell_ID": 4,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 21,
+    "Mean_punctum_area_um2": 0.8760611690900111,
+    "Mean_punctum_integrated_intensity_raw": 11988.380952380952,
+    "Sum_punctum_area_um2": 18.397284550890234,
+    "Sum_punctum_integrated_intensity_raw": 251756.0
+  },
+  {
+    "Image_Index": 90,
+    "Cell_ID": 5,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 2,
+    "Mean_punctum_area_um2": 0.16713950922288337,
+    "Mean_punctum_integrated_intensity_raw": 2208.0,
+    "Sum_punctum_area_um2": 0.33427901844576674,
+    "Sum_punctum_integrated_intensity_raw": 4416.0
+  },
+  {
+    "Image_Index": 91,
+    "Cell_ID": 1,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 15,
+    "Mean_punctum_area_um2": 0.1607722898239164,
+    "Mean_punctum_integrated_intensity_raw": 2187.0,
+    "Sum_punctum_area_um2": 2.4115843473587457,
+    "Sum_punctum_integrated_intensity_raw": 32805.0
+  },
+  {
+    "Image_Index": 91,
+    "Cell_ID": 2,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 13,
+    "Mean_punctum_area_um2": 0.5289689962218727,
+    "Mean_punctum_integrated_intensity_raw": 9863.153846153846,
+    "Sum_punctum_area_um2": 6.876596950884345,
+    "Sum_punctum_integrated_intensity_raw": 128221.0
+  },
+  {
+    "Image_Index": 91,
+    "Cell_ID": 3,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 18,
+    "Mean_punctum_area_um2": 0.36545186341987596,
+    "Mean_punctum_integrated_intensity_raw": 5306.055555555556,
+    "Sum_punctum_area_um2": 6.578133541557767,
+    "Sum_punctum_integrated_intensity_raw": 95509.0
+  },
+  {
+    "Image_Index": 91,
+    "Cell_ID": 4,
+    "Group": "DOPG_chole_mRNA",
+    "Puncta_count": 4,
+    "Mean_punctum_area_um2": 0.3074173116063748,
+    "Mean_punctum_integrated_intensity_raw": 4430.25,
+    "Sum_punctum_area_um2": 1.2296692464254992,
+    "Sum_punctum_integrated_intensity_raw": 17721.0
+  },
+  {
+    "Image_Index": 107,
+    "Cell_ID": 1,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 34,
+    "Mean_punctum_area_um2": 0.524593333569302,
+    "Mean_punctum_integrated_intensity_raw": 8119.029411764706,
+    "Sum_punctum_area_um2": 17.836173341356268,
+    "Sum_punctum_integrated_intensity_raw": 276047.0
+  },
+  {
+    "Image_Index": 107,
+    "Cell_ID": 2,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 21,
+    "Mean_punctum_area_um2": 0.9880560103039842,
+    "Mean_punctum_integrated_intensity_raw": 17385.95238095238,
+    "Sum_punctum_area_um2": 20.749176216383667,
+    "Sum_punctum_integrated_intensity_raw": 365105.0
+  },
+  {
+    "Image_Index": 107,
+    "Cell_ID": 3,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 16,
+    "Mean_punctum_area_um2": 1.5385788750785068,
+    "Mean_punctum_integrated_intensity_raw": 24119.0625,
+    "Sum_punctum_area_um2": 24.61726200125611,
+    "Sum_punctum_integrated_intensity_raw": 385905.0
+  },
+  {
+    "Image_Index": 107,
+    "Cell_ID": 4,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 9,
+    "Mean_punctum_area_um2": 0.3860126760623735,
+    "Mean_punctum_integrated_intensity_raw": 7058.888888888889,
+    "Sum_punctum_area_um2": 3.4741140845613616,
+    "Sum_punctum_integrated_intensity_raw": 63530.0
+  },
+  {
+    "Image_Index": 107,
+    "Cell_ID": 5,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 33,
+    "Mean_punctum_area_um2": 0.394333474140569,
+    "Mean_punctum_integrated_intensity_raw": 5989.30303030303,
+    "Sum_punctum_area_um2": 13.013004646638777,
+    "Sum_punctum_integrated_intensity_raw": 197647.0
+  },
+  {
+    "Image_Index": 108,
+    "Cell_ID": 1,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 12,
+    "Mean_punctum_area_um2": 0.5044031617619159,
+    "Mean_punctum_integrated_intensity_raw": 6975.0,
+    "Sum_punctum_area_um2": 6.052837941142991,
+    "Sum_punctum_integrated_intensity_raw": 83700.0
+  },
+  {
+    "Image_Index": 108,
+    "Cell_ID": 2,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 30,
+    "Mean_punctum_area_um2": 4.153814755401087,
+    "Mean_punctum_integrated_intensity_raw": 71583.8,
+    "Sum_punctum_area_um2": 124.61444266203262,
+    "Sum_punctum_integrated_intensity_raw": 2147514.0
+  },
+  {
+    "Image_Index": 108,
+    "Cell_ID": 3,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 15,
+    "Mean_punctum_area_um2": 1.5026637781562084,
+    "Mean_punctum_integrated_intensity_raw": 26286.666666666668,
+    "Sum_punctum_area_um2": 22.539956672343127,
+    "Sum_punctum_integrated_intensity_raw": 394300.0
+  },
+  {
+    "Image_Index": 108,
+    "Cell_ID": 4,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 3,
+    "Mean_punctum_area_um2": 0.923246812850213,
+    "Mean_punctum_integrated_intensity_raw": 12184.0,
+    "Sum_punctum_area_um2": 2.769740438550639,
+    "Sum_punctum_integrated_intensity_raw": 36552.0
+  },
+  {
+    "Image_Index": 109,
+    "Cell_ID": 1,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 4,
+    "Mean_punctum_area_um2": 0.304432677513109,
+    "Mean_punctum_integrated_intensity_raw": 4079.75,
+    "Sum_punctum_area_um2": 1.217730710052436,
+    "Sum_punctum_integrated_intensity_raw": 16319.0
+  },
+  {
+    "Image_Index": 109,
+    "Cell_ID": 2,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 83,
+    "Mean_punctum_area_um2": 0.9120754113444952,
+    "Mean_punctum_integrated_intensity_raw": 13208.43373493976,
+    "Sum_punctum_area_um2": 75.7022591415931,
+    "Sum_punctum_integrated_intensity_raw": 1096300.0
+  },
+  {
+    "Image_Index": 109,
+    "Cell_ID": 3,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 22,
+    "Mean_punctum_area_um2": 0.2794702832785225,
+    "Mean_punctum_integrated_intensity_raw": 3860.2727272727275,
+    "Sum_punctum_area_um2": 6.148346232127495,
+    "Sum_punctum_integrated_intensity_raw": 84926.0
+  },
+  {
+    "Image_Index": 109,
+    "Cell_ID": 4,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 41,
+    "Mean_punctum_area_um2": 1.1190193971141826,
+    "Mean_punctum_integrated_intensity_raw": 16301.121951219513,
+    "Sum_punctum_area_um2": 45.87979528168149,
+    "Sum_punctum_integrated_intensity_raw": 668346.0
+  },
+  {
+    "Image_Index": 109,
+    "Cell_ID": 5,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 20,
+    "Mean_punctum_area_um2": 0.605283794114299,
+    "Mean_punctum_integrated_intensity_raw": 8412.05,
+    "Sum_punctum_area_um2": 12.105675882285981,
+    "Sum_punctum_integrated_intensity_raw": 168241.0
+  },
+  {
+    "Image_Index": 109,
+    "Cell_ID": 6,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 6,
+    "Mean_punctum_area_um2": 0.15918048497417464,
+    "Mean_punctum_integrated_intensity_raw": 2122.5,
+    "Sum_punctum_area_um2": 0.9550829098450478,
+    "Sum_punctum_integrated_intensity_raw": 12735.0
+  },
+  {
+    "Image_Index": 110,
+    "Cell_ID": 1,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 22,
+    "Mean_punctum_area_um2": 0.7494144877818244,
+    "Mean_punctum_integrated_intensity_raw": 10821.454545454546,
+    "Sum_punctum_area_um2": 16.487118731200137,
+    "Sum_punctum_integrated_intensity_raw": 238072.0
+  },
+  {
+    "Image_Index": 110,
+    "Cell_ID": 2,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 0,
+    "Mean_punctum_area_um2": null,
+    "Mean_punctum_integrated_intensity_raw": null,
+    "Sum_punctum_area_um2": 0.0,
+    "Sum_punctum_integrated_intensity_raw": 0.0
+  },
+  {
+    "Image_Index": 110,
+    "Cell_ID": 3,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 12,
+    "Mean_punctum_area_um2": 0.3034377994820204,
+    "Mean_punctum_integrated_intensity_raw": 3989.3333333333335,
+    "Sum_punctum_area_um2": 3.6412535937842447,
+    "Sum_punctum_integrated_intensity_raw": 47872.0
+  },
+  {
+    "Image_Index": 110,
+    "Cell_ID": 4,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 15,
+    "Mean_punctum_area_um2": 0.40272662698466183,
+    "Mean_punctum_integrated_intensity_raw": 6570.066666666667,
+    "Sum_punctum_area_um2": 6.040899404769927,
+    "Sum_punctum_integrated_intensity_raw": 98551.0
+  },
+  {
+    "Image_Index": 110,
+    "Cell_ID": 5,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 20,
+    "Mean_punctum_area_um2": 0.1957919965182348,
+    "Mean_punctum_integrated_intensity_raw": 2758.8,
+    "Sum_punctum_area_um2": 3.9158399303646965,
+    "Sum_punctum_integrated_intensity_raw": 55176.0
+  },
+  {
+    "Image_Index": 110,
+    "Cell_ID": 6,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 14,
+    "Mean_punctum_area_um2": 1.019892107298819,
+    "Mean_punctum_integrated_intensity_raw": 14585.214285714286,
+    "Sum_punctum_area_um2": 14.278489502183465,
+    "Sum_punctum_integrated_intensity_raw": 204193.0
+  },
+  {
+    "Image_Index": 111,
+    "Cell_ID": 1,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 37,
+    "Mean_punctum_area_um2": 0.2949141147291803,
+    "Mean_punctum_integrated_intensity_raw": 4574.783783783784,
+    "Sum_punctum_area_um2": 10.911822244979671,
+    "Sum_punctum_integrated_intensity_raw": 169267.0
+  },
+  {
+    "Image_Index": 111,
+    "Cell_ID": 2,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 112,
+    "Mean_punctum_area_um2": 0.7951917977058099,
+    "Mean_punctum_integrated_intensity_raw": 11702.482142857143,
+    "Sum_punctum_area_um2": 89.06148134305072,
+    "Sum_punctum_integrated_intensity_raw": 1310678.0
+  },
+  {
+    "Image_Index": 112,
+    "Cell_ID": 1,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 36,
+    "Mean_punctum_area_um2": 0.6450125901557702,
+    "Mean_punctum_integrated_intensity_raw": 9426.305555555555,
+    "Sum_punctum_area_um2": 23.220453245607725,
+    "Sum_punctum_integrated_intensity_raw": 339347.0
+  },
+  {
+    "Image_Index": 112,
+    "Cell_ID": 2,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 24,
+    "Mean_punctum_area_um2": 0.9739855924357311,
+    "Mean_punctum_integrated_intensity_raw": 15764.041666666666,
+    "Sum_punctum_area_um2": 23.375654218457548,
+    "Sum_punctum_integrated_intensity_raw": 378337.0
+  },
+  {
+    "Image_Index": 114,
+    "Cell_ID": 1,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 23,
+    "Mean_punctum_area_um2": 0.3192260812797307,
+    "Mean_punctum_integrated_intensity_raw": 4479.304347826087,
+    "Sum_punctum_area_um2": 7.342199869433806,
+    "Sum_punctum_integrated_intensity_raw": 103024.0
+  },
+  {
+    "Image_Index": 114,
+    "Cell_ID": 2,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 2,
+    "Mean_punctum_area_um2": 0.14326243647675718,
+    "Mean_punctum_integrated_intensity_raw": 1954.0,
+    "Sum_punctum_area_um2": 0.28652487295351436,
+    "Sum_punctum_integrated_intensity_raw": 3908.0
+  },
+  {
+    "Image_Index": 114,
+    "Cell_ID": 3,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 12,
+    "Mean_punctum_area_um2": 1.2545411972027138,
+    "Mean_punctum_integrated_intensity_raw": 22019.0,
+    "Sum_punctum_area_um2": 15.054494366432566,
+    "Sum_punctum_integrated_intensity_raw": 264228.0
+  },
+  {
+    "Image_Index": 115,
+    "Cell_ID": 1,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 14,
+    "Mean_punctum_area_um2": 2.444841698683707,
+    "Mean_punctum_integrated_intensity_raw": 48126.92857142857,
+    "Sum_punctum_area_um2": 34.2277837815719,
+    "Sum_punctum_integrated_intensity_raw": 673777.0
+  },
+  {
+    "Image_Index": 115,
+    "Cell_ID": 2,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 33,
+    "Mean_punctum_area_um2": 0.7249947542914682,
+    "Mean_punctum_integrated_intensity_raw": 11116.757575757576,
+    "Sum_punctum_area_um2": 23.92482689161845,
+    "Sum_punctum_integrated_intensity_raw": 366853.0
+  },
+  {
+    "Image_Index": 115,
+    "Cell_ID": 3,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 27,
+    "Mean_punctum_area_um2": 0.830391529948611,
+    "Mean_punctum_integrated_intensity_raw": 12746.25925925926,
+    "Sum_punctum_area_um2": 22.420571308612498,
+    "Sum_punctum_integrated_intensity_raw": 344149.0
+  },
+  {
+    "Image_Index": 115,
+    "Cell_ID": 4,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 15,
+    "Mean_punctum_area_um2": 1.7541689444154045,
+    "Mean_punctum_integrated_intensity_raw": 24159.2,
+    "Sum_punctum_area_um2": 26.312534166231067,
+    "Sum_punctum_integrated_intensity_raw": 362388.0
+  },
+  {
+    "Image_Index": 116,
+    "Cell_ID": 1,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 8,
+    "Mean_punctum_area_um2": 0.3208481650260708,
+    "Mean_punctum_integrated_intensity_raw": 4683.125,
+    "Sum_punctum_area_um2": 2.566785320208566,
+    "Sum_punctum_integrated_intensity_raw": 37465.0
+  },
+  {
+    "Image_Index": 116,
+    "Cell_ID": 2,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 37,
+    "Mean_punctum_area_um2": 0.37461191159800694,
+    "Mean_punctum_integrated_intensity_raw": 5249.891891891892,
+    "Sum_punctum_area_um2": 13.860640729126256,
+    "Sum_punctum_integrated_intensity_raw": 194246.0
+  },
+  {
+    "Image_Index": 116,
+    "Cell_ID": 3,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 21,
+    "Mean_punctum_area_um2": 1.2285322429613978,
+    "Mean_punctum_integrated_intensity_raw": 17036.666666666668,
+    "Sum_punctum_area_um2": 25.799177102189354,
+    "Sum_punctum_integrated_intensity_raw": 357770.0
+  },
+  {
+    "Image_Index": 116,
+    "Cell_ID": 4,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 34,
+    "Mean_punctum_area_um2": 1.290064195136289,
+    "Mean_punctum_integrated_intensity_raw": 18394.029411764706,
+    "Sum_punctum_area_um2": 43.862182634633825,
+    "Sum_punctum_integrated_intensity_raw": 625397.0
+  },
+  {
+    "Image_Index": 113,
+    "Cell_ID": 1,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 5,
+    "Mean_punctum_area_um2": 0.21011824016591052,
+    "Mean_punctum_integrated_intensity_raw": 3049.8,
+    "Sum_punctum_area_um2": 1.0505912008295526,
+    "Sum_punctum_integrated_intensity_raw": 15249.0
+  },
+  {
+    "Image_Index": 113,
+    "Cell_ID": 2,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 9,
+    "Mean_punctum_area_um2": 0.6645785247671792,
+    "Mean_punctum_integrated_intensity_raw": 9965.888888888889,
+    "Sum_punctum_area_um2": 5.981206722904612,
+    "Sum_punctum_integrated_intensity_raw": 89693.0
+  },
+  {
+    "Image_Index": 113,
+    "Cell_ID": 3,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 37,
+    "Mean_punctum_area_um2": 3.1301551717590574,
+    "Mean_punctum_integrated_intensity_raw": 50638.67567567567,
+    "Sum_punctum_area_um2": 115.81574135508512,
+    "Sum_punctum_integrated_intensity_raw": 1873631.0
+  },
+  {
+    "Image_Index": 113,
+    "Cell_ID": 4,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 60,
+    "Mean_punctum_area_um2": 2.134610303503682,
+    "Mean_punctum_integrated_intensity_raw": 39794.066666666666,
+    "Sum_punctum_area_um2": 128.07661821022091,
+    "Sum_punctum_integrated_intensity_raw": 2387644.0
+  },
+  {
+    "Image_Index": 117,
+    "Cell_ID": 1,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 16,
+    "Mean_punctum_area_um2": 0.27757097067371705,
+    "Mean_punctum_integrated_intensity_raw": 4211.5625,
+    "Sum_punctum_area_um2": 4.441135530779473,
+    "Sum_punctum_integrated_intensity_raw": 67385.0
+  },
+  {
+    "Image_Index": 117,
+    "Cell_ID": 2,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 4,
+    "Mean_punctum_area_um2": 2.223552399483002,
+    "Mean_punctum_integrated_intensity_raw": 34842.5,
+    "Sum_punctum_area_um2": 8.894209597932008,
+    "Sum_punctum_integrated_intensity_raw": 139370.0
+  },
+  {
+    "Image_Index": 117,
+    "Cell_ID": 3,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 30,
+    "Mean_punctum_area_um2": 0.9144918861766335,
+    "Mean_punctum_integrated_intensity_raw": 14070.833333333334,
+    "Sum_punctum_area_um2": 27.434756585299002,
+    "Sum_punctum_integrated_intensity_raw": 422125.0
+  },
+  {
+    "Image_Index": 118,
+    "Cell_ID": 1,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 25,
+    "Mean_punctum_area_um2": 0.23829318600633942,
+    "Mean_punctum_integrated_intensity_raw": 3514.0,
+    "Sum_punctum_area_um2": 5.957329650158486,
+    "Sum_punctum_integrated_intensity_raw": 87850.0
+  },
+  {
+    "Image_Index": 118,
+    "Cell_ID": 2,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 15,
+    "Mean_punctum_area_um2": 0.22126087411410278,
+    "Mean_punctum_integrated_intensity_raw": 3115.8,
+    "Sum_punctum_area_um2": 3.3189131117115416,
+    "Sum_punctum_integrated_intensity_raw": 46737.0
+  },
+  {
+    "Image_Index": 118,
+    "Cell_ID": 3,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 4,
+    "Mean_punctum_area_um2": 0.2089243865286042,
+    "Mean_punctum_integrated_intensity_raw": 2703.25,
+    "Sum_punctum_area_um2": 0.8356975461144168,
+    "Sum_punctum_integrated_intensity_raw": 10813.0
+  },
+  {
+    "Image_Index": 118,
+    "Cell_ID": 4,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 5,
+    "Mean_punctum_area_um2": 0.18146575287055908,
+    "Mean_punctum_integrated_intensity_raw": 2376.0,
+    "Sum_punctum_area_um2": 0.9073287643527954,
+    "Sum_punctum_integrated_intensity_raw": 11880.0
+  },
+  {
+    "Image_Index": 119,
+    "Cell_ID": 1,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 37,
+    "Mean_punctum_area_um2": 0.4723788445990371,
+    "Mean_punctum_integrated_intensity_raw": 6668.891891891892,
+    "Sum_punctum_area_um2": 17.478017250164374,
+    "Sum_punctum_integrated_intensity_raw": 246749.0
+  },
+  {
+    "Image_Index": 119,
+    "Cell_ID": 2,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 22,
+    "Mean_punctum_area_um2": 0.2794702832785225,
+    "Mean_punctum_integrated_intensity_raw": 3838.0454545454545,
+    "Sum_punctum_area_um2": 6.148346232127496,
+    "Sum_punctum_integrated_intensity_raw": 84437.0
+  },
+  {
+    "Image_Index": 119,
+    "Cell_ID": 3,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 13,
+    "Mean_punctum_area_um2": 0.22224044632932843,
+    "Mean_punctum_integrated_intensity_raw": 2881.4615384615386,
+    "Sum_punctum_area_um2": 2.88912580228127,
+    "Sum_punctum_integrated_intensity_raw": 37459.0
+  },
+  {
+    "Image_Index": 119,
+    "Cell_ID": 4,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 0,
+    "Mean_punctum_area_um2": null,
+    "Mean_punctum_integrated_intensity_raw": null,
+    "Sum_punctum_area_um2": 0.0,
+    "Sum_punctum_integrated_intensity_raw": 0.0
+  },
+  {
+    "Image_Index": 120,
+    "Cell_ID": 1,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 7,
+    "Mean_punctum_area_um2": 0.13814592088830155,
+    "Mean_punctum_integrated_intensity_raw": 1858.142857142857,
+    "Sum_punctum_area_um2": 0.9670214462181109,
+    "Sum_punctum_integrated_intensity_raw": 13007.0
+  },
+  {
+    "Image_Index": 120,
+    "Cell_ID": 2,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 23,
+    "Mean_punctum_area_um2": 0.4879227908991005,
+    "Mean_punctum_integrated_intensity_raw": 6548.608695652174,
+    "Sum_punctum_area_um2": 11.222224190679311,
+    "Sum_punctum_integrated_intensity_raw": 150618.0
+  },
+  {
+    "Image_Index": 120,
+    "Cell_ID": 3,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 6,
+    "Mean_punctum_area_um2": 0.2924941411400459,
+    "Mean_punctum_integrated_intensity_raw": 3885.3333333333335,
+    "Sum_punctum_area_um2": 1.7549648468402754,
+    "Sum_punctum_integrated_intensity_raw": 23312.0
+  },
+  {
+    "Image_Index": 121,
+    "Cell_ID": 1,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 18,
+    "Mean_punctum_area_um2": 0.23678097139908483,
+    "Mean_punctum_integrated_intensity_raw": 3420.6666666666665,
+    "Sum_punctum_area_um2": 4.262057485183527,
+    "Sum_punctum_integrated_intensity_raw": 61572.0
+  },
+  {
+    "Image_Index": 121,
+    "Cell_ID": 2,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 4,
+    "Mean_punctum_area_um2": 0.19698585015554113,
+    "Mean_punctum_integrated_intensity_raw": 2675.25,
+    "Sum_punctum_area_um2": 0.7879434006221645,
+    "Sum_punctum_integrated_intensity_raw": 10701.0
+  },
+  {
+    "Image_Index": 121,
+    "Cell_ID": 3,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 8,
+    "Mean_punctum_area_um2": 0.18057036264257936,
+    "Mean_punctum_integrated_intensity_raw": 2637.375,
+    "Sum_punctum_area_um2": 1.444562901140635,
+    "Sum_punctum_integrated_intensity_raw": 21099.0
+  },
+  {
+    "Image_Index": 121,
+    "Cell_ID": 4,
+    "Group": "66DOPC33DOPG_mRNA",
+    "Puncta_count": 3,
+    "Mean_punctum_area_um2": 0.46560291854946084,
+    "Mean_punctum_integrated_intensity_raw": 6059.666666666667,
+    "Sum_punctum_area_um2": 1.3968087556483826,
+    "Sum_punctum_integrated_intensity_raw": 18179.0
+  },
+  {
+    "Image_Index": 49,
+    "Cell_ID": 1,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 9,
+    "Mean_punctum_area_um2": 0.41121625284995117,
+    "Mean_punctum_integrated_intensity_raw": 8387.111111111111,
+    "Sum_punctum_area_um2": 3.7009462756495606,
+    "Sum_punctum_integrated_intensity_raw": 75484.0
+  },
+  {
+    "Image_Index": 49,
+    "Cell_ID": 2,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 5,
+    "Mean_punctum_area_um2": 0.17669033832133385,
+    "Mean_punctum_integrated_intensity_raw": 2490.4,
+    "Sum_punctum_area_um2": 0.8834516916066693,
+    "Sum_punctum_integrated_intensity_raw": 12452.0
+  },
+  {
+    "Image_Index": 49,
+    "Cell_ID": 3,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 11,
+    "Mean_punctum_area_um2": 1.186256386887088,
+    "Mean_punctum_integrated_intensity_raw": 21591.0,
+    "Sum_punctum_area_um2": 13.048820255757967,
+    "Sum_punctum_integrated_intensity_raw": 237501.0
+  },
+  {
+    "Image_Index": 49,
+    "Cell_ID": 4,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 9,
+    "Mean_punctum_area_um2": 3.2114662843539734,
+    "Mean_punctum_integrated_intensity_raw": 56347.666666666664,
+    "Sum_punctum_area_um2": 28.903196559185762,
+    "Sum_punctum_integrated_intensity_raw": 507129.0
+  },
+  {
+    "Image_Index": 49,
+    "Cell_ID": 5,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 10,
+    "Mean_punctum_area_um2": 0.5981206722904613,
+    "Mean_punctum_integrated_intensity_raw": 8165.0,
+    "Sum_punctum_area_um2": 5.981206722904613,
+    "Sum_punctum_integrated_intensity_raw": 81650.0
+  },
+  {
+    "Image_Index": 49,
+    "Cell_ID": 6,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 21,
+    "Mean_punctum_area_um2": 1.6958406667070105,
+    "Mean_punctum_integrated_intensity_raw": 29676.619047619046,
+    "Sum_punctum_area_um2": 35.61265400084722,
+    "Sum_punctum_integrated_intensity_raw": 623209.0
+  },
+  {
+    "Image_Index": 49,
+    "Cell_ID": 7,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 7,
+    "Mean_punctum_area_um2": 0.4690139289417646,
+    "Mean_punctum_integrated_intensity_raw": 6267.857142857143,
+    "Sum_punctum_area_um2": 3.283097502592352,
+    "Sum_punctum_integrated_intensity_raw": 43875.0
+  },
+  {
+    "Image_Index": 50,
+    "Cell_ID": 1,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 14,
+    "Mean_punctum_area_um2": 2.6563243430065393,
+    "Mean_punctum_integrated_intensity_raw": 54246.07142857143,
+    "Sum_punctum_area_um2": 37.18854080209155,
+    "Sum_punctum_integrated_intensity_raw": 759445.0
+  },
+  {
+    "Image_Index": 50,
+    "Cell_ID": 2,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 5,
+    "Mean_punctum_area_um2": 0.6088653550262181,
+    "Mean_punctum_integrated_intensity_raw": 8661.4,
+    "Sum_punctum_area_um2": 3.0443267751310903,
+    "Sum_punctum_integrated_intensity_raw": 43307.0
+  },
+  {
+    "Image_Index": 50,
+    "Cell_ID": 3,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 59,
+    "Mean_punctum_area_um2": 0.5265096888594946,
+    "Mean_punctum_integrated_intensity_raw": 7974.966101694915,
+    "Sum_punctum_area_um2": 31.064071642710182,
+    "Sum_punctum_integrated_intensity_raw": 470523.0
+  },
+  {
+    "Image_Index": 50,
+    "Cell_ID": 4,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 12,
+    "Mean_punctum_area_um2": 0.8078409612439362,
+    "Mean_punctum_integrated_intensity_raw": 10910.083333333334,
+    "Sum_punctum_area_um2": 9.694091534927235,
+    "Sum_punctum_integrated_intensity_raw": 130921.0
+  },
+  {
+    "Image_Index": 50,
+    "Cell_ID": 5,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 7,
+    "Mean_punctum_area_um2": 0.900506743568188,
+    "Mean_punctum_integrated_intensity_raw": 15260.857142857143,
+    "Sum_punctum_area_um2": 6.303547204977316,
+    "Sum_punctum_integrated_intensity_raw": 106826.0
+  },
+  {
+    "Image_Index": 50,
+    "Cell_ID": 6,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 21,
+    "Mean_punctum_area_um2": 0.42978730943027155,
+    "Mean_punctum_integrated_intensity_raw": 6059.523809523809,
+    "Sum_punctum_area_um2": 9.025533498035703,
+    "Sum_punctum_integrated_intensity_raw": 127250.0
+  },
+  {
+    "Image_Index": 51,
+    "Cell_ID": 1,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 7,
+    "Mean_punctum_area_um2": 0.422965288645664,
+    "Mean_punctum_integrated_intensity_raw": 5516.0,
+    "Sum_punctum_area_um2": 2.9607570205196483,
+    "Sum_punctum_integrated_intensity_raw": 38612.0
+  },
+  {
+    "Image_Index": 51,
+    "Cell_ID": 2,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 10,
+    "Mean_punctum_area_um2": 1.922104356063159,
+    "Mean_punctum_integrated_intensity_raw": 35207.5,
+    "Sum_punctum_area_um2": 19.22104356063159,
+    "Sum_punctum_integrated_intensity_raw": 352075.0
+  },
+  {
+    "Image_Index": 51,
+    "Cell_ID": 3,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 13,
+    "Mean_punctum_area_um2": 0.48856164234381294,
+    "Mean_punctum_integrated_intensity_raw": 6795.153846153846,
+    "Sum_punctum_area_um2": 6.351301350469568,
+    "Sum_punctum_integrated_intensity_raw": 88337.0
+  },
+  {
+    "Image_Index": 51,
+    "Cell_ID": 4,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 6,
+    "Mean_punctum_area_um2": 0.18703706984465518,
+    "Mean_punctum_integrated_intensity_raw": 2408.6666666666665,
+    "Sum_punctum_area_um2": 1.122222419067931,
+    "Sum_punctum_integrated_intensity_raw": 14452.0
+  },
+  {
+    "Image_Index": 51,
+    "Cell_ID": 5,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 27,
+    "Mean_punctum_area_um2": 1.7854744397936588,
+    "Mean_punctum_integrated_intensity_raw": 26041.85185185185,
+    "Sum_punctum_area_um2": 48.20780987442879,
+    "Sum_punctum_integrated_intensity_raw": 703130.0
+  },
+  {
+    "Image_Index": 51,
+    "Cell_ID": 6,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 5,
+    "Mean_punctum_area_um2": 0.21489365471513575,
+    "Mean_punctum_integrated_intensity_raw": 3025.0,
+    "Sum_punctum_area_um2": 1.0744682735756788,
+    "Sum_punctum_integrated_intensity_raw": 15125.0
+  },
+  {
+    "Image_Index": 52,
+    "Cell_ID": 1,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 27,
+    "Mean_punctum_area_um2": 1.468439973886761,
+    "Mean_punctum_integrated_intensity_raw": 25713.222222222223,
+    "Sum_punctum_area_um2": 39.64787929494255,
+    "Sum_punctum_integrated_intensity_raw": 694257.0
+  },
+  {
+    "Image_Index": 52,
+    "Cell_ID": 2,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 26,
+    "Mean_punctum_area_um2": 1.8550648825836509,
+    "Mean_punctum_integrated_intensity_raw": 30845.615384615383,
+    "Sum_punctum_area_um2": 48.23168694717492,
+    "Sum_punctum_integrated_intensity_raw": 801986.0
+  },
+  {
+    "Image_Index": 52,
+    "Cell_ID": 3,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 19,
+    "Mean_punctum_area_um2": 0.708772054148167,
+    "Mean_punctum_integrated_intensity_raw": 11260.578947368422,
+    "Sum_punctum_area_um2": 13.466669028815174,
+    "Sum_punctum_integrated_intensity_raw": 213951.0
+  },
+  {
+    "Image_Index": 52,
+    "Cell_ID": 4,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 13,
+    "Mean_punctum_area_um2": 9.676642904843527,
+    "Mean_punctum_integrated_intensity_raw": 205995.23076923078,
+    "Sum_punctum_area_um2": 125.79635776296585,
+    "Sum_punctum_integrated_intensity_raw": 2677938.0
+  },
+  {
+    "Image_Index": 52,
+    "Cell_ID": 5,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 14,
+    "Mean_punctum_area_um2": 0.49203824908981486,
+    "Mean_punctum_integrated_intensity_raw": 7318.642857142857,
+    "Sum_punctum_area_um2": 6.888535487257408,
+    "Sum_punctum_integrated_intensity_raw": 102461.0
+  },
+  {
+    "Image_Index": 52,
+    "Cell_ID": 6,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 12,
+    "Mean_punctum_area_um2": 0.28254536082916,
+    "Mean_punctum_integrated_intensity_raw": 4007.0,
+    "Sum_punctum_area_um2": 3.3905443299499196,
+    "Sum_punctum_integrated_intensity_raw": 48084.0
+  },
+  {
+    "Image_Index": 52,
+    "Cell_ID": 7,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 3,
+    "Mean_punctum_area_um2": 0.3143814578239949,
+    "Mean_punctum_integrated_intensity_raw": 4451.666666666667,
+    "Sum_punctum_area_um2": 0.9431443734719848,
+    "Sum_punctum_integrated_intensity_raw": 13355.0
+  },
+  {
+    "Image_Index": 53,
+    "Cell_ID": 1,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 6,
+    "Mean_punctum_area_um2": 0.5631009655961429,
+    "Mean_punctum_integrated_intensity_raw": 7450.0,
+    "Sum_punctum_area_um2": 3.378605793576857,
+    "Sum_punctum_integrated_intensity_raw": 44700.0
+  },
+  {
+    "Image_Index": 53,
+    "Cell_ID": 2,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 8,
+    "Mean_punctum_area_um2": 1.656471921762505,
+    "Mean_punctum_integrated_intensity_raw": 26147.5,
+    "Sum_punctum_area_um2": 13.25177537410004,
+    "Sum_punctum_integrated_intensity_raw": 209180.0
+  },
+  {
+    "Image_Index": 53,
+    "Cell_ID": 3,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 43,
+    "Mean_punctum_area_um2": 0.5833224399954784,
+    "Mean_punctum_integrated_intensity_raw": 8099.395348837209,
+    "Sum_punctum_area_um2": 25.08286491980557,
+    "Sum_punctum_integrated_intensity_raw": 348274.0
+  },
+  {
+    "Image_Index": 53,
+    "Cell_ID": 4,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 16,
+    "Mean_punctum_area_um2": 1.0819298588088433,
+    "Mean_punctum_integrated_intensity_raw": 15100.8125,
+    "Sum_punctum_area_um2": 17.310877740941493,
+    "Sum_punctum_integrated_intensity_raw": 241613.0
+  },
+  {
+    "Image_Index": 53,
+    "Cell_ID": 5,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 13,
+    "Mean_punctum_area_um2": 0.29479001351948114,
+    "Mean_punctum_integrated_intensity_raw": 3876.846153846154,
+    "Sum_punctum_area_um2": 3.832270175753255,
+    "Sum_punctum_integrated_intensity_raw": 50399.0
+  },
+  {
+    "Image_Index": 53,
+    "Cell_ID": 6,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 3,
+    "Mean_punctum_area_um2": 0.1870370698446552,
+    "Mean_punctum_integrated_intensity_raw": 2747.6666666666665,
+    "Sum_punctum_area_um2": 0.5611112095339656,
+    "Sum_punctum_integrated_intensity_raw": 8243.0
+  },
+  {
+    "Image_Index": 54,
+    "Cell_ID": 1,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 22,
+    "Mean_punctum_area_um2": 0.7445305410837532,
+    "Mean_punctum_integrated_intensity_raw": 10565.727272727272,
+    "Sum_punctum_area_um2": 16.37967190384257,
+    "Sum_punctum_integrated_intensity_raw": 232446.0
+  },
+  {
+    "Image_Index": 54,
+    "Cell_ID": 2,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 9,
+    "Mean_punctum_area_um2": 0.15122146072546594,
+    "Mean_punctum_integrated_intensity_raw": 1962.4444444444443,
+    "Sum_punctum_area_um2": 1.3609931465291933,
+    "Sum_punctum_integrated_intensity_raw": 17662.0
+  },
+  {
+    "Image_Index": 54,
+    "Cell_ID": 3,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 23,
+    "Mean_punctum_area_um2": 1.2224023112418956,
+    "Mean_punctum_integrated_intensity_raw": 16929.869565217392,
+    "Sum_punctum_area_um2": 28.115253158563597,
+    "Sum_punctum_integrated_intensity_raw": 389387.0
+  },
+  {
+    "Image_Index": 54,
+    "Cell_ID": 4,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 16,
+    "Mean_punctum_area_um2": 0.7036274874874063,
+    "Mean_punctum_integrated_intensity_raw": 10178.625,
+    "Sum_punctum_area_um2": 11.258039799798501,
+    "Sum_punctum_integrated_intensity_raw": 162858.0
+  },
+  {
+    "Image_Index": 55,
+    "Cell_ID": 1,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 25,
+    "Mean_punctum_area_um2": 0.8719906966885287,
+    "Mean_punctum_integrated_intensity_raw": 13966.88,
+    "Sum_punctum_area_um2": 21.799767417213218,
+    "Sum_punctum_integrated_intensity_raw": 349172.0
+  },
+  {
+    "Image_Index": 55,
+    "Cell_ID": 2,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 38,
+    "Mean_punctum_area_um2": 1.3374302457928846,
+    "Mean_punctum_integrated_intensity_raw": 20286.07894736842,
+    "Sum_punctum_area_um2": 50.82234934012961,
+    "Sum_punctum_integrated_intensity_raw": 770871.0
+  },
+  {
+    "Image_Index": 55,
+    "Cell_ID": 3,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 6,
+    "Mean_punctum_area_um2": 0.3382585305701211,
+    "Mean_punctum_integrated_intensity_raw": 4810.666666666667,
+    "Sum_punctum_area_um2": 2.0295511834207267,
+    "Sum_punctum_integrated_intensity_raw": 28864.0
+  },
+  {
+    "Image_Index": 55,
+    "Cell_ID": 4,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 9,
+    "Mean_punctum_area_um2": 0.6221303954407326,
+    "Mean_punctum_integrated_intensity_raw": 10707.0,
+    "Sum_punctum_area_um2": 5.599173558966593,
+    "Sum_punctum_integrated_intensity_raw": 96363.0
+  },
+  {
+    "Image_Index": 57,
+    "Cell_ID": 1,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 26,
+    "Mean_punctum_area_um2": 0.5836107588524307,
+    "Mean_punctum_integrated_intensity_raw": 7975.653846153846,
+    "Sum_punctum_area_um2": 15.173879730163199,
+    "Sum_punctum_integrated_intensity_raw": 207367.0
+  },
+  {
+    "Image_Index": 57,
+    "Cell_ID": 2,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 37,
+    "Mean_punctum_area_um2": 0.5736950721974646,
+    "Mean_punctum_integrated_intensity_raw": 8000.783783783784,
+    "Sum_punctum_area_um2": 21.22671767130619,
+    "Sum_punctum_integrated_intensity_raw": 296029.0
+  },
+  {
+    "Image_Index": 57,
+    "Cell_ID": 3,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 28,
+    "Mean_punctum_area_um2": 0.8510470928797836,
+    "Mean_punctum_integrated_intensity_raw": 11997.5,
+    "Sum_punctum_area_um2": 23.829318600633943,
+    "Sum_punctum_integrated_intensity_raw": 335930.0
+  },
+  {
+    "Image_Index": 58,
+    "Cell_ID": 1,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 25,
+    "Mean_punctum_area_um2": 0.5945391113785423,
+    "Mean_punctum_integrated_intensity_raw": 8317.08,
+    "Sum_punctum_area_um2": 14.863477784463559,
+    "Sum_punctum_integrated_intensity_raw": 207927.0
+  },
+  {
+    "Image_Index": 58,
+    "Cell_ID": 2,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 20,
+    "Mean_punctum_area_um2": 1.718552310902433,
+    "Mean_punctum_integrated_intensity_raw": 25024.3,
+    "Sum_punctum_area_um2": 34.37104621804866,
+    "Sum_punctum_integrated_intensity_raw": 500486.0
+  },
+  {
+    "Image_Index": 58,
+    "Cell_ID": 3,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 14,
+    "Mean_punctum_area_um2": 0.8689548974393784,
+    "Mean_punctum_integrated_intensity_raw": 11774.142857142857,
+    "Sum_punctum_area_um2": 12.165368564151297,
+    "Sum_punctum_integrated_intensity_raw": 164838.0
+  },
+  {
+    "Image_Index": 58,
+    "Cell_ID": 4,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 35,
+    "Mean_punctum_area_um2": 0.8015874421913795,
+    "Mean_punctum_integrated_intensity_raw": 11222.4,
+    "Sum_punctum_area_um2": 28.055560476698282,
+    "Sum_punctum_integrated_intensity_raw": 392784.0
+  },
+  {
+    "Image_Index": 58,
+    "Cell_ID": 5,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 22,
+    "Mean_punctum_area_um2": 0.5860736037685521,
+    "Mean_punctum_integrated_intensity_raw": 8765.863636363636,
+    "Sum_punctum_area_um2": 12.893619282908146,
+    "Sum_punctum_integrated_intensity_raw": 192849.0
+  },
+  {
+    "Image_Index": 61,
+    "Cell_ID": 1,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 6,
+    "Mean_punctum_area_um2": 5.553409169536518,
+    "Mean_punctum_integrated_intensity_raw": 106401.66666666667,
+    "Sum_punctum_area_um2": 33.32045501721911,
+    "Sum_punctum_integrated_intensity_raw": 638410.0
+  },
+  {
+    "Image_Index": 61,
+    "Cell_ID": 2,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 6,
+    "Mean_punctum_area_um2": 5.404177464873229,
+    "Mean_punctum_integrated_intensity_raw": 92679.5,
+    "Sum_punctum_area_um2": 32.42506478923937,
+    "Sum_punctum_integrated_intensity_raw": 556077.0
+  },
+  {
+    "Image_Index": 61,
+    "Cell_ID": 3,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 23,
+    "Mean_punctum_area_um2": 1.5385139917286532,
+    "Mean_punctum_integrated_intensity_raw": 24007.82608695652,
+    "Sum_punctum_area_um2": 35.38582180975902,
+    "Sum_punctum_integrated_intensity_raw": 552180.0
+  },
+  {
+    "Image_Index": 61,
+    "Cell_ID": 4,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 13,
+    "Mean_punctum_area_um2": 0.8430443377286095,
+    "Mean_punctum_integrated_intensity_raw": 12590.076923076924,
+    "Sum_punctum_area_um2": 10.959576390471923,
+    "Sum_punctum_integrated_intensity_raw": 163671.0
+  },
+  {
+    "Image_Index": 61,
+    "Cell_ID": 5,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 2,
+    "Mean_punctum_area_um2": 0.04178487730572084,
+    "Mean_punctum_integrated_intensity_raw": 581.5,
+    "Sum_punctum_area_um2": 0.08356975461144169,
+    "Sum_punctum_integrated_intensity_raw": 1163.0
+  },
+  {
+    "Image_Index": 87,
+    "Cell_ID": 1,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 38,
+    "Mean_punctum_area_um2": 3.066318815818312,
+    "Mean_punctum_integrated_intensity_raw": 46799.21052631579,
+    "Sum_punctum_area_um2": 116.52011500109585,
+    "Sum_punctum_integrated_intensity_raw": 1778370.0
+  },
+  {
+    "Image_Index": 87,
+    "Cell_ID": 2,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 9,
+    "Mean_punctum_area_um2": 1.2760968878763,
+    "Mean_punctum_integrated_intensity_raw": 20324.0,
+    "Sum_punctum_area_um2": 11.484871990886699,
+    "Sum_punctum_integrated_intensity_raw": 182916.0
+  },
+  {
+    "Image_Index": 87,
+    "Cell_ID": 3,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 17,
+    "Mean_punctum_area_um2": 1.7177447040301375,
+    "Mean_punctum_integrated_intensity_raw": 26369.823529411766,
+    "Sum_punctum_area_um2": 29.201659968512338,
+    "Sum_punctum_integrated_intensity_raw": 448287.0
+  },
+  {
+    "Image_Index": 87,
+    "Cell_ID": 4,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 9,
+    "Mean_punctum_area_um2": 2.0839378491202365,
+    "Mean_punctum_integrated_intensity_raw": 30196.11111111111,
+    "Sum_punctum_area_um2": 18.755440642082128,
+    "Sum_punctum_integrated_intensity_raw": 271765.0
+  },
+  {
+    "Image_Index": 56,
+    "Cell_ID": 1,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 4,
+    "Mean_punctum_area_um2": 0.6864658414511282,
+    "Mean_punctum_integrated_intensity_raw": 9620.25,
+    "Sum_punctum_area_um2": 2.745863365804513,
+    "Sum_punctum_integrated_intensity_raw": 38481.0
+  },
+  {
+    "Image_Index": 56,
+    "Cell_ID": 2,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 28,
+    "Mean_punctum_area_um2": 1.204086668483221,
+    "Mean_punctum_integrated_intensity_raw": 19600.321428571428,
+    "Sum_punctum_area_um2": 33.71442671753019,
+    "Sum_punctum_integrated_intensity_raw": 548809.0
+  },
+  {
+    "Image_Index": 56,
+    "Cell_ID": 3,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 22,
+    "Mean_punctum_area_um2": 1.8293093687998045,
+    "Mean_punctum_integrated_intensity_raw": 33689.59090909091,
+    "Sum_punctum_area_um2": 40.2448061135957,
+    "Sum_punctum_integrated_intensity_raw": 741171.0
+  },
+  {
+    "Image_Index": 59,
+    "Cell_ID": 1,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 12,
+    "Mean_punctum_area_um2": 0.8456463264253028,
+    "Mean_punctum_integrated_intensity_raw": 12519.833333333334,
+    "Sum_punctum_area_um2": 10.147755917103634,
+    "Sum_punctum_integrated_intensity_raw": 150238.0
+  },
+  {
+    "Image_Index": 59,
+    "Cell_ID": 2,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 31,
+    "Mean_punctum_area_um2": 1.2346757294206545,
+    "Mean_punctum_integrated_intensity_raw": 21990.967741935485,
+    "Sum_punctum_area_um2": 38.27494761204029,
+    "Sum_punctum_integrated_intensity_raw": 681720.0
+  },
+  {
+    "Image_Index": 59,
+    "Cell_ID": 3,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 8,
+    "Mean_punctum_area_um2": 1.720641554767719,
+    "Mean_punctum_integrated_intensity_raw": 27322.375,
+    "Sum_punctum_area_um2": 13.765132438141752,
+    "Sum_punctum_integrated_intensity_raw": 218579.0
+  },
+  {
+    "Image_Index": 59,
+    "Cell_ID": 4,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 13,
+    "Mean_punctum_area_um2": 0.596926818653155,
+    "Mean_punctum_integrated_intensity_raw": 8848.23076923077,
+    "Sum_punctum_area_um2": 7.7600486424910144,
+    "Sum_punctum_integrated_intensity_raw": 115027.0
+  },
+  {
+    "Image_Index": 60,
+    "Cell_ID": 1,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 0,
+    "Mean_punctum_area_um2": null,
+    "Mean_punctum_integrated_intensity_raw": null,
+    "Sum_punctum_area_um2": 0.0,
+    "Sum_punctum_integrated_intensity_raw": 0.0
+  },
+  {
+    "Image_Index": 60,
+    "Cell_ID": 2,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 1,
+    "Mean_punctum_area_um2": 0.6446809641454073,
+    "Mean_punctum_integrated_intensity_raw": 9260.0,
+    "Sum_punctum_area_um2": 0.6446809641454073,
+    "Sum_punctum_integrated_intensity_raw": 9260.0
+  },
+  {
+    "Image_Index": 60,
+    "Cell_ID": 3,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 5,
+    "Mean_punctum_area_um2": 0.5611112095339656,
+    "Mean_punctum_integrated_intensity_raw": 7903.0,
+    "Sum_punctum_area_um2": 2.8055560476698282,
+    "Sum_punctum_integrated_intensity_raw": 39515.0
+  },
+  {
+    "Image_Index": 60,
+    "Cell_ID": 4,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 11,
+    "Mean_punctum_area_um2": 0.6880938236838187,
+    "Mean_punctum_integrated_intensity_raw": 12981.09090909091,
+    "Sum_punctum_area_um2": 7.569032060522005,
+    "Sum_punctum_integrated_intensity_raw": 142792.0
+  },
+  {
+    "Image_Index": 60,
+    "Cell_ID": 5,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 13,
+    "Mean_punctum_area_um2": 3.268403919363967,
+    "Mean_punctum_integrated_intensity_raw": 47504.769230769234,
+    "Sum_punctum_area_um2": 42.48925095173157,
+    "Sum_punctum_integrated_intensity_raw": 617562.0
+  },
+  {
+    "Image_Index": 60,
+    "Cell_ID": 6,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 5,
+    "Mean_punctum_area_um2": 0.22683219108819888,
+    "Mean_punctum_integrated_intensity_raw": 3007.4,
+    "Sum_punctum_area_um2": 1.1341609554409944,
+    "Sum_punctum_integrated_intensity_raw": 15037.0
+  },
+  {
+    "Image_Index": 60,
+    "Cell_ID": 7,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 19,
+    "Mean_punctum_area_um2": 2.4053009071623968,
+    "Mean_punctum_integrated_intensity_raw": 39322.94736842105,
+    "Sum_punctum_area_um2": 45.70071723608554,
+    "Sum_punctum_integrated_intensity_raw": 747136.0
+  },
+  {
+    "Image_Index": 86,
+    "Cell_ID": 1,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 14,
+    "Mean_punctum_area_um2": 2.3459223973068988,
+    "Mean_punctum_integrated_intensity_raw": 38438.71428571428,
+    "Sum_punctum_area_um2": 32.84291356229658,
+    "Sum_punctum_integrated_intensity_raw": 538142.0
+  },
+  {
+    "Image_Index": 86,
+    "Cell_ID": 2,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 2,
+    "Mean_punctum_area_um2": 0.6028960868396864,
+    "Mean_punctum_integrated_intensity_raw": 9210.0,
+    "Sum_punctum_area_um2": 1.2057921736793729,
+    "Sum_punctum_integrated_intensity_raw": 18420.0
+  },
+  {
+    "Image_Index": 86,
+    "Cell_ID": 3,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 16,
+    "Mean_punctum_area_um2": 0.6237885254925469,
+    "Mean_punctum_integrated_intensity_raw": 8424.0625,
+    "Sum_punctum_area_um2": 9.98061640788075,
+    "Sum_punctum_integrated_intensity_raw": 134785.0
+  },
+  {
+    "Image_Index": 86,
+    "Cell_ID": 4,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 12,
+    "Mean_punctum_area_um2": 0.2835402388602486,
+    "Mean_punctum_integrated_intensity_raw": 3737.6666666666665,
+    "Sum_punctum_area_um2": 3.402482866322983,
+    "Sum_punctum_integrated_intensity_raw": 44852.0
+  },
+  {
+    "Image_Index": 86,
+    "Cell_ID": 5,
+    "Group": "66DOPC33DOPG_chole_mRNA",
+    "Puncta_count": 7,
+    "Mean_punctum_area_um2": 1.4155693128060531,
+    "Mean_punctum_integrated_intensity_raw": 19639.571428571428,
+    "Sum_punctum_area_um2": 9.908985189642372,
+    "Sum_punctum_integrated_intensity_raw": 137477.0
+  }
+]

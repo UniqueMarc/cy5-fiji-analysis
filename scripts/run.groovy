@@ -21,6 +21,7 @@ def perform = {
     ['hoechstChannel','cy5Channel','singleCellOutputPixels'].each{p[it]=((Number)p[it]).intValue()}
     p.each{k,v->if(v instanceof Number && !(v instanceof Integer))p[k]=((Number)v).doubleValue()}
     if(p.splitConnectedCy5)throw new IllegalArgumentException('This release implements connected components without peak splitting; splitConnectedCy5 must be false.')
+    if(p.expansionUm!=20.0d || p.excludeNuclearInterior)throw new IllegalArgumentException('Per-cell analysis requires 20 micrometre expansion including nuclear interiors.')
     if(!(p.fixedCy5DisplayMaxRaw > p.fixedCy5DisplayMinRaw && p.fixedCy5DisplayMinRaw>=0))throw new IllegalArgumentException('Specify valid fixed Cy5 display bounds.')
     if(p.cy5DetectionSigmaPixels<0 || p.minPunctumAreaUm2<0 || p.maxPunctumAreaUm2<=p.minPunctumAreaUm2)throw new IllegalArgumentException('Invalid detection parameters')
     assert inputFolder.isDirectory():'Input folder not found'
@@ -71,6 +72,7 @@ def perform = {
     def environment=[ImageJ:ij.IJ.getVersion(),BioFormats:loci.formats.FormatTools.VERSION,Groovy:GroovySystem.version,Java:System.getProperty('java.version'),OS:System.getProperty('os.name')]
     new File(batch,'Runtime_versions.json').setText(JsonOutput.prettyPrint(JsonOutput.toJson(environment)),'UTF-8')
     new GroovyShell(this.class.classLoader,new Binding([batchDirectory:batch,minPunctumAreaUm2:p.minPunctumAreaUm2,maxPunctumAreaUm2:p.maxPunctumAreaUm2])).evaluate(new File(releaseFolder,'scripts/exact_pixels.groovy'))
+    new GroovyShell(this.class.classLoader,new Binding([batchDirectory:batch])).evaluate(new File(releaseFolder,'scripts/per_cell.groovy'))
     println('RELEASE_OUTPUT '+batch.path)
     if(!cli)ij.IJ.showMessage('Finished','Images and exact measurements saved in:\n'+batch.path+'\n\nFor wide CSV tables, run scripts/summarize.py (see README).')
     return batch
